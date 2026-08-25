@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quilt-cowboy"
+version = "1.0.0"
+description = "The cowboy: reflection loop, morning ritual, and real-time reactor."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "SuperInstance"}]
+dependencies = ["quilt-bus"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
