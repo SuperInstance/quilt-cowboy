@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320">
+  <defs>
+    <linearGradient id="dawn" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#7C2D12"/>
+    </linearGradient>
+    <linearGradient id="horse" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#92400E"/>
+      <stop offset="100%" stop-color="#3F2A0A"/>
+    </linearGradient>
+    <linearGradient id="rider" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+    <linearGradient id="ledger" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F5E6C8"/>
+      <stop offset="100%" stop-color="#D4A574"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="640" height="320" fill="#0F172A"/>
+  <!-- Stars (fading dawn) -->
+  <g fill="#FFF" opacity="0.5">
+    <circle cx="60" cy="30" r="0.8"/>
+    <circle cx="180" cy="20" r="0.6"/>
+    <circle cx="320" cy="35" r="1.0"/>
+    <circle cx="460" cy="25" r="0.7"/>
+    <circle cx="580" cy="40" r="0.9"/>
+  </g>
+  <!-- Sun rising on the right -->
+  <circle cx="540" cy="80" r="30" fill="#F59E0B" opacity="0.3"/>
+  <circle cx="540" cy="80" r="20" fill="#FBBF24" opacity="0.5" filter="url(#glow)"/>
+  <!-- Yesterday's sunset on the left -->
+  <circle cx="100" cy="80" r="20" fill="#92400E" opacity="0.4"/>
+  <text x="100" y="100" text-anchor="middle" fill="#D4A574" font-family="ui-sans-serif,system-ui" font-size="9" font-style="italic">yesterday</text>
+  <text x="540" y="120" text-anchor="middle" fill="#FBBF24" font-family="ui-sans-serif,system-ui" font-size="9" font-style="italic">today</text>
+  <!-- Hash-chained trail arcing across the sky -->
+  <g>
+    <path d="M 100 110 Q 320 30 540 110" fill="none" stroke="#FBBF24" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.6"/>
+    <!-- Hash chain nodes -->
+    <g>
+      <circle cx="100" cy="110" r="6" fill="#92400E" stroke="#FBBF24" stroke-width="1"/>
+      <text x="100" y="130" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace,monospace" font-size="6">a3f2</text>
+    </g>
+    <g>
+      <circle cx="180" cy="65" r="6" fill="#7C2D12" stroke="#FBBF24" stroke-width="1"/>
+      <text x="180" y="55" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace,monospace" font-size="6">retire</text>
+    </g>
+    <g>
+      <circle cx="260" cy="42" r="6" fill="#7C2D12" stroke="#FBBF24" stroke-width="1"/>
+      <text x="260" y="32" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace,monospace" font-size="6">promote</text>
+    </g>
+    <g>
+      <circle cx="340" cy="42" r="6" fill="#7C2D12" stroke="#FBBF24" stroke-width="1"/>
+      <text x="340" y="32" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace,monospace" font-size="6">note</text>
+    </g>
+    <g>
+      <circle cx="420" cy="60" r="6" fill="#7C2D12" stroke="#FBBF24" stroke-width="1"/>
+      <text x="420" y="50" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace,monospace" font-size="6">retire</text>
+    </g>
+    <g>
+      <circle cx="500" cy="90" r="6" fill="#7C2D12" stroke="#FBBF24" stroke-width="1"/>
+      <text x="500" y="80" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace,monospace" font-size="6">promote</text>
+    </g>
+    <g>
+      <circle cx="540" cy="110" r="6" fill="#F59E0B" stroke="#FBBF24" stroke-width="1.5"/>
+      <text x="540" y="130" text-anchor="middle" fill="#FBBF24" font-family="ui-monospace,monospace" font-size="6">b17c</text>
+    </g>
+  </g>
+  <!-- Cowboy on horse at the center -->
+  <g transform="translate(280, 180)">
+    <!-- Horse body -->
+    <ellipse cx="20" cy="40" rx="50" ry="22" fill="url(#horse)"/>
+    <!-- Horse legs -->
+    <rect x="-15" y="55" width="6" height="30" fill="url(#horse)"/>
+    <rect x="0" y="55" width="6" height="30" fill="url(#horse)"/>
+    <rect x="40" y="55" width="6" height="30" fill="url(#horse)"/>
+    <rect x="55" y="55" width="6" height="30" fill="url(#horse)"/>
+    <!-- Horse head -->
+    <ellipse cx="70" cy="20" rx="15" ry="10" fill="url(#horse)"/>
+    <rect x="80" y="14" width="20" height="4" fill="url(#horse)"/>
+    <!-- Saddle -->
+    <ellipse cx="20" cy="22" rx="22" ry="6" fill="#3F2A0A"/>
+    <!-- Rider body -->
+    <ellipse cx="20" cy="0" rx="14" ry="18" fill="url(#rider)"/>
+    <!-- Rider head -->
+    <circle cx="20" cy="-22" r="9" fill="#D4A574"/>
+    <!-- Hat -->
+    <ellipse cx="20" cy="-30" rx="14" ry="3" fill="#3F2A0A"/>
+    <path d="M 12 -30 L 12 -38 L 28 -38 L 28 -30" fill="#3F2A0A"/>
+    <!-- Ledger in hand -->
+    <g transform="translate(38, -5)">
+      <rect x="0" y="0" width="20" height="26" rx="2" fill="url(#ledger)" stroke="#92400E" stroke-width="1"/>
+      <line x1="3" y1="6" x2="17" y2="6" stroke="#92400E" stroke-width="0.5"/>
+      <line x1="3" y1="11" x2="17" y2="11" stroke="#92400E" stroke-width="0.5"/>
+      <line x1="3" y1="16" x2="17" y2="16" stroke="#92400E" stroke-width="0.5"/>
+      <line x1="3" y1="21" x2="17" y2="21" stroke="#92400E" stroke-width="0.5"/>
+    </g>
+  </g>
+  <!-- The substrate files below the rider -->
+  <g transform="translate(220, 250)">
+    <rect x="0" y="0" width="200" height="50" rx="3" fill="#1E293B" stroke="#475569" stroke-width="1" opacity="0.8"/>
+    <text x="100" y="-5" text-anchor="middle" fill="#94A3B8" font-family="ui-sans-serif,system-ui" font-size="9" font-style="italic">the rider's saddlebag</text>
+    <g font-family="ui-monospace,monospace" font-size="9" fill="#E2E8F0">
+      <text x="10" y="18">wilson.json</text>
+      <text x="10" y="32">linucb.json</text>
+      <text x="10" y="46">cowboy.jsonl</text>
+    </g>
+    <g font-family="ui-monospace,monospace" font-size="9" fill="#FBBF24">
+      <text x="105" y="18" text-anchor="end">-rw-r--r--</text>
+      <text x="105" y="32" text-anchor="end">-rw-r--r--</text>
+      <text x="105" y="46" text-anchor="end">-rw-r--r--</text>
+    </g>
+    <g font-family="ui-monospace,monospace" font-size="9" fill="#10B981">
+      <text x="195" y="18" text-anchor="end">hash-chain</text>
+      <text x="195" y="32" text-anchor="end">FNV-1a64</text>
+      <text x="195" y="46" text-anchor="end">append-only</text>
+    </g>
+  </g>
+  <!-- Title -->
+  <text x="320" y="305" text-anchor="middle" fill="#FBBF24" font-family="ui-sans-serif,system-ui" font-size="14" font-weight="600" letter-spacing="0.05em">THE RIDER · THE MORNING · THE COWBOY</text>
+</svg>
