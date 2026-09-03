@@ -40,6 +40,15 @@ OUTPUT_DIR = Path("/tmp/live-canon")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
+def fnv1a_64(s: str) -> int:
+    """FNV-1a 64-bit hash (cross-substrate byte-exact)."""
+    h = 0xCBF29CE484222325
+    for byte in s.encode("utf-8"):
+        h ^= byte
+        h = (h * 0x00000100000001B3) & 0xFFFFFFFFFFFFFFFF
+    return h
+
+
 def parse_paper(path: Path) -> Optional[Dict[str, Any]]:
     """Parse a paper.md into a dict with id, title, F-number, abstract, refs."""
     try:
@@ -85,19 +94,32 @@ def parse_paper(path: Path) -> Optional[Dict[str, Any]]:
 
 
 def paper_to_quf(paper: Dict[str, Any]) -> QufFile:
-    """Convert a paper to a 1-cell QUF."""
-    year_q = int((int(paper["date"][:4]) - 1970) / 60 * 0x7FFF) if paper["date"] != "1970-01-01" else 0
-    phase_q = int(paper["phase"] / 300 * 0x7FFF)
-    f_q = int(paper["f_number"] / 300 * 0x7FFF)
+    """Convert a paper to a 1-cell QUF (cross-substrate byte-exact with C99).
+
+    The dial encoding is:
+      0: num_q     = paper_number * 131   (500 → 0x7FFF)
+      1: title_lo  = FNV-1a(title) & 0xFFFF
+      2: f_q       = f_number * 218       (300 → 0x7FFF)
+      3: phase_q   = phase * 218          (300 → 0x7FFF)
+      4: year_q    = (year - 1970) * 546  (60  → 0x7FFF)
+      5: n_refs_q  = n_refs * 256
+      6: title_hi  = (FNV-1a(title) >> 16) & 0xFFFF
+    """
+    year = int(paper["date"][:4]) if paper["date"] != "1970-01-01" else 1970
+    year_q = (year - 1970) * 546
+    phase_q = paper["phase"] * 218
+    f_q = paper["f_number"] * 218
     n_refs_q = min(0x7FFF, (len(paper["ref_papers"]) + len(paper["ref_f_numbers"])) * 256)
-    title_q = hash(paper["title"]) & 0xFFFF
-    abstract_q = hash(paper["abstract"]) & 0xFFFF
+    title_hash = fnv1a_64(paper["title"])
+    title_q = title_hash & 0xFFFF
+    title_hi = (title_hash >> 16) & 0xFFFF
+    abstract_q = fnv1a_64(paper["abstract"]) & 0xFFFF
     paper_num = paper["number"]
-    num_q = int(paper_num / 500 * 0x7FFF) & 0xFFFF
+    num_q = (paper_num if paper_num <= 500 else 500) * 131
 
     dials = [
         num_q, title_q, f_q, phase_q, year_q,
-        n_refs_q, abstract_q, 0,
+        n_refs_q, title_hi, 0,
         0, 0, 0, 0, 0, 0, 0, 0,
     ]
 
