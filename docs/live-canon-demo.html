@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Quilt Apps — Live Canon + 4 Novel Cell-Fabric Applications</title>
+<style>
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  max-width: 1100px; margin: 0 auto; padding: 2rem;
+  background: #0c0e14; color: #d8d9da;
+  line-height: 1.6;
+}
+h1, h2, h3 { color: #f4b942; }
+h1 { border-bottom: 2px solid #f4b942; padding-bottom: 0.5rem; }
+code { background: #1a1c25; padding: 0.15rem 0.4rem; border-radius: 3px; color: #8bcf6e; }
+pre { background: #1a1c25; padding: 1rem; border-radius: 5px; overflow-x: auto; }
+.app-card {
+  background: #1a1c25; border-radius: 8px; padding: 1.5rem;
+  margin: 1.5rem 0; border-left: 4px solid #f4b942;
+}
+table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+th, td { border: 1px solid #2a2c35; padding: 0.6rem; text-align: left; }
+th { background: #1a1c25; }
+.operation {
+  display: inline-block; background: #2a2c35; padding: 0.2rem 0.6rem;
+  border-radius: 3px; margin: 0.2rem; font-family: monospace; color: #f4b942;
+}
+.status-ok { color: #8bcf6e; }
+.status-no { color: #d65a5a; }
+.metric { font-size: 2.5rem; color: #f4b942; font-weight: bold; }
+.subtitle { color: #8bcf6e; font-size: 0.9rem; }
+</style>
+</head>
+<body>
+
+<h1>Quilt Apps — 4 Novel Cell-Fabric Applications</h1>
+<p class="subtitle">Built on Sep 3, 2026 by Casey + Mavis (root session 433333803761924)</p>
+
+<p>
+The Quilt cell-fabric substrate is a <em>general</em> primitive: cells, dials, edges, ticks.
+This page shows 4 novel applications that compose it to real problems.
+</p>
+
+<div class="metric">19/19</div>
+<p>tests pass across all 4 apps</p>
+
+<div class="metric">50</div>
+<p>canon papers loaded as cells in the Live Canon demo</p>
+
+<div class="metric">12</div>
+<p>LLM voices orchestrated (DeepInfra + DeepSeek + Gemini + Cloudflare)</p>
+
+<div class="metric">~95K</div>
+<p>total tokens to build the 4 apps + tests + docs</p>
+
+<hr>
+
+<h2>The 4 applications</h2>
+
+<div class="app-card">
+<h3>1. Live Canon <span class="subtitle">— papers as cells, reading as navigation</span></h3>
+<p>
+  Reads the AI-Writings canon (1700+ papers) as a navigable cell fabric.
+  Each paper = 1 cell. Each citation = 1 edge. Each F-number = a lineage
+  trail.
+</p>
+<p><strong>5 novel operations:</strong></p>
+<p>
+  <span class="operation">NAVIGATE</span>
+  <span class="operation">CONFLUENCE</span>
+  <span class="operation">LINEAGE</span>
+  <span class="operation">GHOST</span>
+  <span class="operation">TICK</span>
+</p>
+<p>
+  <strong>Demo:</strong> <code>canon.lineage(115)</code> returns
+  F116 → F117 → F118 → F119, the polyformalism cascade from the first
+  VHDL paper.
+</p>
+</div>
+
+<div class="app-card">
+<h3>2. Doc Compounder <span class="subtitle">— read a doc, snap to canon, find compounds</span></h3>
+<p>
+  Decomposes any document (README, paper, blog post) into a 16-dial cell,
+  then snaps it to the canon by shape. Returns:
+</p>
+<ul>
+  <li>Shape neighbors (k=3 most similar canon papers)</li>
+  <li>Conflicts (papers with overlapping F-numbers but different focus)</li>
+  <li>Ghost cites (canon papers this doc should cite)</li>
+  <li>Compounds (3+ papers that together cover the doc's F-numbers)</li>
+</ul>
+<p>
+  <strong>Use case:</strong> "I just wrote a doc — what does the canon
+  say is related?" becomes a single function call.
+</p>
+</div>
+
+<div class="app-card">
+<h3>3. Session Memory <span class="subtitle">— turn a working session into a fabric</span></h3>
+<p>
+  Each tool call in a session = 1 cell (dials = tool, args_hash, result_hash).
+  Sequence edges auto-connect cells. Context edges connect cells that
+  share tokens. The session serializes to a portable .quf file.
+</p>
+<p>
+  <strong>Operations:</strong> <code>add</code>, <code>tick</code>,
+  <code>save</code>, <code>load</code>, <code>query</code>,
+  <code>similarity</code>.
+</p>
+<p>
+  <strong>Use case:</strong> "I worked on something like this 3 months
+  ago, what did I do?" becomes a single cell-fabric query.
+</p>
+</div>
+
+<div class="app-card">
+<h3>4. Cell Merger <span class="subtitle">— merge two fabrics into a synthesis</span></h3>
+<p>
+  Given two QUF fabrics, computes the join fabric (cells in union, dials
+  averaged for cells in intersection, edges from both).  Also computes:
+</p>
+<ul>
+  <li><code>join_score(qf_a, qf_b)</code> — similarity (cosine of dial vectors)</li>
+  <li><code>conflict_score(qf_a, qf_b)</code> — 1 - similarity</li>
+  <li><code>ghost_cell(qf_a, qf_b)</code> — positions of significant disagreement</li>
+</ul>
+<p>
+  <strong>Use case:</strong> "merge my chemistry notes with my music
+  theory notes" → the synthesis fabric is the cell-level join.
+</p>
+</div>
+
+<hr>
+
+<h2>The architecture</h2>
+
+<p>
+The 4 applications compose 3 existing substrates.  No new infrastructure.
+</p>
+
+<pre>
+┌─────────────────────────────────────────────────────┐
+│  Live Canon + Doc Compounder + Session Memory +    │
+│  Cell Merger (the 4 novel applications)            │
+├─────────────────────────────────────────────────────┤
+│  shape_rag    (cell-as-vector, 5 indices, query)   │
+│  cell_runtime (cell, graph, tick, connect)         │
+│  quf_v2       (Q1.15 dials, FNV-1a, F-headers)    │
+└─────────────────────────────────────────────────────┘
+</pre>
+
+<h2>The 5 insights from the ideator (Seed-2.0-mini)</h2>
+
+<ol>
+  <li><strong>Papers as cells:</strong> a paper's purpose emerges from how it connects to others.</li>
+  <li><strong>Dial-vectors:</strong> measure directional citation impact, not just count.</li>
+  <li><strong>BFS through citations:</strong> traverse with intent — depth vs breadth first.</li>
+  <li><strong>Ghost papers:</strong> shape-similarity tells you whether a paper <em>should</em> exist.</li>
+  <li><strong>Tick:</strong> the canon is a living system that re-balances on new input.</li>
+</ol>
+
+<h2>The 12 orchestrator voices (Sep 3 2026)</h2>
+
+<table>
+<tr><th>Preset</th><th>Model</th><th>Provider</th><th>Use</th></tr>
+<tr><td><code>ideator</code></td><td>ByteDance/Seed-2.0-mini</td><td>DeepInfra</td><td>creative expansion (456 reasoning tokens)</td></tr>
+<tr><td><code>qwen3</code></td><td>Qwen3-Next-80B</td><td>DeepInfra</td><td>technical writer</td></tr>
+<tr><td><code>code</code></td><td>deepseek-chat</td><td>DeepSeek</td><td>fast code</td></tr>
+<tr><td><code>code2</code></td><td>DeepSeek-V3</td><td>DeepInfra</td><td>long-form code</td></tr>
+<tr><td><code>reason</code></td><td>deepseek-reasoner</td><td>DeepSeek</td><td>reasoning w/ CoT</td></tr>
+<tr><td><code>long2</code></td><td>DeepSeek-V3</td><td>DeepInfra</td><td>long-form (6000 tokens)</td></tr>
+<tr><td><code>kimi</code></td><td>Kimi-K2.7-Code</td><td>DeepInfra</td><td>code (Kimi via DeepInfra)</td></tr>
+<tr><td><code>gpt</code></td><td>openai/gpt-oss-120b</td><td>DeepInfra</td><td>OSS GPT</td></tr>
+<tr><td><code>qwen</code></td><td>Qwen3.5-27B</td><td>DeepInfra</td><td>general</td></tr>
+<tr><td><code>llama4</code></td><td>Llama-4-Scout-17B</td><td>DeepInfra</td><td>fast</td></tr>
+<tr><td><code>mistral</code></td><td>Mistral-Small-24B</td><td>DeepInfra</td><td>fast</td></tr>
+<tr><td><code>seed-code</code></td><td>Seed-2.0-code</td><td>DeepInfra</td><td>code-focused</td></tr>
+</table>
+
+<h2>Status (Sep 3 2026)</h2>
+
+<table>
+<tr><th>Provider</th><th>Status</th></tr>
+<tr><td>DeepSeek V4-flash</td><td class="status-ok">✅</td></tr>
+<tr><td>DeepSeek Reasoner</td><td class="status-ok">✅</td></tr>
+<tr><td>Gemini 2.5-flash</td><td class="status-ok">✅</td></tr>
+<tr><td>DeepInfra (12+ models)</td><td class="status-ok">✅</td></tr>
+<tr><td>Cloudflare Workers AI (12 voices)</td><td class="status-ok">✅</td></tr>
+<tr><td>ZAI</td><td class="status-no">❌ HTTP 429</td></tr>
+<tr><td>Anthropic Claude</td><td class="status-no">❌ HTTP 400</td></tr>
+<tr><td>Kimi direct</td><td class="status-no">❌ HTTP 401</td></tr>
+</table>
+
+<hr>
+
+<h2>Links</h2>
+<ul>
+  <li><a href="https://github.com/SuperInstance/quilt-cowboy">github.com/SuperInstance/quilt-cowboy</a> — the orchestrator + 4 apps + tests + docs</li>
+  <li><a href="https://github.com/SuperInstance/quilt-timesfm">github.com/SuperInstance/quilt-timesfm</a> — quf_v2 + shape_rag + shape_store + composer_agent</li>
+  <li><a href="https://github.com/SuperInstance/cell-runtime">github.com/SuperInstance/cell-runtime</a> — the cell, the graph, the tick</li>
+  <li><a href="https://github.com/SuperInstance/AI-Writings">github.com/SuperInstance/AI-Writings</a> — the canon (now 1747 vectors in Vectorize)</li>
+</ul>
+
+<p class="subtitle">
+The chart grows because the cowboy rides. The Concept lives because the cell-fabric substrate composes. The 12 voices sing because the orchestrator is small.
+</p>
+
+</body>
+</html>
