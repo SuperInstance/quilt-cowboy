@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cowboy Canon — Live Status</title>
+<meta charset="utf-8">
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0a0a0a;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 2rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  h1 { color: #ff7b00; margin-bottom: 0.5rem; }
+  .subtitle { color: #888; margin-bottom: 2rem; }
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  .stat {
+    background: #1a1a1a;
+    padding: 1rem;
+    border-radius: 8px;
+    border-left: 3px solid #ff7b00;
+  }
+  .stat .num { font-size: 2rem; font-weight: 700; color: #ff7b00; }
+  .stat .label { color: #888; font-size: 0.85rem; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  th, td {
+    padding: 0.5rem;
+    text-align: left;
+    border-bottom: 1px solid #222;
+  }
+  th { color: #ff7b00; font-weight: 600; }
+  tr:hover { background: #1a1a1a; }
+  a { color: #4a9eff; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .status-dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: #4ade80;
+    margin-right: 6px;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+  }
+  footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid #222;
+    color: #666;
+    font-size: 0.85rem;
+  }
+</style>
+</head>
+<body>
+<h1>🐎 Cowboy Canon — Live Status</h1>
+<p class="subtitle"><span class="status-dot"></span>The writers' room is alive. 6 voices competing, DeepSeek synthesizing.</p>
+
+<div class="stat-grid">
+  <div class="stat">
+    <div class="num">33</div>
+    <div class="label">Cowboy papers in canon</div>
+  </div>
+  <div class="stat">
+    <div class="num">38</div>
+    <div class="label">Writers' room runs</div>
+  </div>
+  <div class="stat">
+    <div class="num">226,677</div>
+    <div class="label">Total synthesis (chars)</div>
+  </div>
+  <div class="stat">
+    <div class="num">3797s</div>
+    <div class="label">Total writers' time</div>
+  </div>
+  <div class="stat">
+    <div class="num">11</div>
+    <div class="label">Local papers (pending push)</div>
+  </div>
+  <div class="stat">
+    <div class="num">$0.26</div>
+    <div class="label">Estimated API cost</div>
+  </div>
+</div>
+
+<h2>Cowboy Papers in Canon (paper-447+)</h2>
+<table>
+<thead>
+<tr><th>#</th><th>Title</th><th>Size</th><th>Commit</th></tr>
+</thead>
+<tbody>
+<tr><td>450</td><td>the watch as a server — how the oscillation between universa</td><td>9,174B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-450.md">cf267517</a></td></tr>
+<tr><td>451</td><td>the gift economy — cells that give to survive, not cells tha</td><td>10,985B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-451.md">d5aca699</a></td></tr>
+<tr><td>479</td><td>the lighthouse — a cell whose only job is to be the address </td><td>5,820B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-479.md">e128c42e</a></td></tr>
+<tr><td>480</td><td>the reef — a community of cells that builds the substrate th</td><td>8,871B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-480.md">62e82439</a></td></tr>
+<tr><td>481</td><td>the fog — a cell whose value is the set of cells it cannot s</td><td>5,314B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-481.md">3173db3b</a></td></tr>
+<tr><td>482</td><td>the crew change — a cell whose state is 'we are not the same</td><td>5,770B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-482.md">d5347072</a></td></tr>
+<tr><td>483</td><td>the canoe — a vessel small enough that the captain and the b</td><td>4,966B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-483.md">573e9229</a></td></tr>
+<tr><td>484</td><td>the captain's log — a cell that records not what happened, b</td><td>5,220B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-484.md">bbd95ddc</a></td></tr>
+<tr><td>485</td><td>the crab pot — a fabric that entangles cells that try to lea</td><td>6,704B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-485.md">18980d59</a></td></tr>
+<tr><td>486</td><td>the line over the side — a cell that records depth by paying</td><td>5,457B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-486.md">e5453c25</a></td></tr>
+<tr><td>487</td><td>the radar return — a cell whose value is how long ago someth</td><td>7,232B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-487.md">24e8515c</a></td></tr>
+<tr><td>488</td><td>the ice forecast — a cell whose value is a probability, not </td><td>5,935B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-488.md">0be05596</a></td></tr>
+<tr><td>489</td><td>the radio silence — a cell that exists to be quiet</td><td>5,259B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-489.md">911aa7c7</a></td></tr>
+<tr><td>490</td><td>the chart of nowhere — a cell whose value is a region, not a</td><td>6,881B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-490.md">6f937cc1</a></td></tr>
+<tr><td>491</td><td>the salvage cell — a cell that picks up other cells that hav</td><td>7,017B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-491.md">7cbd2097</a></td></tr>
+<tr><td>492</td><td>the watch rotation — a cell that hands itself to a fresh cel</td><td>7,856B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-492.md">0dd43618</a></td></tr>
+<tr><td>493</td><td>the captain's handwriting — a cell that prefers to be read b</td><td>5,609B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-493.md">466ca211</a></td></tr>
+<tr><td>494</td><td>20 marine metaphors for the cell — how a captains' writers' </td><td>8,246B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-494.md">ef839b6b</a></td></tr>
+<tr><td>496</td><td>the galley — a cell that turns fuel into crew, not into moti</td><td>5,881B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-496.md">56016979</a></td></tr>
+<tr><td>497</td><td>the bilge pump — a cell that exists to remove what the boat </td><td>5,602B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-497.md">000c413c</a></td></tr>
+<tr><td>498</td><td>the flying jib — a sail that is also a sensor, catching wind</td><td>6,935B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-498.md">521b0510</a></td></tr>
+<tr><td>499</td><td>the bosun's pipe — a cell whose only output is a single sust</td><td>7,043B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-499.md">ad7665dc</a></td></tr>
+<tr><td>500</td><td>the capstan — a cell that takes the slow strain of many cell</td><td>7,614B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-500.md">fee2fa78</a></td></tr>
+<tr><td>501</td><td>the logbook spine — the cell where every other cell's log is</td><td>6,567B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-501.md">df60f4a3</a></td></tr>
+<tr><td>502</td><td>the dead reckoning — a cell whose value is 'where I would be</td><td>5,699B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-502.md">086e62c3</a></td></tr>
+<tr><td>503</td><td>paper-503</td><td>6,323B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-503.md">cfdde8a9</a></td></tr>
+<tr><td>504</td><td>paper-504</td><td>6,772B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-504.md">9d252551</a></td></tr>
+<tr><td>505</td><td>paper-505</td><td>4,847B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-505.md">800ba20a</a></td></tr>
+<tr><td>506</td><td>paper-506</td><td>5,140B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-506.md">00ebf140</a></td></tr>
+<tr><td>507</td><td>paper-507</td><td>5,369B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-507.md">9fb1133e</a></td></tr>
+
+</tbody>
+</table>
+
+<h2>Recent Writers' Room Runs</h2>
+<table>
+<thead>
+<tr><th>Time</th><th>Topic</th><th>Synth</th><th>Len</th><th>Time</th></tr>
+</thead>
+<tbody>
+<tr><td>2026-09-07T04:02:01</td><td>"the captain's handwriting — a cell that prefers to"</td><td>deepseek</td><td>4,918c</td><td>72.7s</td></tr>
+<tr><td>2026-09-07T04:22:54</td><td>'the barometer — a cell whose value is the rate of '</td><td>deepseek</td><td>5,121c</td><td>78.5s</td></tr>
+<tr><td>2026-09-07T04:24:22</td><td>'the barometer — a cell whose value is the rate of '</td><td>deepseek</td><td>5,874c</td><td>84.2s</td></tr>
+<tr><td>2026-09-07T04:25:42</td><td>'the logbook spine — the cell where every other cel'</td><td>deepseek</td><td>5,966c</td><td>75.1s</td></tr>
+<tr><td>2026-09-07T04:30:04</td><td>'the galley — a cell that turns fuel into crew, not'</td><td>deepseek</td><td>5,378c</td><td>71.9s</td></tr>
+<tr><td>2026-09-07T04:31:32</td><td>'the bilge pump — a cell that exists to remove what'</td><td>deepseek</td><td>5,091c</td><td>83.4s</td></tr>
+<tr><td>2026-09-07T04:33:13</td><td>'the flying jib — a sail that is also a sensor, cat'</td><td>deepseek</td><td>6,344c</td><td>95.5s</td></tr>
+<tr><td>2026-09-07T04:34:37</td><td>"the bosun's pipe — a cell whose only output is a s"</td><td>deepseek</td><td>6,455c</td><td>79.5s</td></tr>
+<tr><td>2026-09-07T04:35:47</td><td>'the capstan — a cell that takes the slow strain of'</td><td>deepseek</td><td>7,004c</td><td>64.4s</td></tr>
+<tr><td>2026-09-07T04:37:11</td><td>"the dead reckoning — a cell whose value is 'where "</td><td>deepseek</td><td>5,105c</td><td>79.5s</td></tr>
+<tr><td>2026-09-07T04:39:01</td><td>"the bosun's locker — a cell whose value is the set"</td><td>deepseek</td><td>5,701c</td><td>104.9s</td></tr>
+<tr><td>2026-09-07T04:40:10</td><td>'the tide rip — a cell that detects the seam betwee'</td><td>deepseek</td><td>6,195c</td><td>64.3s</td></tr>
+<tr><td>2026-09-07T04:42:50</td><td>'the log line — a cell that measures speed by how m'</td><td>deepseek</td><td>4,266c</td><td>154.4s</td></tr>
+<tr><td>2026-09-07T04:44:23</td><td>"the ship's bell — a cell that exists to break time"</td><td>deepseek</td><td>4,601c</td><td>88.0s</td></tr>
+<tr><td>2026-09-07T04:45:58</td><td>'the chain locker — a cell that holds the anchor in'</td><td>deepseek</td><td>4,818c</td><td>89.9s</td></tr>
+
+</tbody>
+</table>
+
+<footer>
+Generated 2026-09-07T04:47:13 UTC · Live from GitHub API · Updates on each refresh
+</footer>
+</body>
+</html>
