@@ -352,19 +352,41 @@ def daemon_loop(sleep_s: int = 5, frontier_file: str = "/workspace/quilt-cowboy/
     if not queue.exists():
         print(f"  ERROR: {frontier_file} not found", file=sys.stderr)
         return
+
+    # Track which topics we've already processed (in case the daemon restarts and the queue persists)
+    processed_topics = set()
+    proc_file = Path("/workspace/quilt-cowboy/cowboy_processed_topics.json")
+    if proc_file.exists():
+        try:
+            processed_topics = set(json.loads(proc_file.read_text()))
+        except Exception:
+            pass
+
     with open(queue) as f:
         frontiers = [json.loads(line) for line in f if line.strip()]
+
+    # Filter out already-processed topics
+    original_count = len(frontiers)
+    frontiers = [f for f in frontiers if f["topic"] not in processed_topics]
+    if original_count - len(frontiers) > 0:
+        print(f"  skipped {original_count - len(frontiers)} already-processed topics")
 
     print(f"  {len(frontiers)} frontiers queued", file=sys.stderr)
     while frontiers:
         item = frontiers.pop(0)
         topic = item["topic"]
         item_rounds = item.get("rounds", rounds)
+        # Double-check
+        if topic in processed_topics:
+            print(f"\n=== SKIPPING (already done): {topic} ===", file=sys.stderr)
+            continue
         print(f"\n=== frontier: {topic} ===", file=sys.stderr)
         try:
             out = writers_room(topic, rounds=item_rounds)
             p = save_paper(out)
             print(f"  saved: {p}", file=sys.stderr)
+            processed_topics.add(topic)
+            proc_file.write_text(json.dumps(sorted(processed_topics), indent=2))
         except Exception as e:
             print(f"  ERROR: {e}", file=sys.stderr)
         with open(queue, "w") as f:
