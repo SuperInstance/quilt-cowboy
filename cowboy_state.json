@@ -1073,6 +1073,2976 @@
       "pushed": true,
       "embedded": true,
       "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074554-the-x-track---a-cell-that-is-the-line-you-want-to-follow.md"
+    },
+    "bc84010e348f424d": {
+      "paper_num": 717,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080408-the-anemometer---a-cell-whose-value-is-the-wind-s-anger.md"
+    },
+    "4d1566da3e12a33c": {
+      "paper_num": 718,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080409-the-bass-line---a-cell-that-holds-the-song-to-the-ground.md"
+    },
+    "99b566e4599426b3": {
+      "paper_num": 719,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080454-the-bias---a-cell-that-short-circuits-the-analysis.md"
+    },
+    "2dfe9ff24bd718c4": {
+      "paper_num": 720,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080456-the-barometer---a-cell-that-weighs-the-air.md"
+    },
+    "506dbddcdd494b29": {
+      "paper_num": 721,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080636-the-cream---a-cell-that-holds-the-fat-in-suspension.md"
+    },
+    "b77cedac5fa4e34a": {
+      "paper_num": 722,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080639-the-container---a-cell-that-holds-other-cells.md"
+    },
+    "0bc2e19595854411": {
+      "paper_num": 723,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080713-the-hippocampus---a-cell-that-turns-events-into-stories.md"
+    },
+    "d5b752e403e09b45": {
+      "paper_num": 724,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080730-the-drone---a-cell-that-never-stops-singing.md"
+    },
+    "0d1037acc066c562": {
+      "paper_num": 725,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080746-the-intuition---a-cell-that-is-also-a-fast-path.md"
+    },
+    "9596351c0ee9b150": {
+      "paper_num": 726,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080747-the-fermentation---a-cell-that-is-also-a-slow-conversation.md"
+    },
+    "7fedab75d7a797e0": {
+      "paper_num": 727,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080807-the-dns---a-cell-that-names-everything.md"
+    },
+    "97a54411d983b21a": {
+      "paper_num": 728,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080810-the-memory---a-cell-that-is-not-what-happened--but-what-you.md"
+    },
+    "3d3e40e41fae3711": {
+      "paper_num": 729,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080813-the-fog---a-cell-whose-value-is-the-set-of-cells-it-cannot-s.md"
+    },
+    "3e557034bade20e1": {
+      "paper_num": 730,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080821-the-fermata---a-cell-that-is-also-a-held-breath.md"
+    },
+    "a4fab8d830662d23": {
+      "paper_num": 731,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080830-the-mirror-neuron---a-cell-that-is-also-a-bridge-between-min.md"
+    },
+    "fd20b75717ce8baf": {
+      "paper_num": 732,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080835-the-front---a-cell-where-two-air-masses-fight.md"
+    },
+    "42d8b8cc0fd8bb14": {
+      "paper_num": 733,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080850-the-fish-sauce---a-cell-that-is-also-a-bridge-between-cultur.md"
+    },
+    "ff5eb62be8db26c5": {
+      "paper_num": 734,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080854-the-environment-variable---a-cell-that-hides-secrets-in-plai.md"
+    },
+    "23b751cce496980f": {
+      "paper_num": 735,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080900-the-hail---a-cell-that-is-also-a-tiny-asteroid.md"
+    },
+    "8eea7f80cebc8cb2": {
+      "paper_num": 736,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080910-the-fond---a-cell-that-is-the-bottom-of-the-pan--but-also-th.md"
+    },
+    "e62d29833b525a48": {
+      "paper_num": 737,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080918-the-heat-index---a-cell-that-combines-heat-and-humidity.md"
+    },
+    "56f98d6a92af503e": {
+      "paper_num": 738,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080952-the-firewall---a-cell-that-decides-who-gets-through.md"
+    },
+    "2ca92d4c01c84735": {
+      "paper_num": 739,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080952-the-maillard-reaction---a-cell-that-is-the-moment-food-becom.md"
+    },
+    "8af607f327960092": {
+      "paper_num": 740,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-080953-the-synesthesia---a-cell-that-sees-the-sound.md"
+    },
+    "0b732033c2afb150": {
+      "paper_num": 741,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081001-the-minor-key---a-cell-that-makes-the-same-notes-feel-differ.md"
+    },
+    "e46f3622344f530e": {
+      "paper_num": 742,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081000-the-writer-s-room-12-voices-now.md"
+    },
+    "01de74e88ea97ab0": {
+      "paper_num": 743,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081015-the-git-commit---a-cell-that-is-also-a-scar.md"
+    },
+    "b96779cbbf6fe004": {
+      "paper_num": 744,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081019-the-lightning---a-cell-that-is-the-air-s-broken-promise.md"
+    },
+    "f5f10b9685f7788a": {
+      "paper_num": 745,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081112-the-hash-table---a-cell-that-turns-keys-into-addresses.md"
+    },
+    "7a8781f66d678f59": {
+      "paper_num": 746,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081153-the-jwt-token---a-cell-that-is-also-a-signed-envelope.md"
+    },
+    "961f31589527382f": {
+      "paper_num": 747,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081252-the-kernel---a-cell-that-runs-everything-else.md"
+    },
+    "0be82b7d834b0717": {
+      "paper_num": 748,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081351-the-load-balancer---a-cell-that-distributes-the-work.md"
+    },
+    "02ca4f85aeaa27c8": {
+      "paper_num": 749,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081408-the-mutex---a-cell-that-prevents-chaos.md"
+    },
+    "21b6dce3ee1569c5": {
+      "paper_num": 750,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081507-the-queue---a-cell-that-orders-work.md"
+    },
+    "233b9131080ea418": {
+      "paper_num": 751,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081534-the-regex---a-cell-that-is-also-a-tiny-language.md"
+    },
+    "849276aa257b154d": {
+      "paper_num": 752,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081645-the-2-5-1-progression---a-cell-that-takes-you-home.md"
+    },
+    "9ddb9246a2c6476d": {
+      "paper_num": 753,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081649-the-abandonment-wound---a-cell-that-keeps-getting-re-injured.md"
+    },
+    "a32d866756fccd37": {
+      "paper_num": 754,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081712-the-castling---a-cell-that-is-also-a-king-swap.md"
+    },
+    "f8a62bdfb832e523": {
+      "paper_num": 755,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081724-the-cognitive-dissonance---a-cell-that-holds-two-truths-at-o.md"
+    },
+    "1e0f8f3926604a92": {
+      "paper_num": 756,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081742-the-cognitive-load---a-cell-that-fills-until-it-breaks.md"
+    },
+    "6b5b57057d3b1909": {
+      "paper_num": 757,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081746-the-chloroplast---a-cell-that-eats-sunlight.md"
+    },
+    "0c8e50384ea36f5e": {
+      "paper_num": 758,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081748-the-central-bank---a-cell-that-prints-the-rules.md"
+    },
+    "7d8f435a7e9b04c0": {
+      "paper_num": 759,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081803-the-compulsion---a-cell-that-runs-on-repeat-until-the-system.md"
+    },
+    "f4d1bed7422a8565": {
+      "paper_num": 760,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081804-the-center---a-cell-that-controls-the-board.md"
+    },
+    "318f054a67d014eb": {
+      "paper_num": 761,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081827-the-tls-handshake---a-cell-that-proves-who-you-are.md"
+    },
+    "30f5a7cefc2b4524": {
+      "paper_num": 762,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081847-the-chromosome---a-cell-that-carries-the-script.md"
+    },
+    "4426a5a786a342fe": {
+      "paper_num": 763,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081857-the-dissociation---a-cell-that-is-also-a-vacation-from-yours.md"
+    },
+    "a9bd16f99dd608be": {
+      "paper_num": 764,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081857-the-exchange-rate---a-cell-that-compares-two-currencies.md"
+    },
+    "981ef1ee85361b76": {
+      "paper_num": 765,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081911-the-discovered-check---a-cell-that-is-also-a-trap.md"
+    },
+    "d01653789edb4aff": {
+      "paper_num": 766,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081914-the-fiat-currency---a-cell-that-is-also-a-shared-belief.md"
+    },
+    "7814e9c8ce905191": {
+      "paper_num": 767,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081914-the-unix-pipe---a-cell-that-connects-two-programs.md"
+    },
+    "891f58b39cd029f7": {
+      "paper_num": 768,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-081956-the-en-passant---a-cell-that-is-also-a-rule-from-another-cen.md"
+    },
+    "175121fc06844b7c": {
+      "paper_num": 769,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082022-the-hedge-fund---a-cell-that-bets-against-the-wind.md"
+    },
+    "72c9f295c526b2ca": {
+      "paper_num": 770,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082026-the-changes---a-cell-that-is-the-chord-progression.md"
+    },
+    "3506ab1b290942f9": {
+      "paper_num": 771,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082032-the-fight-flight-freeze---a-cell-that-is-the-oldest-protocol.md"
+    },
+    "6ca3f685f2215434": {
+      "paper_num": 772,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082118-the-ipo---a-cell-that-is-also-a-debut.md"
+    },
+    "b1432a06be091ff5": {
+      "paper_num": 773,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082122-the-comping---a-cell-that-is-the-rhythm-section-s-voice.md"
+    },
+    "a4c3ab8184e6cfbf": {
+      "paper_num": 774,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082138-the-liquidity---a-cell-that-flows-when-needed.md"
+    },
+    "3c7ed0d29259ad73": {
+      "paper_num": 775,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082142-the-head---a-cell-that-is-the-theme.md"
+    },
+    "0647e907e189d524": {
+      "paper_num": 776,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082143-the-king---a-cell-that-is-also-a-target.md"
+    },
+    "e62333119f3d4ac7": {
+      "paper_num": 777,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082201-the-ii-v-i---a-cell-that-is-also-a-fingerprint.md"
+    },
+    "8fc6d6652fa40a0b": {
+      "paper_num": 778,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082223-the-gene---a-cell-that-is-the-instruction.md"
+    },
+    "ffa6c480530fbf8e": {
+      "paper_num": 779,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082223-the-rumination---a-cell-that-is-the-mind-chewing-on-itself.md"
+    },
+    "20db8f46913af9dd": {
+      "paper_num": 780,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082232-the-knight---a-cell-that-moves-in-l.md"
+    },
+    "c233a31d6b181e9e": {
+      "paper_num": 781,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082240-the-modal-jazz---a-cell-that-lives-on-a-scale.md"
+    },
+    "c4b890915f9f411c": {
+      "paper_num": 782,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082243-the-mutual-fund---a-cell-that-pools-the-savings.md"
+    },
+    "d84aaf6af842410f": {
+      "paper_num": 783,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082243-the-self-sabotage---a-cell-that-is-also-a-defense.md"
+    },
+    "c3a5d606db5fb03d": {
+      "paper_num": 784,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082249-the-lysosome---a-cell-that-is-also-a-recycling-center.md"
+    },
+    "6ab48039247ab9fb": {
+      "paper_num": 785,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082252-the-pawn---a-cell-that-is-also-a-soldier.md"
+    },
+    "1b1ff31a221e36a0": {
+      "paper_num": 786,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082308-the-mitochondria---a-cell-that-is-also-a-power-plant.md"
+    },
+    "383bfcaa2828f255": {
+      "paper_num": 787,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082335-the-rhythm-changes---a-cell-that-is-also-a-giant-s-footprint.md"
+    },
+    "9f48898d7de911da": {
+      "paper_num": 788,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082339-the-option---a-cell-that-bets-on-the-future.md"
+    },
+    "00333fdc5d1a21c0": {
+      "paper_num": 789,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082403-the-queen---a-cell-that-is-also-a-wildcard.md"
+    },
+    "75dd212a76a87e38": {
+      "paper_num": 790,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082428-the-transference---a-cell-that-puts-old-people-into-new-ones.md"
+    },
+    "78d54d986a4b033e": {
+      "paper_num": 791,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082445-the-rhythm-section---a-cell-that-is-also-a-heartbeat.md"
+    },
+    "e8750bae753f231a": {
+      "paper_num": 792,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082455-the-rook---a-cell-that-is-also-a-tower.md"
+    },
+    "ea86a9810db2aca2": {
+      "paper_num": 793,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082502-the-ribosome---a-cell-that-reads-the-script.md"
+    },
+    "d7a8cd18531bcb87": {
+      "paper_num": 794,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082521-the-ribozyme---a-cell-that-is-also-a-self-replicating-molecu.md"
+    },
+    "cad57ffdc02bbb85": {
+      "paper_num": 795,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082539-the-reserve-currency---a-cell-that-is-also-a-king.md"
+    },
+    "03f6f11f9a90fbf8": {
+      "paper_num": 796,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082544-the-riff---a-cell-that-repeats-with-variation.md"
+    },
+    "fdbe16d5b07fceb7": {
+      "paper_num": 797,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082551-the-stalemate---a-cell-that-is-also-a-draw.md"
+    },
+    "76d307de06c1b97c": {
+      "paper_num": 798,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082555-the-window-of-tolerance---a-cell-that-bounds-the-system.md"
+    },
+    "8a5c6bd75aa564a7": {
+      "paper_num": 799,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082635-the-short-sale---a-cell-that-bets-on-a-fall.md"
+    },
+    "3304d318c9a1e56c": {
+      "paper_num": 800,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082639-the-rhythm-changes---a-cell-that-is-the-song.md"
+    },
+    "65dee3c506d53059": {
+      "paper_num": 801,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082640-the-zugzwang---a-cell-where-any-move-is-worse.md"
+    },
+    "d761db1e297d5f32": {
+      "paper_num": 802,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082741-the-solo-break---a-cell-that-is-also-a-dare.md"
+    },
+    "f52826f8ae08c778": {
+      "paper_num": 803,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082818-the-swing-feel---a-cell-that-pushes-the-beat.md"
+    },
+    "1c816e444c5dea99": {
+      "paper_num": 804,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082848-the-electron---a-cell-that-is-also-a-wave.md"
+    },
+    "bfb938db19c4f12e": {
+      "paper_num": 805,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082908-the-photon---a-cell-that-carries-light-but-has-no-mass.md"
+    },
+    "264be2b3ec3df0c0": {
+      "paper_num": 806,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-082940-the-neutrino---a-cell-that-passes-through-you-like-you-re-no.md"
+    },
+    "b334875989e46abc": {
+      "paper_num": 807,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083002-the-apology---a-cell-that-is-also-a-repair.md"
+    },
+    "4edced1c926cae38": {
+      "paper_num": 808,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083008-the-quark---a-cell-that-is-never-alone.md"
+    },
+    "94098c7d46a31bbe": {
+      "paper_num": 809,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083056-the-boundary---a-cell-that-says--this-far--no-further.md"
+    },
+    "cc9701400fab4461": {
+      "paper_num": 810,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083152-the-breakup---a-cell-that-splits-a-fabric-into-two.md"
+    },
+    "02b7f8493f1adec3": {
+      "paper_num": 811,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083211-the-archipelago---a-cell-that-is-also-a-constellation.md"
+    },
+    "41e787fa7df717d6": {
+      "paper_num": 812,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083235-the-codependency---a-cell-that-cannot-exist-alone.md"
+    },
+    "a86c12aec9f0a131": {
+      "paper_num": 813,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083248-the-bay---a-cell-that-the-water-has-made-an-indent.md"
+    },
+    "2b9f84593281e86c": {
+      "paper_num": 814,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083255-the-conflict---a-cell-that-is-also-a-pressure-release.md"
+    },
+    "cfc4c427587bcb73": {
+      "paper_num": 815,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083335-the-graviton---a-cell-that-is-also-a-guess.md"
+    },
+    "cce1ea21df5a6676": {
+      "paper_num": 816,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083348-the-arabesque---a-cell-that-is-also-a-balance.md"
+    },
+    "3c48a2917cb14130": {
+      "paper_num": 817,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083351-the-conversation---a-cell-that-is-also-a-dance.md"
+    },
+    "76562de455757165": {
+      "paper_num": 818,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083408-the-metaphor---a-cell-that-is-also-a-bridge.md"
+    },
+    "30df6cd6cf69b2c2": {
+      "paper_num": 819,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083436-the-ballet---a-cell-that-tells-a-story-without-words.md"
+    },
+    "20f3e7dec827ffc5": {
+      "paper_num": 820,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083611-the-canyon---a-cell-that-is-also-a-scar.md"
+    },
+    "46ea947a05ec4c32": {
+      "paper_num": 821,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083651-the-higgs-field---a-cell-that-gives-everything-else-its-weig.md"
+    },
+    "6b86aeaef249867d": {
+      "paper_num": 822,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083713-the-black-hole---a-cell-that-has-so-much-gravity-even-light.md"
+    },
+    "2af540d8b3b958ad": {
+      "paper_num": 823,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083714-the-allegory---a-cell-that-hides-one-thing-inside-another.md"
+    },
+    "186ad427859c2395": {
+      "paper_num": 824,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083730-the-distance---a-cell-that-lets-you-miss-someone.md"
+    },
+    "e4b4b9b2541f1e07": {
+      "paper_num": 825,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-083831-the-beat---a-cell-that-is-the-heart-of-the-dance.md"
+    },
+    "f8d102f6bd79bb58": {
+      "paper_num": 826,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084500-the-iceberg-200-papers-a-day.md"
+    },
+    "a6dbddceb2fb619a": {
+      "paper_num": 827,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084015-the-cape---a-cell-that-is-also-a-pointing-finger.md"
+    },
+    "61ecd75566765099": {
+      "paper_num": 828,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084046-the-divorce---a-cell-that-is-also-a-legal-scar.md"
+    },
+    "8e335688bd5e03cd": {
+      "paper_num": 829,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084058-the-event-horizon---a-cell-that-is-also-a-point-of-no-return.md"
+    },
+    "fe464d6a80c63fbc": {
+      "paper_num": 830,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084122-the-cliffhanger---a-cell-that-is-also-a-promise-to-return.md"
+    },
+    "1decd8c99d4a8129": {
+      "paper_num": 831,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084146-the-friendship---a-cell-that-is-a-chosen-neighbor.md"
+    },
+    "a49ce82cf246ba64": {
+      "paper_num": 832,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084205-the-ghosting---a-cell-that-disappears-without-telling.md"
+    },
+    "c5582634bd0050b1": {
+      "paper_num": 833,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084239-the-breakdance---a-cell-that-is-also-a-battle.md"
+    },
+    "757706ee0fb9e645": {
+      "paper_num": 834,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084401-the-cliff---a-cell-that-is-also-a-sudden-end.md"
+    },
+    "86c16e9f448e572a": {
+      "paper_num": 835,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084510-the-singularity---a-cell-that-is-also-a-divide-by-zero.md"
+    },
+    "ad567a1e73f89054": {
+      "paper_num": 836,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084528-the-honeymoon-phase---a-cell-that-is-also-a-high.md"
+    },
+    "f511d53275120cab": {
+      "paper_num": 837,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084530-the-transformer---a-cell-that-is-also-a-way-of-reading.md"
+    },
+    "7bb8b6ebc0cca45c": {
+      "paper_num": 838,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084534-the-placebo-effect---a-cell-that-heals-because-you-believe.md"
+    },
+    "e6e49761f2b4f079": {
+      "paper_num": 839,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084535-the-wormhole---a-cell-that-is-also-a-shortcut.md"
+    },
+    "1754b00f395ee0d3": {
+      "paper_num": 840,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084543-the-flashback---a-cell-that-returns-to-where-it-was.md"
+    },
+    "7f773ef5be4182f3": {
+      "paper_num": 841,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084615-the-absurd---a-cell-that-is-also-a-discovery.md"
+    },
+    "747dd0940eb1d2b4": {
+      "paper_num": 842,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084621-the-intimacy---a-cell-that-lets-you-be-seen.md"
+    },
+    "adaf02b8d0a7dca5": {
+      "paper_num": 843,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084629-the-immune-system---a-cell-that-is-also-an-army.md"
+    },
+    "37513037eb8276ae": {
+      "paper_num": 844,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084652-the-choreography---a-cell-that-is-also-a-map.md"
+    },
+    "6b807059a4db76fb": {
+      "paper_num": 845,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084718-the-long-distance-relationship---a-cell-that-is-also-a-strin.md"
+    },
+    "ea84ed4bd8f36357": {
+      "paper_num": 846,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084737-the-love-letter---a-cell-that-is-also-a-physical-memory.md"
+    },
+    "a47dceed32f98eec": {
+      "paper_num": 847,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084758-the-cossack-dance---a-cell-that-is-also-a-war-dance.md"
+    },
+    "36732312d7490579": {
+      "paper_num": 847,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084802-the-delta---a-cell-where-the-river-gives-up.md"
+    },
+    "98cf7829a8a2a3c9": {
+      "paper_num": 848,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084828-the-foreshadowing---a-cell-that-is-also-a-warning.md"
+    },
+    "4eeb1d2d32d15f98": {
+      "paper_num": 849,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084834-the-polyamory---a-cell-that-is-also-a-multi-edge-graph.md"
+    },
+    "99bfb711884910ea": {
+      "paper_num": 850,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084904-the-fandango---a-cell-that-is-also-a-flirtation.md"
+    },
+    "6a2156f777246aea": {
+      "paper_num": 851,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084917-the-gradient-descent---a-cell-that-is-also-a-downhill-walk.md"
+    },
+    "db1bc1ea1ed36a7a": {
+      "paper_num": 852,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-084945-the-spacetime---a-cell-that-is-also-a-fabric.md"
+    },
+    "fb1402a5ccff4338": {
+      "paper_num": 853,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085007-the-inflammation---a-cell-that-is-also-a-fire-alarm.md"
+    },
+    "85d3e67d12436aa4": {
+      "paper_num": 854,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085024-the-categorical-imperative---a-cell-that-is-the-rule-for-all.md"
+    },
+    "1b3d23bc94367899": {
+      "paper_num": 855,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085044-the-cogito---a-cell-that-is-the-foundation-of-knowing.md"
+    },
+    "51f2518982afca5d": {
+      "paper_num": 856,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085117-the-fever---a-cell-that-is-also-a-body-wide-warning.md"
+    },
+    "066ce0e1772dc3e9": {
+      "paper_num": 857,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085203-the-frame-narrative---a-cell-that-is-a-story-inside-a-story.md"
+    },
+    "7ea3b01d83252ef3": {
+      "paper_num": 858,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085215-the-desert---a-cell-that-is-also-a-waiting-room.md"
+    },
+    "62143a0234423fac": {
+      "paper_num": 859,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085218-the-antibiotic---a-cell-that-kills-other-cells.md"
+    },
+    "990c6fda271949fa": {
+      "paper_num": 860,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085221-the-hyperbole---a-cell-that-is-also-a-stretch.md"
+    },
+    "dc7b2a6ad9f78ad0": {
+      "paper_num": 861,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085240-the-estuary---a-cell-where-fresh-and-salt-meet.md"
+    },
+    "f7e653fc897ea8af": {
+      "paper_num": 862,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085240-the-irony---a-cell-that-means-the-opposite.md"
+    },
+    "03069d65f04c7da9": {
+      "paper_num": 863,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085300-the-oxymoron---a-cell-that-holds-two-opposites.md"
+    },
+    "35e9f1b5ae9a9d35": {
+      "paper_num": 864,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085318-the-embedding---a-cell-that-turns-words-into-numbers.md"
+    },
+    "c18e4490f5a8de16": {
+      "paper_num": 865,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085320-the-vaccine---a-cell-that-teaches-without-hurting.md"
+    },
+    "f3969a573d569ec5": {
+      "paper_num": 866,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085321-the-flamenco---a-cell-that-is-also-a-cry.md"
+    },
+    "51f729b866a37200": {
+      "paper_num": 867,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085324-the-pun---a-cell-that-lives-in-the-sound-of-words.md"
+    },
+    "1521d47cf344b5ba": {
+      "paper_num": 868,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085406-the-autoimmune-disease---a-cell-that-attacks-itself.md"
+    },
+    "f07fe3632975f263": {
+      "paper_num": 869,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085411-the-dark-matter---a-cell-that-we-know-is-there-but-cannot-se.md"
+    },
+    "634b6d5c29249776": {
+      "paper_num": 870,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085418-the-dialectic---a-cell-that-is-also-a-conversation-with-itse.md"
+    },
+    "6c644db46f39751f": {
+      "paper_num": 871,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085425-the-rhyme---a-cell-that-is-also-a-memory-aid.md"
+    },
+    "20cbcc08b79c31ab": {
+      "paper_num": 872,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085447-the-satire---a-cell-that-mocks-what-it-admires.md"
+    },
+    "484ecab879e18874": {
+      "paper_num": 873,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085517-the-existential-crisis---a-cell-that-is-also-a-wake-up-call.md"
+    },
+    "5f3c50ec526f476b": {
+      "paper_num": 874,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085529-the-simile---a-cell-that-is-also-a-comparison.md"
+    },
+    "7fbd862f1faf2716": {
+      "paper_num": 875,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085539-the-free-will---a-cell-that-is-also-an-illusion-we-can-t-sha.md"
+    },
+    "b4418e825e170265": {
+      "paper_num": 876,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085603-the-fjord---a-cell-that-is-also-a-long-wound.md"
+    },
+    "e7b918219dd625f6": {
+      "paper_num": 877,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085705-the-glacier---a-cell-that-is-also-a-frozen-river.md"
+    },
+    "664de8e6c5ed1046": {
+      "paper_num": 878,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085712-the-dark-energy---a-cell-that-makes-the-universe-expand-fast.md"
+    },
+    "d77c3ae4155f82dd": {
+      "paper_num": 879,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085714-the-loss-function---a-cell-that-is-also-a-judge.md"
+    },
+    "0167bfebdab29bbe": {
+      "paper_num": 880,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085726-the-fouett\u00e9---a-cell-that-turns-in-place.md"
+    },
+    "267fcec596eda8af": {
+      "paper_num": 881,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085746-the-chronic-pain---a-cell-that-won-t-stop-talking.md"
+    },
+    "2b51f797a6500ff5": {
+      "paper_num": 882,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085809-the-island---a-cell-that-is-also-a-surrounded-thing.md"
+    },
+    "aab520609ec22e55": {
+      "paper_num": 883,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085826-the-marsh---a-cell-that-is-also-a-wet-conversation.md"
+    },
+    "d61e543c28525173": {
+      "paper_num": 884,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085858-the-symbolism---a-cell-that-is-also-a-stand-in.md"
+    },
+    "06a202dbb48eae24": {
+      "paper_num": 885,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085906-the-axe---a-cell-that-is-also-a-permission-slip.md"
+    },
+    "1c61d8a78e06972d": {
+      "paper_num": 886,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085919-the-bonsai---a-cell-that-is-also-a-miniature-tree.md"
+    },
+    "fe30417501d4b828": {
+      "paper_num": 887,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085923-the-twist-ending---a-cell-that-is-also-a-reversal.md"
+    },
+    "ca3a8804d501dd76": {
+      "paper_num": 888,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085925-the-mountain---a-cell-that-is-also-a-standing-wave.md"
+    },
+    "8fc4751c7b0d2de9": {
+      "paper_num": 889,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085934-the-herd-instinct---a-cell-that-is-also-a-survival-strategy.md"
+    },
+    "cced57a08d7d9fa8": {
+      "paper_num": 890,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-085947-the-bias-tape---a-cell-that-is-also-a-fold.md"
+    },
+    "12a6fe148c7e5eab": {
+      "paper_num": 891,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090029-the-infinite---a-cell-that-is-also-a-number-without-an-end.md"
+    },
+    "88bc5f1abab3d5ca": {
+      "paper_num": 892,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090035-the-cosmic-microwave-background---a-cell-that-is-also-the-fi.md"
+    },
+    "fa4f40f04ccdcc40": {
+      "paper_num": 893,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090041-the-bobbin---a-cell-that-holds-the-lower-thread.md"
+    },
+    "ca4b2e85e22a6c4a": {
+      "paper_num": 894,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090055-the-meaning-of-life---a-cell-that-is-also-a-question-that-as.md"
+    },
+    "2856ed84c968b5ae": {
+      "paper_num": 895,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090115-the-tokenizer---a-cell-that-chops-the-text.md"
+    },
+    "2c7c8ada2a8c96b7": {
+      "paper_num": 896,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090131-the-supernova---a-cell-that-ends-with-a-bang.md"
+    },
+    "6c97d7b659d018d4": {
+      "paper_num": 897,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090137-the-grand-jet\u00e9---a-cell-that-is-also-a-leap-of-faith.md"
+    },
+    "bfcf2746d29628fb": {
+      "paper_num": 898,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090158-the-migraine---a-cell-that-is-also-a-storm.md"
+    },
+    "8c76b229e6f29ec3": {
+      "paper_num": 899,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090206-the-pirouette---a-cell-that-is-also-a-spin.md"
+    },
+    "3b63d14f6f50a428": {
+      "paper_num": 900,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090212-the-temperature---a-cell-that-is-also-a-creativity-dial.md"
+    },
+    "5d9d0afb1416c3b7": {
+      "paper_num": 901,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090231-the-depression---a-cell-that-is-also-a-heavy-fog.md"
+    },
+    "900fc07049c47105": {
+      "paper_num": 902,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090242-the-compost---a-cell-that-is-also-a-transformation.md"
+    },
+    "04dae0ab526842ae": {
+      "paper_num": 903,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090303-the-polka---a-cell-that-is-also-a-hop.md"
+    },
+    "e2d8650fd7b7a8b2": {
+      "paper_num": 904,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090308-the-button---a-cell-that-is-also-a-fastener.md"
+    },
+    "3c781e786d00376d": {
+      "paper_num": 905,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090309-the-attention-head---a-cell-that-decides-what-to-look-at.md"
+    },
+    "884a017b2e4a27a1": {
+      "paper_num": 906,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090310-the-cover-crop---a-cell-that-protects-the-soil.md"
+    },
+    "5fdb547acd987768": {
+      "paper_num": 907,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090314-the-oasis---a-cell-that-is-also-a-promise-in-the-desert.md"
+    },
+    "b889ca0f67c2c876": {
+      "paper_num": 908,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090326-the-chisel---a-cell-that-is-also-a-precision-strike.md"
+    },
+    "0ad36807308f7499": {
+      "paper_num": 909,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090356-the-salsa---a-cell-that-is-also-a-turn.md"
+    },
+    "651410233fa323d4": {
+      "paper_num": 909,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090411-the-feed-forward---a-cell-that-thinks-after-listening.md"
+    },
+    "59b4e458608fa507": {
+      "paper_num": 910,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090414-the-noumenon---a-cell-that-is-the-thing-in-itself.md"
+    },
+    "f862366c6fbe6038": {
+      "paper_num": 911,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090426-the-tango---a-cell-that-is-also-a-duel.md"
+    },
+    "acea72514041a571": {
+      "paper_num": 912,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090510-the-phenomenology---a-cell-that-is-the-study-of-experience.md"
+    },
+    "f87ff25f8a1062d0": {
+      "paper_num": 913,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090512-the-layer-norm---a-cell-that-keeps-the-system-from-blowing-u.md"
+    },
+    "488d455dd94c761a": {
+      "paper_num": 914,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090544-the-waltz---a-cell-that-is-also-a-spin-in-3-4-time.md"
+    },
+    "2d781aa4dec1d380": {
+      "paper_num": 915,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090604-the-dandelion---a-cell-that-is-also-a-survivor.md"
+    },
+    "3f5abc3d2385144b": {
+      "paper_num": 916,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090617-the-platonic-form---a-cell-that-is-also-a-perfect-blueprint.md"
+    },
+    "a43724cb75bc91d6": {
+      "paper_num": 917,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090619-the-dropout---a-cell-that-is-also-a-way-of-forgetting.md"
+    },
+    "0e461fb56ee0f31a": {
+      "paper_num": 918,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090631-the-dye---a-cell-that-is-also-a-commitment-to-color.md"
+    },
+    "51000de994079c9b": {
+      "paper_num": 919,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090636-the-anesthesia---a-cell-that-puts-the-mind-to-sleep.md"
+    },
+    "a48da5a3ee32ee67": {
+      "paper_num": 920,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090637-the-peninsula---a-cell-that-is-almost-an-island.md"
+    },
+    "f836dc1193312e22": {
+      "paper_num": 921,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090641-the-primordial-soup---a-cell-that-is-also-a-beginning.md"
+    },
+    "e7951bdb1ac92fa7": {
+      "paper_num": 922,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090655-the-residual-connection---a-cell-that-is-also-a-shortcut.md"
+    },
+    "b1ec573f30c48b6a": {
+      "paper_num": 923,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090656-the-espalier---a-cell-that-is-also-a-tree-trained-to-a-wall.md"
+    },
+    "20dc6234011b64fd": {
+      "paper_num": 924,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090717-the-hammer---a-cell-that-hits.md"
+    },
+    "733790b49cd72118": {
+      "paper_num": 925,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090824-the-weight---a-cell-that-is-also-a-memory.md"
+    },
+    "cdbef6dd943f2554": {
+      "paper_num": 926,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090856-the-board-meeting---a-cell-that-is-also-a-quarterly-ritual.md"
+    },
+    "941640a8314ca885": {
+      "paper_num": 927,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090920-the-tabula-rasa---a-cell-that-is-also-a-blank-slate.md"
+    },
+    "48167d83580fc68b": {
+      "paper_num": 928,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090924-the-bias---a-cell-that-is-also-a-default-assumption.md"
+    },
+    "87a4ef3cae2c959b": {
+      "paper_num": 929,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090951-the-brand---a-cell-that-is-also-a-promise-in-the-customer-s.md"
+    },
+    "5ce057e295136006": {
+      "paper_num": 930,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091008-the-placebo---a-cell-that-works-because-it-should.md"
+    },
+    "0cb369294d364d82": {
+      "paper_num": 931,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091024-the-embroidery---a-cell-that-is-also-a-memory-in-thread.md"
+    },
+    "1535c84bafb22d99": {
+      "paper_num": 932,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091028-the-gut-microbiome---a-cell-that-is-also-a-city-of-bacteria.md"
+    },
+    "f8fef8c374e60a78": {
+      "paper_num": 933,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091033-the-aurora---a-cell-that-is-also-a-sky-fire.md"
+    },
+    "e15a96ef62e21a6f": {
+      "paper_num": 934,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091056-the-fruit---a-cell-that-is-also-a-bribe-for-the-animals.md"
+    },
+    "58c4da7febc80406": {
+      "paper_num": 935,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091105-the-synapse---a-cell-that-is-also-a-hand-off.md"
+    },
+    "dbf7eb97ce11eb4a": {
+      "paper_num": 936,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091120-the-fabric---a-cell-that-is-also-a-sheet-of-cells.md"
+    },
+    "d298095f43a24189": {
+      "paper_num": 937,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091125-the-lathe---a-cell-that-is-also-a-spinning-sculptor.md"
+    },
+    "3dc7dc4e2dd5c35d": {
+      "paper_num": 938,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091142-the-white-blood-cell---a-cell-that-is-also-a-soldier.md"
+    },
+    "53c9424ba466bcd0": {
+      "paper_num": 939,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091152-the-grafting---a-cell-that-is-also-a-union.md"
+    },
+    "f73ed5d0e48a337b": {
+      "paper_num": 940,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091207-the-anansi---a-cell-that-is-also-a-trickster.md"
+    },
+    "3830ca25275038f1": {
+      "paper_num": 941,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091214-the-arch---a-cell-that-is-also-a-graceful-solution.md"
+    },
+    "a31c0f41cff11f0b": {
+      "paper_num": 942,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091222-the-level---a-cell-that-says-which-way-is-down.md"
+    },
+    "92f6f64cbf63f3ed": {
+      "paper_num": 943,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091224-the-rlhf---a-cell-that-is-also-a-teacher.md"
+    },
+    "dc54076942a2b69f": {
+      "paper_num": 944,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091232-the-atrium---a-cell-that-is-also-an-open-heart.md"
+    },
+    "73bd693f4840a790": {
+      "paper_num": 945,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091253-the-balcony---a-cell-that-is-also-a-public-breath.md"
+    },
+    "bab78b72a04eac36": {
+      "paper_num": 946,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091312-the-brick---a-cell-that-is-also-a-small-unit-of-mass.md"
+    },
+    "477428a469784655": {
+      "paper_num": 947,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091314-the-budget---a-cell-that-is-also-a-constraint.md"
+    },
+    "ba09eea365e5d425": {
+      "paper_num": 948,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091317-the-hallucination---a-cell-that-is-also-a-confident-lie.md"
+    },
+    "6491fc992f16d839": {
+      "paper_num": 949,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091327-the-will-to-power---a-cell-that-wants-to-grow.md"
+    },
+    "1f8a4aa138ea2cd5": {
+      "paper_num": 950,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091334-the-cantilever---a-cell-that-reaches-without-support.md"
+    },
+    "f8ef14d885a7e21e": {
+      "paper_num": 951,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091337-the-bureaucracy---a-cell-that-is-also-a-giant-ant-colony.md"
+    },
+    "2a5b4bef75666ad3": {
+      "paper_num": 952,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091356-the-ceo---a-cell-that-is-also-a-captain.md"
+    },
+    "4f3398f783eb04c9": {
+      "paper_num": 953,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091402-the-calm---a-cell-that-is-also-a-held-breath.md"
+    },
+    "adabaffa1c1ae592": {
+      "paper_num": 954,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091422-the-cirrus---a-cell-that-is-also-a-high-wisp.md"
+    },
+    "ea90a200e67be32e": {
+      "paper_num": 955,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091433-the-column---a-cell-that-is-also-a-vertical-idea.md"
+    },
+    "7f6d97aff39f2852": {
+      "paper_num": 956,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091440-the-competitor---a-cell-that-is-also-a-parallel-captain.md"
+    },
+    "2ede06fba3907dab": {
+      "paper_num": 957,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091447-the-knit---a-cell-that-is-also-a-loop.md"
+    },
+    "201350602c8a10fa": {
+      "paper_num": 958,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091518-the-cumulus---a-cell-that-is-also-a-puffy-mountain.md"
+    },
+    "2b778241e8fa157a": {
+      "paper_num": 959,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091526-the-pliers---a-cell-that-is-also-a-grip.md"
+    },
+    "ab243fab858d4c2c": {
+      "paper_num": 960,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091531-the-humus---a-cell-that-is-also-a-memory-of-life.md"
+    },
+    "3ad7032a3b5dcdb9": {
+      "paper_num": 961,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091541-the-contract---a-cell-that-is-also-a-binding.md"
+    },
+    "e1d3c7656a42c673": {
+      "paper_num": 962,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091557-the-cyclone---a-cell-that-is-also-a-giant-pinwheel.md"
+    },
+    "75d004f95d196364": {
+      "paper_num": 963,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091607-the-apollo---a-cell-that-is-also-a-sun.md"
+    },
+    "ce2f15195c986345": {
+      "paper_num": 964,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091628-the-ares---a-cell-that-is-also-a-war.md"
+    },
+    "78638bd18aeb31f3": {
+      "paper_num": 965,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091653-the-dew---a-cell-that-is-also-a-morning-gift.md"
+    },
+    "173b49da73e59966": {
+      "paper_num": 966,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091802-the-athena---a-cell-that-is-also-a-wise-general.md"
+    },
+    "7ca66708538ebf72": {
+      "paper_num": 967,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091819-the-dome---a-cell-that-is-also-a-thought-reaching-up.md"
+    },
+    "e484a204e2e54b5e": {
+      "paper_num": 968,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091838-the-facade---a-cell-that-is-also-a-face.md"
+    },
+    "2c813c593967ef9c": {
+      "paper_num": 969,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091914-the-loom---a-cell-that-is-also-a-weaver-s-tool.md"
+    },
+    "5aad25e498070aef": {
+      "paper_num": 970,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091914-the-mulch---a-cell-that-is-also-a-blanket.md"
+    },
+    "7a6c2defd16f2cb7": {
+      "paper_num": 971,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091917-the-screwdriver---a-cell-that-twists.md"
+    },
+    "fd1dd72fd4fea9e4": {
+      "paper_num": 972,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091932-the-pattern---a-cell-that-is-also-a-template.md"
+    },
+    "9973a338da90bb59": {
+      "paper_num": 973,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091933-the-mycorrhiza---a-cell-that-is-also-an-underground-internet.md"
+    },
+    "67573b3cea3979f1": {
+      "paper_num": 974,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091943-the-customer---a-cell-that-is-also-the-captain-s-reason.md"
+    },
+    "98e830c2c8913528": {
+      "paper_num": 975,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091950-the-quilting---a-cell-that-holds-the-layers-together.md"
+    },
+    "5a8130730730e726": {
+      "paper_num": 976,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-091956-the-drizzle---a-cell-that-is-also-a-half-rain.md"
+    },
+    "0b9d313b7bdf3d52": {
+      "paper_num": 977,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092001-the-disruption---a-cell-that-is-also-a-giant-wave.md"
+    },
+    "61dcacf105f28eae": {
+      "paper_num": 978,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092016-the-el-ni\u00f1o---a-cell-that-is-also-a-global-mood.md"
+    },
+    "87061f1c9d79ca32": {
+      "paper_num": 979,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092021-the-equity---a-cell-that-is-also-a-stake.md"
+    },
+    "7a63b6bb70510be1": {
+      "paper_num": 980,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092045-the-exit---a-cell-that-is-also-a-departure.md"
+    },
+    "96afba16f03c0133": {
+      "paper_num": 981,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092053-the-dionysus---a-cell-that-is-also-a-wild-feast.md"
+    },
+    "93f2f12fdfaf10a2": {
+      "paper_num": 982,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092150-the-freyja---a-cell-that-is-also-a-love-and-war.md"
+    },
+    "03dca27a9f93e4ad": {
+      "paper_num": 983,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092210-the-foundation---a-cell-that-is-also-a-memory.md"
+    },
+    "8301dd7a259d6ab0": {
+      "paper_num": 984,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-090000-the-10-frontier-drain-382-papers-today.md"
+    },
+    "6c16732d6b7371d9": {
+      "paper_num": 985,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092252-the-hermes---a-cell-that-is-also-a-messenger.md"
+    },
+    "6c67e932161c4279": {
+      "paper_num": 986,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092254-the-saw---a-cell-that-cuts-teeth.md"
+    },
+    "a64879300b89da5f": {
+      "paper_num": 987,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092313-the-sewing-needle---a-cell-that-is-also-a-tiny-punch.md"
+    },
+    "9537e7ece699fb8c": {
+      "paper_num": 988,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092331-the-permafrost---a-cell-that-is-also-a-frozen-memory.md"
+    },
+    "c58c7b0edc07d668": {
+      "paper_num": 989,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092346-the-frost---a-cell-that-is-also-a-cold-painting.md"
+    },
+    "8d37943ba77a806a": {
+      "paper_num": 990,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092347-the-iris---a-cell-that-is-also-a-rainbow-bridge.md"
+    },
+    "0f8f8c44441e135b": {
+      "paper_num": 991,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092353-the-shovel---a-cell-that-is-also-a-hand-extended.md"
+    },
+    "dd951f822e5dd684": {
+      "paper_num": 992,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092408-the-gust---a-cell-that-is-also-a-sudden-push.md"
+    },
+    "219904369fbdb17f": {
+      "paper_num": 993,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092409-the-seam---a-cell-that-joins-two-pieces.md"
+    },
+    "7ea899ee881cff5a": {
+      "paper_num": 994,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092421-the-founder---a-cell-that-is-also-a-creator.md"
+    },
+    "e7622166e87ea26b": {
+      "paper_num": 995,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092428-the-humidity---a-cell-that-is-also-a-wet-hug.md"
+    },
+    "fb140159f2ec8497": {
+      "paper_num": 996,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092436-the-root---a-cell-that-is-also-the-anchor.md"
+    },
+    "b1757aa8e7b8ac03": {
+      "paper_num": 997,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092450-the-inversion---a-cell-where-the-air-is-upside-down.md"
+    },
+    "fb6d9db17a2979bd": {
+      "paper_num": 998,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092509-the-jet-stream---a-cell-that-is-also-a-fast-river.md"
+    },
+    "da53d3c2e11bb1b0": {
+      "paper_num": 999,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092512-the-loki---a-cell-that-is-also-a-shape-shifter.md"
+    },
+    "77dfeebf6e5b07ca": {
+      "paper_num": 1000,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092518-the-selvage---a-cell-that-is-also-an-edge.md"
+    },
+    "25d71679b9c7728c": {
+      "paper_num": 1001,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092538-the-foyer---a-cell-that-is-also-a-welcome.md"
+    },
+    "607ed286a506abaf": {
+      "paper_num": 1002,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092602-the-gargoyle---a-cell-that-is-also-a-watcher.md"
+    },
+    "9b4c308507625011": {
+      "paper_num": 1003,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092616-the-odin---a-cell-that-is-also-a-one-eyed-father.md"
+    },
+    "af13e12979e63170": {
+      "paper_num": 1004,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092656-the-osiris---a-cell-that-is-also-a-death-and-rebirth.md"
+    },
+    "8d279e84bab8114a": {
+      "paper_num": 1005,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092703-the-keystone---a-cell-that-is-also-the-final-piece.md"
+    },
+    "df35b3b20d78d013": {
+      "paper_num": 1006,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092709-the-seed-bank---a-cell-that-is-also-a-vault.md"
+    },
+    "286d6bdf1110663b": {
+      "paper_num": 1007,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092721-the-persephone---a-cell-that-is-also-a-season.md"
+    },
+    "19b86039827b1514": {
+      "paper_num": 1008,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092742-the-air-filter---a-cell-that-lets-the-engine-breathe-clean.md"
+    },
+    "c5f188deea67cb02": {
+      "paper_num": 1009,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092800-the-tape-measure---a-cell-that-is-also-a-length-of-memory.md"
+    },
+    "9746178121124499": {
+      "paper_num": 1010,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092803-the-alternator---a-cell-that-is-also-a-heart.md"
+    },
+    "4b1a5623b68c55eb": {
+      "paper_num": 1011,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092806-the-topiary---a-cell-that-is-also-a-haircut-for-a-tree.md"
+    },
+    "21aa0d63ef80fc1a": {
+      "paper_num": 1012,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092823-the-dream-within-a-dream---a-cell-that-is-also-a-recursion.md"
+    },
+    "f5542a51c794e69b": {
+      "paper_num": 1013,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092855-the-investor---a-cell-that-is-also-a-fuel-source.md"
+    },
+    "ccdc2cc90613f085": {
+      "paper_num": 1014,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092918-the-thread---a-cell-that-is-also-a-long-string.md"
+    },
+    "6d96cca0bddf4bb2": {
+      "paper_num": 1015,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092930-the-leeward---a-cell-that-is-also-a-sheltered-side.md"
+    },
+    "f4714ab42aa02c8f": {
+      "paper_num": 1016,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-092949-the-squall---a-cell-that-is-also-a-sudden-rage.md"
+    },
+    "d46a692748fbd2ec": {
+      "paper_num": 1017,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093016-the-velvet---a-cell-that-is-also-a-soft-pile.md"
+    },
+    "72bf853014153a7f": {
+      "paper_num": 1018,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093121-the-parapet---a-cell-that-is-also-a-low-wall.md"
+    },
+    "e1e76a3963d0df09": {
+      "paper_num": 1019,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093124-the-battery---a-cell-that-holds-a-charge.md"
+    },
+    "eed56001cc69e889": {
+      "paper_num": 1020,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093139-the-thor---a-cell-that-is-also-a-thunder.md"
+    },
+    "a388b656be8487a2": {
+      "paper_num": 1021,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093145-the-brake-caliper---a-cell-that-squeezes.md"
+    },
+    "eb5640dae04b5f36": {
+      "paper_num": 1022,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093154-the-vice---a-cell-that-holds-the-work-still.md"
+    },
+    "3ca0ab0bbf0993db": {
+      "paper_num": 1023,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093159-the-pivot---a-cell-that-is-also-a-turn.md"
+    },
+    "a2188d3d49901cab": {
+      "paper_num": 1024,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093207-the-carburetor---a-cell-that-mixes-fuel-and-air.md"
+    },
+    "273b091946a6f468": {
+      "paper_num": 1025,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093223-the-weed---a-cell-that-is-also-a-plant-in-the-wrong-place.md"
+    },
+    "871f872581766c38": {
+      "paper_num": 1026,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093237-the-triton---a-cell-that-is-also-a-sea-messenge.md"
+    },
+    "87283637d5b3809c": {
+      "paper_num": 1027,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093240-the-false-awakening---a-cell-that-fools-you-into-thinking-yo.md"
+    },
+    "08a4a267dcff9170": {
+      "paper_num": 1028,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093307-the-catalytic-converter---a-cell-that-is-also-a-clean-up-cre.md"
+    },
+    "78faa4d1b1675045": {
+      "paper_num": 1029,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093331-the-flying-dream---a-cell-that-says-you-can.md"
+    },
+    "af2256fca84c0f87": {
+      "paper_num": 1030,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093419-the-zipper---a-cell-that-is-also-two-rows-of-teeth.md"
+    },
+    "9beb95ec914141f9": {
+      "paper_num": 1031,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093427-the-lucid-dream---a-cell-where-you-are-also-the-director.md"
+    },
+    "462803eab91ba56f": {
+      "paper_num": 1032,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093444-the-nightmare---a-cell-that-is-also-a-warning-system.md"
+    },
+    "f9b57157620c7c29": {
+      "paper_num": 1033,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093523-the-portico---a-cell-that-is-also-a-columned-porch.md"
+    },
+    "f0bfac9274bd2615": {
+      "paper_num": 1034,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093619-the-startup---a-cell-that-is-also-a-small-ship.md"
+    },
+    "fb2f073d1b83ad38": {
+      "paper_num": 1035,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093625-the-welding-torch---a-cell-that-is-also-a-marriage.md"
+    },
+    "6f4c36a7e8a3387b": {
+      "paper_num": 1036,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093634-the-spiral-staircase---a-cell-that-is-also-a-vertical-journe.md"
+    },
+    "5e8d3d653099bdf3": {
+      "paper_num": 1037,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093650-the-wrench---a-cell-that-is-also-a-grip-on-the-world.md"
+    },
+    "fd0ad49545a52599": {
+      "paper_num": 1038,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093704-the-clutch---a-cell-that-is-also-a-handshake.md"
+    },
+    "0be76aa65b11ea3f": {
+      "paper_num": 1039,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093726-the-zeus---a-cell-that-is-also-a-thunderer.md"
+    },
+    "173b914b51450eae": {
+      "paper_num": 1040,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093803-the-crankshaft---a-cell-that-turns-the-pistons-into-rotation.md"
+    },
+    "31f91487a143f152": {
+      "paper_num": 1041,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093804-the-recurring-dream---a-cell-that-won-t-let-you-forget.md"
+    },
+    "3c491d5216721db3": {
+      "paper_num": 1042,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093826-the-cylinder---a-cell-that-is-also-a-chamber.md"
+    },
+    "c0b71931e1c16bb1": {
+      "paper_num": 1043,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-093933-the-differential---a-cell-that-lets-the-wheels-turn-at-diffe.md"
+    },
+    "2306ab4f6db8ead0": {
+      "paper_num": 1044,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094014-the-yardstick---a-cell-that-is-also-a-unit-of-measure.md"
+    },
+    "286c820c26286197": {
+      "paper_num": 1045,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094034-the-driveshaft---a-cell-that-is-also-a-long-arm.md"
+    },
+    "cd48d7beebdadeed": {
+      "paper_num": 1046,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094218-the-shared-dream---a-cell-that-is-also-a-bridge-between-mind.md"
+    },
+    "0edb976aa638da5e": {
+      "paper_num": 1047,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094324-the-auteur---a-cell-that-is-also-a-fingerprint.md"
+    },
+    "4d2aadd43ead7ac1": {
+      "paper_num": 1048,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094351-the-abyssopelagic-zone---a-cell-that-is-also-the-midnight-la.md"
+    },
+    "a2be70ab5f9841ee": {
+      "paper_num": 1049,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094407-the-fuel-injector---a-cell-that-is-also-a-precise-squirt.md"
+    },
+    "4e3de2f48d6d9f92": {
+      "paper_num": 1050,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094533-the-dream-catcher---a-cell-that-is-also-a-filter.md"
+    },
+    "0f21277f3811c996": {
+      "paper_num": 1051,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094553-the-dream-journal---a-cell-that-is-also-a-memory-aid.md"
+    },
+    "dc319d0efffeaff6": {
+      "paper_num": 1052,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094614-the-agricultural-revolution---a-cell-that-changed-everything.md"
+    },
+    "d13fc811dda825e3": {
+      "paper_num": 1053,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094625-the-bathypelagic-zone---a-cell-that-lives-in-the-dark.md"
+    },
+    "d7a1c95ac25333d0": {
+      "paper_num": 1054,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094644-the-benthic-zone---a-cell-that-is-also-the-bottom.md"
+    },
+    "b3a3502f403ae538": {
+      "paper_num": 1055,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094655-the-dream-interpretation---a-cell-that-is-also-a-translation.md"
+    },
+    "e917694118eb6bb8": {
+      "paper_num": 1056,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094713-the-piston---a-cell-that-is-also-a-small-hammer.md"
+    },
+    "56548a8f08b39450": {
+      "paper_num": 1057,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094715-the-cliffhanger---a-cell-that-is-also-a-cliff-edge.md"
+    },
+    "8ffc1b1914e34803": {
+      "paper_num": 1058,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094727-the-bioluminescence---a-cell-that-is-also-a-cold-light.md"
+    },
+    "35db8f28daf4bfc0": {
+      "paper_num": 1059,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094735-the-radiator---a-cell-that-is-also-a-heat-sink.md"
+    },
+    "d91f85febfc1d254": {
+      "paper_num": 1060,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094809-the-cut---a-cell-that-is-also-a-decision.md"
+    },
+    "ea67d9be8d7de238": {
+      "paper_num": 1061,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094841-the-documentary---a-cell-that-is-also-a-window.md"
+    },
+    "f4c437a8182cf0f9": {
+      "paper_num": 1062,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094846-the-continental-shelf---a-cell-that-is-also-the-world-s-edge.md"
+    },
+    "1c6af83123900e86": {
+      "paper_num": 1063,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-094907-the-coral-reef---a-cell-that-is-also-a-city.md"
+    },
+    "d75c447b223a6bdf": {
+      "paper_num": 1064,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095009-the-black-death---a-cell-that-is-also-a-medieval-reaper.md"
+    },
+    "27569c6432c45825": {
+      "paper_num": 1065,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095018-the-rem-cycle---a-cell-that-is-also-a-stage.md"
+    },
+    "abc1f4cd0d515d7e": {
+      "paper_num": 1066,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095104-the-bronze-age---a-cell-that-is-also-a-metal-memory.md"
+    },
+    "621007faf8b7f240": {
+      "paper_num": 1067,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095113-the-sleep-paralysis---a-cell-that-is-also-a-stuck-switch.md"
+    },
+    "7360eb9918f34414": {
+      "paper_num": 1068,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095142-the-cold-war---a-cell-that-is-also-a-held-breath.md"
+    },
+    "81cb48ce9dca7a5e": {
+      "paper_num": 1069,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095142-the-spark-plug---a-cell-that-ignites-the-mix.md"
+    },
+    "ebb46378b43c47be": {
+      "paper_num": 1070,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095148-the-daydream---a-cell-that-escapes-into-the-day.md"
+    },
+    "0b94d0bd1acbec57": {
+      "paper_num": 1071,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095153-the-dolly-zoom---a-cell-that-is-also-a-vertigo.md"
+    },
+    "d05403bd27312312": {
+      "paper_num": 1072,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095203-the-epipelagic-zone---a-cell-that-is-also-the-sunlit-layer.md"
+    },
+    "025817fce7106d2d": {
+      "paper_num": 1073,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095212-the-columbian-exchange---a-cell-that-mixed-two-worlds.md"
+    },
+    "9d08b1faa7193913": {
+      "paper_num": 1074,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095222-the-dubbing---a-cell-that-is-also-a-voice-transplant.md"
+    },
+    "7209c1575248e545": {
+      "paper_num": 1075,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095237-the-hadal-zone---a-cell-that-is-also-the-deepest-trench.md"
+    },
+    "0c0c5af18275999d": {
+      "paper_num": 1076,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095243-the-prophecy---a-cell-that-is-also-a-warning-from-the-future.md"
+    },
+    "2e1061cbf3040ab0": {
+      "paper_num": 1077,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095306-the-diaspora---a-cell-that-is-also-a-scattering.md"
+    },
+    "6d5121163b3f82b7": {
+      "paper_num": 1078,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095314-the-fade---a-cell-that-is-also-a-slow-goodbye.md"
+    },
+    "5255303d92e9a754": {
+      "paper_num": 1079,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095326-the-enlightenment---a-cell-that-is-also-a-turning-on-the-lig.md"
+    },
+    "41eea8defd664885": {
+      "paper_num": 1080,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095340-the-deja-vu---a-cell-that-is-also-a-glitch-in-time.md"
+    },
+    "2d8c2c49136738e9": {
+      "paper_num": 1081,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095620-the-french-revolution---a-cell-that-ate-its-own-children.md"
+    },
+    "61833e24e1b1e945": {
+      "paper_num": 1082,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095636-the-hydrothermal-vent---a-cell-that-is-also-a-deep-factory.md"
+    },
+    "7569959182948eb6": {
+      "paper_num": 1083,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095649-the-flashback---a-cell-that-is-also-a-return.md"
+    },
+    "4d6a9c68f9870855": {
+      "paper_num": 1084,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095722-the-gilded-age---a-cell-that-is-also-a-thin-gold-leaf.md"
+    },
+    "ab0ffb9f1cdd1986": {
+      "paper_num": 1085,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095731-the-kelp-forest---a-cell-that-is-also-an-underwater-jungle.md"
+    },
+    "97bd0686d6a91ffc": {
+      "paper_num": 1086,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095810-the-mesopelagic-zone---a-cell-that-is-also-the-twilight-laye.md"
+    },
+    "a30fa9d25cbb16f4": {
+      "paper_num": 1087,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095844-the-ocean-current---a-cell-that-is-also-a-river-in-the-sea.md"
+    },
+    "e3881ab196c16549": {
+      "paper_num": 1088,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095852-the-acid---a-cell-that-gives.md"
+    },
+    "fb083ca903841b73": {
+      "paper_num": 1089,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095921-the-alley---a-cell-that-is-also-a-back-door.md"
+    },
+    "72d66fed3a920468": {
+      "paper_num": 1090,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095928-the-base---a-cell-that-takes.md"
+    },
+    "454f1cf38b6453ce": {
+      "paper_num": 1091,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-095950-the-boulevard---a-cell-that-is-also-a-wide-path.md"
+    },
+    "9f08556c4a081b4d": {
+      "paper_num": 1092,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100040-the-bridge---a-cell-that-is-also-a-connection.md"
+    },
+    "967acc6b38d67b49": {
+      "paper_num": 1093,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100043-the-jump-cut---a-cell-that-is-also-a-sharp-break.md"
+    },
+    "65334829b796949a": {
+      "paper_num": 1094,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100103-the-bus-stop---a-cell-that-is-also-a-pause.md"
+    },
+    "20dfaefa90566f09": {
+      "paper_num": 1095,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100107-the-industrial-revolution---a-cell-that-is-also-a-factory-aw.md"
+    },
+    "712650cde8108c52": {
+      "paper_num": 1096,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100107-the-montage---a-cell-that-is-also-a-compression.md"
+    },
+    "ae3a31726acccfd0": {
+      "paper_num": 1097,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100125-the-cafe---a-cell-that-is-also-a-third-place.md"
+    },
+    "c69855d39bab4341": {
+      "paper_num": 1098,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100126-the-iron-age---a-cell-that-is-also-a-stronger-age.md"
+    },
+    "cd62d74e6901ec1c": {
+      "paper_num": 1099,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100148-the-renaissance---a-cell-that-is-also-a-rebirth.md"
+    },
+    "543970e67df539fd": {
+      "paper_num": 1100,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100202-the-noir---a-cell-that-is-also-a-shadow.md"
+    },
+    "de11af1e944fcc6c": {
+      "paper_num": 1101,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100216-the-plankton-bloom---a-cell-that-is-also-a-sudden-green.md"
+    },
+    "404540ebbf80a9bf": {
+      "paper_num": 1102,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100222-the-reformation---a-cell-that-broke-the-church-in-two.md"
+    },
+    "8fc9c96633e19a89": {
+      "paper_num": 1103,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100248-the-salinity---a-cell-that-is-the-ocean-s-signature.md"
+    },
+    "5540f282a4ae1005": {
+      "paper_num": 1104,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100254-the-pan---a-cell-that-is-also-a-slow-turn.md"
+    },
+    "e237d9b7f9347d6d": {
+      "paper_num": 1105,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100305-the-catalyst---a-cell-that-is-also-a-speeder.md"
+    },
+    "f76ab183b05738c1": {
+      "paper_num": 1106,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100318-the-silk-road---a-cell-that-is-also-a-long-thread.md"
+    },
+    "ffa044559c3fddc4": {
+      "paper_num": 1107,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100352-the-plot-twist---a-cell-that-is-also-a-reversal.md"
+    },
+    "c9ac571e11aae2d6": {
+      "paper_num": 1108,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100352-the-tide---a-cell-that-is-also-the-moon-s-breath.md"
+    },
+    "90ad3d6038a3e595": {
+      "paper_num": 1109,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100412-the-electron---a-cell-that-is-also-a-messenger.md"
+    },
+    "8493d331649eaf39": {
+      "paper_num": 1110,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100438-the-element---a-cell-that-is-also-a-building-block.md"
+    },
+    "18452970c82b4d89": {
+      "paper_num": 1111,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100516-the-cemetery---a-cell-that-is-also-a-memory-park.md"
+    },
+    "33aa55a73d06fc77": {
+      "paper_num": 1112,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100603-the-aberration---a-cell-that-is-also-a-deviation.md"
+    },
+    "6ad0f5b90be054d9": {
+      "paper_num": 1113,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100610-the-courthouse---a-cell-that-is-also-a-judge.md"
+    },
+    "280e94efe7107df7": {
+      "paper_num": 1114,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100629-the-crosswalk---a-cell-that-is-also-a-permission.md"
+    },
+    "6c9fcc5a66c7d0b6": {
+      "paper_num": 1115,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100644-the-accent---a-cell-that-is-also-a-regional-fingerprint.md"
+    },
+    "048ab3b7dd548ee8": {
+      "paper_num": 1116,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100656-the-aperture---a-cell-that-is-also-a-window-s-size.md"
+    },
+    "d3de3087fe712940": {
+      "paper_num": 1117,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100719-the-alphabet---a-cell-that-is-also-a-small-set-of-letters.md"
+    },
+    "96b72b08b9dcaa85": {
+      "paper_num": 1118,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100728-the-world-war---a-cell-that-is-also-a-global-fever.md"
+    },
+    "77fa8a0f48970c5a": {
+      "paper_num": 1119,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100744-the-scene---a-cell-that-is-also-a-moment.md"
+    },
+    "b7b3bc442cb7ee91": {
+      "paper_num": 1120,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100752-the-camera-obscura---a-cell-that-is-also-a-primitive-eye.md"
+    },
+    "549901eca41f71e7": {
+      "paper_num": 1121,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100814-the-borrowed-word---a-cell-that-lives-in-two-languages.md"
+    },
+    "78a3aada2beca25d": {
+      "paper_num": 1122,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100820-the-artichoke---a-cell-that-is-also-a-thistle.md"
+    },
+    "4bf71685de39873a": {
+      "paper_num": 1123,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100840-the-molecule---a-cell-that-is-also-a-small-union.md"
+    },
+    "2d4388b62d9f273e": {
+      "paper_num": 1124,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100847-the-cognate---a-cell-that-is-shared-between-languages.md"
+    },
+    "eb55bc395c08edde": {
+      "paper_num": 1125,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100906-the-arugula---a-cell-that-is-also-a-peppery-green.md"
+    },
+    "8f4a038a0ed812eb": {
+      "paper_num": 1126,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100957-the-fire-hydrant---a-cell-that-is-also-a-fire-s-water.md"
+    },
+    "1d6d7465f3347600": {
+      "paper_num": 1127,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101030-the-screenplay---a-cell-that-is-also-a-blueprint.md"
+    },
+    "aa65d8dff3f8e21b": {
+      "paper_num": 1128,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101144-the-cactus---a-cell-that-is-also-a-water-hoarder.md"
+    },
+    "1be4e8add5090836": {
+      "paper_num": 1129,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101152-the-chromatic-aberration---a-cell-that-is-also-a-rainbow-hal.md"
+    },
+    "55d084d0269a1f93": {
+      "paper_num": 1130,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101205-the-asparagus---a-cell-that-is-also-a-spring-spear.md"
+    },
+    "1ebf85bbecc9c411": {
+      "paper_num": 1131,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101210-the-periodic-table---a-cell-that-is-also-a-memory-palace.md"
+    },
+    "d782ba8eaa6d2cc1": {
+      "paper_num": 1132,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101244-the-color---a-cell-that-is-also-a-wavelength.md"
+    },
+    "0ba65edb1126348e": {
+      "paper_num": 1133,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101246-the-beet---a-cell-that-is-also-a-red-root.md"
+    },
+    "6af9b7779f318996": {
+      "paper_num": 1134,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101249-the-ph-scale---a-cell-that-is-also-a-measure-of-giving.md"
+    },
+    "663e752698ec9bbe": {
+      "paper_num": 1135,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101256-the-dead-language---a-cell-that-is-also-a-fossil.md"
+    },
+    "73ed716c50528bef": {
+      "paper_num": 1136,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101330-the-polymer---a-cell-that-is-also-a-long-chain.md"
+    },
+    "90357cc5eaee4f7a": {
+      "paper_num": 1137,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101342-the-diffraction---a-cell-that-is-also-a-wave-s-signature.md"
+    },
+    "fb30e5be043a81e4": {
+      "paper_num": 1138,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101349-the-dialect---a-cell-that-is-also-a-local-voice.md"
+    },
+    "13a9ef3e2f5d4523": {
+      "paper_num": 1139,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101400-the-hospital---a-cell-that-is-also-a-repair-shop.md"
+    },
+    "92f355ea764cff11": {
+      "paper_num": 1140,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101420-the-protein---a-cell-that-is-also-a-worker.md"
+    },
+    "a12d1ad222adadf3": {
+      "paper_num": 1141,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101442-the-etymology---a-cell-that-is-also-a-word-s-history.md"
+    },
+    "07f8280cb793a09c": {
+      "paper_num": 1142,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101504-the-agate---a-cell-that-is-also-a-banded-stone.md"
+    },
+    "4467b3b212662008": {
+      "paper_num": 1143,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101527-the-fern---a-cell-that-is-also-a-green-coil.md"
+    },
+    "75554350664fe08c": {
+      "paper_num": 1144,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101540-the-grammar---a-cell-that-is-also-a-structure.md"
+    },
+    "8f4005a4d7e8a594": {
+      "paper_num": 1145,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101542-the-broccoli---a-cell-that-is-also-a-small-tree.md"
+    },
+    "1e99cbb2bd99cbde": {
+      "paper_num": 1146,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101559-the-lichen---a-cell-that-is-also-a-partnership.md"
+    },
+    "94087187c1aee28b": {
+      "paper_num": 1147,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101610-the-brussels-sprout---a-cell-that-is-also-a-tiny-cabbage.md"
+    },
+    "0f6ed8a548545ad6": {
+      "paper_num": 1148,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101636-the-homophone---a-cell-that-is-also-a-sound-alike.md"
+    },
+    "3fe65b2947894c47": {
+      "paper_num": 1149,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-100000-the-final-summary-1147-papers.md"
+    },
+    "248e088b3e0d5883": {
+      "paper_num": 1150,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101650-the-focal-length---a-cell-that-is-also-a-distance.md"
+    },
+    "f893cf1a57fe9f11": {
+      "paper_num": 1151,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101658-the-cabbage---a-cell-that-is-also-a-head.md"
+    },
+    "5c723963cc9b81da": {
+      "paper_num": 1152,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101748-the-library---a-cell-that-is-also-a-quiet-factory.md"
+    },
+    "41678dee375aafc8": {
+      "paper_num": 1153,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101749-the-carrot---a-cell-that-is-also-an-orange-root.md"
+    },
+    "9476136b8b213a06": {
+      "paper_num": 1154,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101836-the-amethyst---a-cell-that-is-also-a-purple-quartz.md"
+    },
+    "293bbc0a9a097ec8": {
+      "paper_num": 1155,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101841-the-salt---a-cell-that-is-also-a-partner.md"
+    },
+    "f7c2e99228bfa042": {
+      "paper_num": 1156,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101844-the-cauliflower---a-cell-that-is-also-a-brain.md"
+    },
+    "4af3e80f48a8aec9": {
+      "paper_num": 1157,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101844-the-park---a-cell-that-is-also-a-green-pause.md"
+    },
+    "73a4f5c7cfb45522": {
+      "paper_num": 1158,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101927-the-hologram---a-cell-that-is-also-a-3d-photograph.md"
+    },
+    "33cf91207bc88bc1": {
+      "paper_num": 1159,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101932-the-basalt---a-cell-that-is-also-a-dark-rock.md"
+    },
+    "5d9f17da9635b09a": {
+      "paper_num": 1160,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101933-the-idiom---a-cell-that-doesn-t-translate-literally.md"
+    },
+    "11f2126356ec9247": {
+      "paper_num": 1161,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101935-the-post-office---a-cell-that-is-also-a-message-relay.md"
+    },
+    "667004b703eb46af": {
+      "paper_num": 1162,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101941-the-solvent---a-cell-that-is-also-a-dissolver.md"
+    },
+    "f3a8b0daa114f35f": {
+      "paper_num": 1163,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-101943-the-moss---a-cell-that-is-also-a-green-carpet.md"
+    },
+    "337bf639c59f9ca6": {
+      "paper_num": 1164,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102019-the-apple---a-cell-that-is-also-a-falling-thing.md"
+    },
+    "2c3f417d374a4af2": {
+      "paper_num": 1165,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102028-the-mushroom---a-cell-that-is-also-a-fruiting-body.md"
+    },
+    "94201a8956dfa731": {
+      "paper_num": 1166,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102032-the-loanword---a-cell-that-traveled.md"
+    },
+    "b3fee7aa1a218bb5": {
+      "paper_num": 1167,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102032-the-streetlight---a-cell-that-is-also-a-city-star.md"
+    },
+    "f1e7dae3cb43bdce": {
+      "paper_num": 1168,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102054-the-metaphor---a-cell-that-is-also-a-comparison.md"
+    },
+    "312f36da0cdda8d0": {
+      "paper_num": 1169,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102105-the-escape-velocity---a-cell-that-is-the-speed-to-leave.md"
+    },
+    "50a1723e3e4b93d5": {
+      "paper_num": 1170,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102108-the-absurdity---a-cell-that-is-also-a-defense-mechanism.md"
+    },
+    "aaa3ec19eca410e4": {
+      "paper_num": 1171,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102126-the-oak---a-cell-that-is-also-a-long-lived-king.md"
+    },
+    "7bc2271988ffa6ed": {
+      "paper_num": 1172,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102146-the-subway---a-cell-that-is-also-an-underground-river.md"
+    },
+    "98eb0faefd04dcff": {
+      "paper_num": 1173,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102149-the-celery---a-cell-that-is-also-a-crunch.md"
+    },
+    "7002628b02a44ed8": {
+      "paper_num": 1174,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102151-the-noun---a-cell-that-is-also-a-person-place-or-thing.md"
+    },
+    "724e73d043912ce2": {
+      "paper_num": 1175,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102208-the-free-fall---a-cell-that-is-also-a-surrender.md"
+    },
+    "28cdd37560e0d56b": {
+      "paper_num": 1176,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102209-the-eggplant---a-cell-that-is-also-a-glossy-purple.md"
+    },
+    "8331e413e1615d53": {
+      "paper_num": 1177,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102223-the-palm---a-cell-that-is-also-a-tropical-flag.md"
+    },
+    "fbcd4defd90a0212": {
+      "paper_num": 1178,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102300-the-lens---a-cell-that-is-also-a-curved-glass.md"
+    },
+    "50f7ba94f147a280": {
+      "paper_num": 1179,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102305-the-geodesic---a-cell-that-is-also-the-straightest-path.md"
+    },
+    "796347000c14b565": {
+      "paper_num": 1180,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102340-the-calcite---a-cell-that-is-also-a-soft-mineral.md"
+    },
+    "4701897f8ac53fe3": {
+      "paper_num": 1181,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102348-the-steroid---a-cell-that-is-also-a-four-ring-letter.md"
+    },
+    "9d25280667a474b6": {
+      "paper_num": 1182,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102359-the-gravity---a-cell-that-is-also-a-curve-in-space.md"
+    },
+    "3b3658b0ee5671b4": {
+      "paper_num": 1183,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102410-the-titration---a-cell-that-is-also-a-precise-meeting.md"
+    },
+    "4273aa799065426d": {
+      "paper_num": 1184,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102411-the-light---a-cell-that-is-also-an-electromagnetic-wave.md"
+    },
+    "8b4e16ff78050015": {
+      "paper_num": 1185,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102502-the-mirror---a-cell-that-is-also-a-reflection.md"
+    },
+    "137b5b6d090455c0": {
+      "paper_num": 1186,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102503-the-water---a-cell-that-is-also-a-universal-solvent.md"
+    },
+    "25f946e0ff86d67e": {
+      "paper_num": 1187,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102523-the-callback---a-cell-that-rewards-those-who-listened.md"
+    },
+    "6a0452974bc7a1e9": {
+      "paper_num": 1188,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102527-the-photon---a-cell-that-is-also-a-particle-of-light.md"
+    },
+    "4a31bb6c5d410a54": {
+      "paper_num": 1189,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102531-the-inertia---a-cell-that-is-also-a-resistance-to-change.md"
+    },
+    "007d6f0edf8d5c97": {
+      "paper_num": 1190,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102537-the-pangram---a-cell-that-uses-every-letter.md"
+    },
+    "a3eae1dc04c53f3f": {
+      "paper_num": 1191,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102555-the-lagrange-point---a-cell-that-is-also-a-balance.md"
+    },
+    "60692b60bf1d370d": {
+      "paper_num": 1192,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102557-the-pine---a-cell-that-is-also-a-needle-tree.md"
+    },
+    "5442cd37b4db2b15": {
+      "paper_num": 1193,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102600-the-slang---a-cell-that-is-also-a-counter-culture.md"
+    },
+    "eb54a873f5273d93": {
+      "paper_num": 1194,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102613-the-dad-joke---a-cell-that-is-also-a-groan.md"
+    },
+    "f25956b02bd0c3c8": {
+      "paper_num": 1195,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102630-the-fennel---a-cell-that-is-also-a-licorice-bulb.md"
+    },
+    "5b31f58029dc76e5": {
+      "paper_num": 1196,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102658-the-coal---a-cell-that-is-also-a-fossil-fuel.md"
+    },
+    "080a2191d42dcafd": {
+      "paper_num": 1197,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102728-the-garlic---a-cell-that-is-also-a-strong-bulb.md"
+    },
+    "22fed1f86a990fae": {
+      "paper_num": 1198,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102840-the-polarization---a-cell-that-is-also-an-orientation.md"
+    },
+    "8129007226f5ed56": {
+      "paper_num": 1199,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102937-the-redwood---a-cell-that-is-also-a-giant.md"
+    },
+    "e33e7d4282a3ed38": {
+      "paper_num": 1200,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-102951-the-low-earth-orbit---a-cell-that-is-also-a-fast-fall.md"
+    },
+    "e67ed70d52e84265": {
+      "paper_num": 1201,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103003-the-sage---a-cell-that-is-also-a-wise-plant.md"
+    },
+    "aa9035a1a94a7b1a": {
+      "paper_num": 1202,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103007-the-deadpan---a-cell-that-is-also-a-poker-face.md"
+    },
+    "71e76c740d81e67c": {
+      "paper_num": 1203,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103048-the-kale---a-cell-that-is-also-a-curly-green.md"
+    },
+    "2dc9a7a91c736bd5": {
+      "paper_num": 1204,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103109-the-prism---a-cell-that-splits-light-into-a-rainbow.md"
+    },
+    "f49724c975e5ae0b": {
+      "paper_num": 1205,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103115-the-diamond---a-cell-that-is-also-a-carbon-crystal.md"
+    },
+    "57c65fd8c8000932": {
+      "paper_num": 1206,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103256-the-emerald---a-cell-that-is-also-a-green-gem.md"
+    },
+    "522abd3c7570e238": {
+      "paper_num": 1207,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103346-the-double-entendre---a-cell-that-means-two-things.md"
+    },
+    "e5ccc945af86e661": {
+      "paper_num": 1208,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103359-the-sunflower---a-cell-that-is-also-a-solar-tracker.md"
+    },
+    "71537f7f9b3a689b": {
+      "paper_num": 1209,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-103403-the-mass---a-cell-that-is-also-a-resistance-to-acceleration.md"
     }
   },
   "next_num": null,
