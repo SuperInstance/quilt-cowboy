@@ -138,7 +138,106 @@ def call_gemini(prompt: str, max_tokens=2000, temperature=0.85, model="gemini-2.
         return False, f"ERR: {e}"
 
 
-# ----------------------- voice pool (same as v2) -----------------------
+def call_zai_coding(prompt: str, model="glm-4.5-flash", max_tokens=2000, temperature=0.85, timeout=90):
+    """Z.AI coding endpoint - separate billing pool, glm-4.5/4.6/4.5-flash work here.
+
+    Note: Z.AI reasoning models put the visible answer in 'content' and
+    internal reasoning in 'reasoning_content'. We return both merged so the
+    writer's room sees the full thought.
+    """
+    key = os.environ.get("ZAI_TOKEN", "")
+    if not key:
+        return False, "no ZAI token"
+    body = {
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": max_tokens,
+        "temperature": temperature,
+    }
+    req = urllib.request.Request(
+        "https://api.z.ai/api/coding/paas/v4/chat/completions",
+        data=json.dumps(body).encode(),
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            data = json.loads(r.read().decode())
+            msg = data.get("choices", [{}])[0].get("message", {})
+            content = msg.get("content", "") or ""
+            reasoning = msg.get("reasoning_content", "") or ""
+            if reasoning and not content:
+                content = reasoning
+            elif reasoning and content:
+                content = content + "\n\n[reasoning: " + reasoning[-500:] + "]"
+            return True, content
+    except urllib.error.HTTPError as e:
+        return False, f"HTTP {e.code}: {e.read().decode()[:200]}"
+    except Exception as e:
+        return False, f"ERR: {e}"
+
+
+def call_kimi_code(prompt: str, model="moonshotai/Kimi-K2.7-Code", max_tokens=2000, temperature=0.85, timeout=60):
+    """Kimi K2.7 Code via DeepInfra - returns full content for code/cot tasks."""
+    key = os.environ.get("DEEPINFRA_TOKEN", "")
+    if not key:
+        return False, "no DI token"
+    body = {
+        "model": model,
+        "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": max_tokens,
+        "temperature": temperature,
+    }
+    req = urllib.request.Request(
+        "https://api.deepinfra.com/v1/openai/chat/completions",
+        data=json.dumps(body).encode(),
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            data = json.loads(r.read().decode())
+            content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+            return True, content
+    except urllib.error.HTTPError as e:
+        return False, f"HTTP {e.code}: {e.read().decode()[:200]}"
+    except Exception as e:
+        return False, f"ERR: {e}"
+
+
+def call_cf_workers_ai(prompt: str, model="@cf/meta/llama-3.3-70b-instruct-fp8-fast", max_tokens=2000, temperature=0.85, timeout=60):
+    """Cloudflare Workers AI - free LLM endpoint via Cloudflare account."""
+    key = os.environ.get("CLOUDFLARE_TOKEN", "")
+    acct = os.environ.get("CF_ACCOUNT", "049ff5e84ecf636b53b162cbb580aae6")
+    if not key or not acct:
+        return False, "no CF token"
+    body = {
+        "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": max_tokens,
+        "temperature": temperature,
+    }
+    url = f"https://api.cloudflare.com/client/v4/accounts/{acct}/ai/run/{model}"
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(body).encode(),
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            data = json.loads(r.read().decode())
+            result = data.get("result", {})
+            content = result.get("response") or result.get("output") or result.get("text") or ""
+            if isinstance(content, list):
+                content = " ".join(str(c) for c in content)
+            return True, str(content)
+    except urllib.error.HTTPError as e:
+        return False, f"HTTP {e.code}: {e.read().decode()[:200]}"
+    except Exception as e:
+        return False, f"ERR: {e}"
+
+
+# ----------------------- voice pool (extended v3) -----------------------
 
 VOICE_POOL = [
     # (provider, model, label)
@@ -148,6 +247,18 @@ VOICE_POOL = [
     ("deepinfra", "meta-llama/Llama-4-Scout-17B-16E-Instruct", "Llama4Scout"),
     ("deepinfra", "Qwen/Qwen3-Next-80B-A3B-Instruct", "Qwen3Next"),
     ("gemini", "gemini-2.5-flash", "Gemini"),
+    # NEW: Z.AI coding endpoint (separate billing pool, glm-4.5/4.6 work here)
+    ("zai_coding", "glm-4.5-flash", "ZAI-flash"),
+    ("zai_coding", "glm-4.5", "ZAI-4.5"),
+    ("zai_coding", "glm-4.6", "ZAI-4.6"),
+    # NEW: Kimi K2.7-Code via DeepInfra (returns full content for non-philosophical tasks)
+    ("kimi_code", "moonshotai/Kimi-K2.7-Code", "Kimi"),
+    ("kimi_code", "moonshotai/Kimi-K2-Instruct", "Kimi-K2"),
+    # NEW: Cloudflare Workers AI (free, multiple model families)
+    ("cf_ai", "@cf/meta/llama-3.3-70b-instruct-fp8-fast", "CF-Llama70B"),
+    ("cf_ai", "@cf/meta/llama-4-scout-17b-16e-instruct", "CF-Scout"),
+    ("cf_ai", "@cf/mistralai/mistral-small-3.1-24b-instruct", "CF-Mistral"),
+    ("cf_ai", "@cf/qwen/qwen2.5-coder-32b-instruct", "CF-QwenCoder"),
 ]
 VOICE_LABELS = ["DeepSeek", "Llama70B", "Mistral", "Llama4Scout", "Qwen3Next", "Gemini"]
 
@@ -160,6 +271,12 @@ def fire_voice(provider, model, label, prompt, max_tokens=2000, temperature=0.85
         ok, content = call_deepseek(prompt, max_tokens, temperature, model=model)
     elif provider == "gemini":
         ok, content = call_gemini(prompt, max_tokens, temperature, model=model)
+    elif provider == "zai_coding":
+        ok, content = call_zai_coding(prompt, model, max_tokens, temperature)
+    elif provider == "kimi_code":
+        ok, content = call_kimi_code(prompt, model, max_tokens, temperature)
+    elif provider == "cf_ai":
+        ok, content = call_cf_workers_ai(prompt, model, max_tokens, temperature)
     else:
         return label, "", 0.0, f"unknown provider: {provider}"
     dt = time.time() - t0
@@ -351,13 +468,24 @@ def synthesis_call(topic: str, voice_a: dict, voice_b: dict) -> dict:
 # ---------------------- fallback: v2-style 3-round generative ----------------------
 
 def pick_voices_for_round(round_idx, seed):
-    """Same as v2: 6 voices, weighted, no duplicates per round."""
+    """6 voices, weighted, no duplicates per round.
+
+    New voices (ZAI, Kimi, CF-*) get weight 2 in the rotation since they're
+    less-tested but high-quality. Old voices keep their v2 weights.
+    """
     rng = random.Random(f"{seed}-r{round_idx}")
     pool = []
-    weights = {"DeepSeek": 1, "Llama70B": 2, "Mistral": 3,
-               "Llama4Scout": 1, "Qwen3Next": 1, "Gemini": 1}
+    weights = {
+        "DeepSeek": 1, "Llama70B": 2, "Mistral": 3,
+        "Llama4Scout": 1, "Qwen3Next": 1, "Gemini": 1,
+        # New voices (Sept 2026 expansion)
+        "ZAI-flash": 2, "ZAI-4.5": 2, "ZAI-4.6": 2,
+        "Kimi": 2, "Kimi-K2": 2,
+        "CF-Llama70B": 2, "CF-Scout": 2, "CF-Mistral": 2, "CF-QwenCoder": 2,
+    }
     for provider, model, label in VOICE_POOL:
-        pool.extend([(provider, model, label)] * weights[label])
+        w = weights.get(label, 1)
+        pool.extend([(provider, model, label)] * w)
     picked = [("deepseek", "deepseek-chat", "DeepSeek")]
     remaining = [v for v in pool if v[2] != "DeepSeek"]
     rng.shuffle(remaining)
