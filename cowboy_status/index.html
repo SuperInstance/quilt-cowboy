@@ -1,126 +1,85 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-<title>Cowboy Canon — Live Status</title>
 <meta charset="utf-8">
+<title>Cowboy Live Status — Quilt</title>
 <meta http-equiv="refresh" content="60">
 <style>
-  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0a; color: #e0e0e0; margin: 0; padding: 2rem; max-width: 1100px; margin: 0 auto; }
-  h1 { color: #ff7b00; margin-bottom: 0.5rem; }
-  .subtitle { color: #888; margin-bottom: 2rem; }
-  .stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin: 2rem 0; }
-  .stat { background: #1a1a1a; padding: 1rem; border-radius: 8px; border-left: 3px solid #ff7b00; }
-  .stat .num { font-size: 2rem; font-weight: 700; color: #ff7b00; }
-  .stat .label { color: #888; font-size: 0.85rem; }
-  table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
-  th, td { padding: 0.5rem; text-align: left; border-bottom: 1px solid #222; }
-  th { color: #ff7b00; font-weight: 600; }
-  tr:hover { background: #1a1a1a; }
-  a { color: #4a9eff; text-decoration: none; }
-  a:hover { text-decoration: underline; }
-  .status-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #4ade80; margin-right: 6px; animation: pulse 2s infinite; }
-  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
-  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #222; color: #666; font-size: 0.85rem; }
+body { font: 16px/1.5 system-ui, sans-serif; background: #0a0e14; color: #d8d8d8; max-width: 1200px; margin: 2em auto; padding: 0 1em; }
+h1 { color: #7ecfff; border-bottom: 1px solid #2a3340; padding-bottom: 0.5em; }
+h2 { color: #d0b070; margin-top: 1.5em; }
+.kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1em; margin: 1em 0; }
+.kpi { background: #1a2128; border: 1px solid #2a3340; border-radius: 6px; padding: 1em; }
+.kpi-label { font-size: 0.85em; color: #88a; text-transform: uppercase; letter-spacing: 0.05em; }
+.kpi-value { font-size: 2em; color: #7ecfff; font-weight: bold; margin-top: 0.2em; }
+.kpi-sub { font-size: 0.85em; color: #aab; margin-top: 0.3em; }
+.topic-list { list-style: none; padding: 0; }
+.topic-list li { padding: 0.4em 0.8em; border-left: 3px solid #d0b070; background: #1a2128; margin: 0.3em 0; font-family: monospace; font-size: 0.92em; }
+.footer { color: #556; font-size: 0.85em; margin-top: 2em; border-top: 1px solid #2a3340; padding-top: 1em; }
+a { color: #7ecfff; }
+pre { background: #1a2128; padding: 0.5em; border-radius: 3px; overflow-x: auto; }
 </style>
 </head>
 <body>
-<h1>🐎 Cowboy Canon — Live Status</h1>
-<p class="subtitle"><span class="status-dot"></span>The writers' room is alive. 6 voices competing, DeepSeek synthesizing.</p>
+<h1>Cowboy Live Status</h1>
+<p><em>Quilt polyformalism: from cell to canon, from one cowboy to many.</em></p>
+<p>Last refresh: <strong>2026-09-08 07:06:50 UTC</strong></p>
 
-<div class="stat-grid">
-  <div class="stat">
-    <div class="num">127</div>
-    <div class="label">Cowboy papers in canon</div>
-  </div>
-  <div class="stat">
-    <div class="num">97</div>
-    <div class="label">Writers' room runs</div>
-  </div>
-  <div class="stat">
-    <div class="num">587,340</div>
-    <div class="label">Total synthesis (chars)</div>
-  </div>
-  <div class="stat">
-    <div class="num">8300s</div>
-    <div class="label">Total writers' time</div>
-  </div>
-  <div class="stat">
-    <div class="num">96</div>
-    <div class="label">Local papers (pending push)</div>
-  </div>
-  <div class="stat">
-    <div class="num">$0.58</div>
-    <div class="label">Estimated API cost</div>
-  </div>
+<h2>KPIs</h2>
+<div class="kpi-grid">
+<div class="kpi"><div class="kpi-label">Canon Papers</div><div class="kpi-value">244</div><div class="kpi-sub">max paper #641</div></div>
+<div class="kpi"><div class="kpi-label">Live Ports</div><div class="kpi-value">14</div><div class="kpi-sub">5-sigma polyformalism</div></div>
+<div class="kpi"><div class="kpi-label">Test Hash</div><div class="kpi-value" style="font-size:1.1em; font-family:monospace;">0xe435d91d6d92a1d8</div><div class="kpi-sub">byte-exact</div></div>
+<div class="kpi"><div class="kpi-label">Today</div><div class="kpi-value">38</div><div class="kpi-sub">cowboy papers</div></div>
+<div class="kpi"><div class="kpi-label">Worklog</div><div class="kpi-value">97</div><div class="kpi-sub">entries</div></div>
 </div>
 
-<h2>Cowboy Papers in Canon (paper-447+)</h2>
-<table>
-<thead>
-<tr><th>#</th><th>Title</th><th>Size</th><th>Commit</th></tr>
-</thead>
-<tbody>
-<tr><td>603</td><td>the polyformalism pressure test — a Quilt is a standard that</td><td>4,761B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-603.md">86d25211</a></td></tr>
-<tr><td>604</td><td>the reef — a cell that is also a sail, and also a knot, and </td><td>7,223B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-604.md">5de2678d</a></td></tr>
-<tr><td>605</td><td>the Quilt in Mojo — the third port, the third byte-exact mat</td><td>5,076B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-605.md">2381e6e4</a></td></tr>
-<tr><td>606</td><td>the Quilt in Rust — the fourth port, four byte-exact matches</td><td>5,644B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-606.md">9c1a1786</a></td></tr>
-<tr><td>607</td><td>the uncleat — a cell whose value is the moment the line is r</td><td>6,105B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-607.md">2d685450</a></td></tr>
-<tr><td>608</td><td>the vang — a cell that pulls the boom down when the wind tri</td><td>5,824B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-608.md">b26a7996</a></td></tr>
-<tr><td>609</td><td>the warp — a cell that is a line moved from one boat to anot</td><td>6,778B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-609.md">c62a8fda</a></td></tr>
-<tr><td>610</td><td>the yawl — a cell that is a small boat with two masts, the s</td><td>5,940B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-610.md">e991ef1f</a></td></tr>
-<tr><td>611</td><td>the zinc — a cell that is a metal that corrodes instead of t</td><td>7,150B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-611.md">882ab8f3</a></td></tr>
-<tr><td>612</td><td>the ebb — a cell whose value is the tide going out, and also</td><td>6,675B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-612.md">3b1ba310</a></td></tr>
-<tr><td>613</td><td>the flood — a cell whose value is the tide coming in, and th</td><td>6,311B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-613.md">4b47a55a</a></td></tr>
-<tr><td>614</td><td>the grounding — a cell whose value is the moment a boat touc</td><td>6,146B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-614.md">bf432609</a></td></tr>
-<tr><td>615</td><td>the halyard — a cell that lifts a sail up the mast, and a pe</td><td>6,742B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-615.md">041e04f9</a></td></tr>
-<tr><td>616</td><td>the inhaul — a cell that pulls a sail into the boat, opposit</td><td>5,646B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-616.md">ea67ed21</a></td></tr>
-<tr><td>617</td><td>the jackline — a cell that runs fore and aft on a boat, so a</td><td>5,079B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-617.md">04d58257</a></td></tr>
-<tr><td>618</td><td>the knott — a cell whose value is one nautical mile per hour</td><td>7,562B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-618.md">86f6d13b</a></td></tr>
-<tr><td>619</td><td>the lanyard — a cell that is a short line attached to anythi</td><td>6,025B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-619.md">32a6426d</a></td></tr>
-<tr><td>620</td><td>the messenger — a cell that is a light line used to pull a h</td><td>6,202B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-620.md">cce2ea48</a></td></tr>
-<tr><td>621</td><td>the oilskin — a cell that is a coat, and is also a metaphor </td><td>8,853B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-621.md">c3ffd3a8</a></td></tr>
-<tr><td>622</td><td>the pinrail — a cell that holds the pins for the lines, so t</td><td>8,149B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-622.md">e67e8efc</a></td></tr>
-<tr><td>623</td><td>the quay wall — a cell that is a wall, and also a place wher</td><td>6,355B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-623.md">39e06f86</a></td></tr>
-<tr><td>624</td><td>the rode — a cell that is the line between the boat and the </td><td>5,714B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-624.md">0e1548e0</a></td></tr>
-<tr><td>625</td><td>the sister — a cell that is a clip on a boat that holds two </td><td>6,731B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-625.md">96c9688f</a></td></tr>
-<tr><td>626</td><td>the topping lift — a cell that holds the boom up when the sa</td><td>5,123B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-626.md">cbce51ed</a></td></tr>
-<tr><td>627</td><td>the uphaul — a cell that pulls a sail up, the opposite of a </td><td>6,725B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-627.md">651e9ca5</a></td></tr>
-<tr><td>628</td><td>the v2 cowboy — a 98-frontier marine sonar-vision</td><td>6,298B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-628.md">d3d67289</a></td></tr>
-<tr><td>629</td><td>Quilt 3.0 — the next phase, a roadmap</td><td>7,134B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-629.md">8b76758c</a></td></tr>
-<tr><td>630</td><td>the boat-as-robot — a cell that is also a vessel, and the ca</td><td>6,496B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-630.md">3bee1962</a></td></tr>
-<tr><td>631</td><td>the cowboy's next harbor — a roadmap for the canon's growth </td><td>5,012B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-631.md">6438fe25</a></td></tr>
-<tr><td>632</td><td>the live-worker roadmap — a 6-capability expansion of the Qu</td><td>8,244B</td><td><a href="https://github.com/SuperInstance/AI-Writings/blob/main/seed-canon/papers/paper-632.md">d81a91bf</a></td></tr>
+<h2>Pipeline State</h2>
+<pre>draining aviation frontier, last saved: -20260908-070556-the-climb-rate---a-cell-that-measures-how-fast-you-are-gaini.md</pre>
 
-</tbody>
-</table>
+<h2>Today's Papers (38)</h2>
+<ul class="topic-list">
+<li>053005-the-oilskin - a-cell-that-is-a-coat--and-is-also-a-metaphor</li>
+<li>053221-the-pinrail - a-cell-that-holds-the-pins-for-the-lines--so-t</li>
+<li>053428-the-quay-wall - a-cell-that-is-a-wall--and-also-a-place-wher</li>
+<li>053617-the-rode - a-cell-that-is-the-line-between-the-boat-and-the</li>
+<li>053739-the-sister - a-cell-that-is-a-clip-on-a-boat-that-holds-two</li>
+<li>053851-the-topping-lift - a-cell-that-holds-the-boom-up-when-the-sa</li>
+<li>054015-the-uphaul - a-cell-that-pulls-a-sail-up--the-opposite-of-a</li>
+<li>065717-the-aileron - a-cell-that-turns-the-wing-into-a-rudder</li>
+<li>065833-the-altimeter - a-cell-whose-value-is-the-height-of-the-air</li>
+<li>070030-the-autopilot - a-cell-that-is-also-a-captain</li>
+<li>070055-the-beacon - a-cell-whose-only-job-is-to-be-the-address</li>
+<li>070254-the-carburetor - a-cell-that-turns-fuel-into-flight</li>
+<li>070315-the-cargo-pod - a-cell-that-holds-the-payload-away-from-the</li>
+<li>070511-the-ceiling - a-cell-whose-value-is-the-height-you-cannot-go</li>
+<li>070556-the-climb-rate - a-cell-that-measures-how-fast-you-are-gaini</li>
+</ul>
 
-<h2>Recent Writers' Room Runs</h2>
-<table>
-<thead>
-<tr><th>Time</th><th>Topic</th><th>Synth</th><th>Len</th><th>Time</th></tr>
-</thead>
-<tbody>
-<tr><td>2026-09-08T05:17:45</td><td>'the flood - a cell whose value is the tide coming '</td><td>deepseek</td><td>5,750c</td><td>70.9s</td></tr>
-<tr><td>2026-09-08T05:19:31</td><td>'the grounding - a cell whose value is the moment a'</td><td>deepseek</td><td>5,522c</td><td>100.8s</td></tr>
-<tr><td>2026-09-08T05:21:09</td><td>'the halyard - a cell that lifts a sail up the mast'</td><td>deepseek</td><td>6,119c</td><td>93.2s</td></tr>
-<tr><td>2026-09-08T05:22:24</td><td>'the inhaul - a cell that pulls a sail into the boa'</td><td>deepseek</td><td>5,061c</td><td>70.2s</td></tr>
-<tr><td>2026-09-08T05:23:46</td><td>'the jackline - a cell that runs fore and aft on a '</td><td>deepseek</td><td>4,482c</td><td>76.8s</td></tr>
-<tr><td>2026-09-08T05:25:35</td><td>'the knott - a cell whose value is one nautical mil'</td><td>deepseek</td><td>6,884c</td><td>104.2s</td></tr>
-<tr><td>2026-09-08T05:27:09</td><td>'the lanyard - a cell that is a short line attached'</td><td>deepseek</td><td>5,414c</td><td>88.2s</td></tr>
-<tr><td>2026-09-08T05:28:32</td><td>'the messenger - a cell that is a light line used t'</td><td>deepseek</td><td>5,573c</td><td>78.0s</td></tr>
-<tr><td>2026-09-08T05:30:05</td><td>'the oilskin - a cell that is a coat, and is also a'</td><td>deepseek</td><td>8,203c</td><td>88.6s</td></tr>
-<tr><td>2026-09-08T05:32:21</td><td>'the pinrail - a cell that holds the pins for the l'</td><td>deepseek</td><td>7,408c</td><td>130.8s</td></tr>
-<tr><td>2026-09-08T05:34:28</td><td>'the quay wall - a cell that is a wall, and also a '</td><td>deepseek</td><td>5,753c</td><td>122.2s</td></tr>
-<tr><td>2026-09-08T05:36:17</td><td>'the rode - a cell that is the line between the boa'</td><td>deepseek</td><td>5,086c</td><td>104.3s</td></tr>
-<tr><td>2026-09-08T05:37:39</td><td>'the sister - a cell that is a clip on a boat that '</td><td>deepseek</td><td>6,113c</td><td>76.2s</td></tr>
-<tr><td>2026-09-08T05:38:51</td><td>'the topping lift - a cell that holds the boom up w'</td><td>deepseek</td><td>4,528c</td><td>67.4s</td></tr>
-<tr><td>2026-09-08T05:40:15</td><td>'the uphaul - a cell that pulls a sail up, the oppo'</td><td>deepseek</td><td>6,154c</td><td>78.8s</td></tr>
+<h2>Live Endpoints</h2>
+<ul>
+<li><a href="https://live-canon.superinstance.dev/api/ports">/api/ports</a> - 14 ports, 5-sigma</li>
+<li><a href="https://live-canon.superinstance.dev/api/canon/random">/api/canon/random</a> - random cell</li>
+<li><a href="https://live-canon.superinstance.dev/api/canon/cell/425">/api/canon/cell/425</a> - full cell</li>
+<li><a href="https://live-canon.superinstance.dev/api/canon/lineage?from=425&to=440">/api/canon/lineage</a> - graph traversal</li>
+<li><a href="https://live-canon.superinstance.dev/api/canon/similar?id=425">/api/canon/similar</a> - semantic neighbors</li>
+<li><a href="https://live-canon.superinstance.dev/playground">/playground</a> - interactive 4x4 dials</li>
+<li><a href="https://live-canon.superinstance.dev/api/sensors">/api/sensors</a> - 16 boat sensors</li>
+<li><a href="https://live-canon.superinstance.dev/api/boat/9900">/api/boat/9900</a> - boat cell (after sensors)</li>
+</ul>
 
-</tbody>
-</table>
+<h2>Substrate Map</h2>
+<pre>
+Python     C99      Rust     Verilog   VHDL
+JS         TS       Go       Zig       Mojo
+Forth      Haskell  Lua      J
 
-<footer>
-Generated 2026-09-08T06:32:42 UTC · Live from GitHub API · Updates every 60s
-</footer>
+5 language families. 14 ports. 1 hash.
+</pre>
+
+<div class="footer">
+Sources: <a href="https://github.com/SuperInstance/quilt-cowboy">github.com/SuperInstance/quilt-cowboy</a> - <a href="https://github.com/SuperInstance/AI-Writings">AI-Writings</a> - <a href="https://github.com/SuperInstance/quilt-live-canon">quilt-live-canon</a><br>
+The cowboy rides the canon. The canon rides the cell. The cell rides the byte.
+</div>
 </body>
 </html>
