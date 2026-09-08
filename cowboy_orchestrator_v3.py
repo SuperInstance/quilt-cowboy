@@ -251,6 +251,7 @@ VOICE_POOL = [
     ("zai_coding", "glm-4.5-flash", "ZAI-flash"),
     ("zai_coding", "glm-4.5", "ZAI-4.5"),
     ("zai_coding", "glm-4.6", "ZAI-4.6"),
+    ("zai_coding", "glm-4.5-air", "ZAI-air"),  # new, faster
     # NEW: Kimi K2.7-Code via DeepInfra (returns full content for non-philosophical tasks)
     ("kimi_code", "moonshotai/Kimi-K2.7-Code", "Kimi"),
     ("kimi_code", "moonshotai/Kimi-K2-Instruct", "Kimi-K2"),
@@ -479,7 +480,7 @@ def pick_voices_for_round(round_idx, seed):
         "DeepSeek": 1, "Llama70B": 2, "Mistral": 3,
         "Llama4Scout": 1, "Qwen3Next": 1, "Gemini": 1,
         # New voices (Sept 2026 expansion)
-        "ZAI-flash": 2, "ZAI-4.5": 2, "ZAI-4.6": 2,
+        "ZAI-flash": 2, "ZAI-4.5": 2, "ZAI-4.6": 2, "ZAI-air": 2,  # new, faster Z.AI
         "Kimi": 2, "Kimi-K2": 2,
         "CF-Llama70B": 2, "CF-Scout": 2, "CF-Mistral": 2, "CF-QwenCoder": 2,
     }
