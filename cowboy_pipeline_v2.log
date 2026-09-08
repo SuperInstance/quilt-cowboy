@@ -1,0 +1,1039 @@
+[2026-09-08 04:55:56] === cowboy_pipeline_v2 starting ===
+[2026-09-08 04:55:59] canon: 199 papers, max=597, tree=54124f42
+[2026-09-08 04:56:14] canon: 199 papers, max=597, tree=54124f42
+[2026-09-08 04:56:30] canon: 199 papers, max=597, tree=54124f42
+[2026-09-08 04:56:45] canon: 199 papers, max=597, tree=54124f42
+[2026-09-08 04:57:01] canon: 199 papers, max=597, tree=54124f42
+[2026-09-08 04:57:16] canon: 199 papers, max=597, tree=54124f42
+[2026-09-08 04:57:32] canon: 199 papers, max=597, tree=54124f42
+[2026-09-08 04:57:32]   push: paper-cowboy-20260908-045731-the-limber-hole---a-cell-that-lets-water-drain-to-the-bilge.md -> paper-598
+[2026-09-08 04:58:07] watch error: The read operation timed out
+[2026-09-08 04:58:22] canon: 200 papers, max=598, tree=9070df3f
+[2026-09-08 04:58:22]   embed-only: paper-cowboy-20260908-045731-the-limber-hole---a-cell-that-lets-water-drain-to-the-bilge.md -> paper-598
+[2026-09-08 04:58:24]   embedded 7 vectors for paper-598
+[2026-09-08 04:58:40] canon: 200 papers, max=598, tree=9070df3f
+[2026-09-08 04:58:55] canon: 200 papers, max=598, tree=9070df3f
+[2026-09-08 04:58:55]   push: paper-cowboy-20260908-045853-the-main-sheet---a-cell-that-controls-the-main-sail--and-is.md -> paper-599
+[2026-09-08 04:59:00]   embedded 5 vectors for paper-599
+[2026-09-08 04:59:00]   done: paper-599
+[2026-09-08 04:59:15] canon: 201 papers, max=599, tree=d0f36600
+[2026-09-08 04:59:31] canon: 201 papers, max=599, tree=d0f36600
+[2026-09-08 04:59:46] canon: 201 papers, max=599, tree=d0f36600
+[2026-09-08 05:00:02] canon: 201 papers, max=599, tree=d0f36600
+[2026-09-08 05:00:17] canon: 201 papers, max=599, tree=d0f36600
+[2026-09-08 05:00:33] canon: 201 papers, max=599, tree=d0f36600
+[2026-09-08 05:00:33]   push: paper-cowboy-20260908-050019-the-navigator---a-cell-that-is-a-person--and-a-person-is-a-f.md -> paper-600
+[2026-09-08 05:00:37]   embedded 7 vectors for paper-600
+[2026-09-08 05:00:37]   done: paper-600
+[2026-09-08 05:00:52] canon: 202 papers, max=600, tree=80c79ddc
+[2026-09-08 05:01:08] canon: 202 papers, max=600, tree=80c79ddc
+[2026-09-08 05:01:24] canon: 202 papers, max=600, tree=80c79ddc
+[2026-09-08 05:01:39] canon: 202 papers, max=600, tree=80c79ddc
+[2026-09-08 05:01:54] canon: 202 papers, max=600, tree=80c79ddc
+[2026-09-08 05:02:10] canon: 202 papers, max=600, tree=80c79ddc
+[2026-09-08 05:02:10]   push: paper-cowboy-20260908-050158-the-outhaul---a-cell-that-pulls-the-foot-of-the-sail-out-to.md -> paper-601
+[2026-09-08 05:02:14]   embedded 6 vectors for paper-601
+[2026-09-08 05:02:14]   done: paper-601
+[2026-09-08 05:02:30] canon: 203 papers, max=601, tree=c1a1b49b
+[2026-09-08 05:02:45] canon: 203 papers, max=601, tree=c1a1b49b
+[2026-09-08 05:03:01] canon: 203 papers, max=601, tree=71bf3a18
+[2026-09-08 05:03:16] canon: 203 papers, max=601, tree=71bf3a18
+[2026-09-08 05:03:32] canon: 203 papers, max=601, tree=71bf3a18
+[2026-09-08 05:03:32]   push: paper-cowboy-20260908-050323-the-peak---a-cell-that-is-the-highest-point-of-a-gaff-rigged.md -> paper-602
+[2026-09-08 05:03:36]   embedded 7 vectors for paper-602
+[2026-09-08 05:03:36]   done: paper-602
+[2026-09-08 05:03:52] canon: 204 papers, max=602, tree=caa9c8ae
+[2026-09-08 05:04:07] canon: 204 papers, max=602, tree=caa9c8ae
+[2026-09-08 05:04:23] canon: 204 papers, max=602, tree=caa9c8ae
+[2026-09-08 05:04:38] canon: 204 papers, max=602, tree=caa9c8ae
+[2026-09-08 05:04:38]   push: paper-cowboy-20260908-050435-the-quarter---a-cell-that-is-the-side-of-a-boat-between-amid.md -> paper-603
+[2026-09-08 05:04:43]   embedded 5 vectors for paper-603
+[2026-09-08 05:04:43]   done: paper-603
+[2026-09-08 05:04:58] canon: 205 papers, max=603, tree=93a93602
+[2026-09-08 05:05:13] canon: 205 papers, max=603, tree=93a93602
+[2026-09-08 05:05:29] canon: 205 papers, max=603, tree=93a93602
+[2026-09-08 05:05:45] canon: 205 papers, max=603, tree=93a93602
+[2026-09-08 05:06:00] canon: 205 papers, max=603, tree=93a93602
+[2026-09-08 05:06:00]   push: paper-cowboy-20260908-050557-the-reef---a-cell-that-is-also-a-sail--and-also-a-knot--and.md -> paper-604
+[2026-09-08 05:06:05]   embedded 6 vectors for paper-604
+[2026-09-08 05:06:05]   done: paper-604
+[2026-09-08 05:06:21] canon: 206 papers, max=604, tree=08dd0809
+[2026-09-08 05:06:36] canon: 206 papers, max=604, tree=08dd0809
+[2026-09-08 05:06:52] canon: 206 papers, max=604, tree=08dd0809
+[2026-09-08 05:07:07] canon: 206 papers, max=604, tree=08dd0809
+[2026-09-08 05:07:23] canon: 206 papers, max=604, tree=08dd0809
+[2026-09-08 05:07:23]   push: paper-cowboy-20260908-050717-the-shroud---a-cell-that-is-a-standing-rigging-that-holds-th.md -> paper-605
+[2026-09-08 05:07:27]   embedded 5 vectors for paper-605
+[2026-09-08 05:07:27]   done: paper-605
+[2026-09-08 05:07:42] canon: 207 papers, max=605, tree=b72b652c
+[2026-09-08 05:07:58] canon: 207 papers, max=605, tree=b72b652c
+[2026-09-08 05:08:13] canon: 207 papers, max=605, tree=b72b652c
+[2026-09-08 05:08:29] canon: 207 papers, max=605, tree=b72b652c
+[2026-09-08 05:08:44] canon: 207 papers, max=605, tree=b72b652c
+[2026-09-08 05:08:44]   push: paper-cowboy-20260908-050834-the-telltale---a-cell-that-is-a-thread-tied-to-a-sail-so-the.md -> paper-606
+[2026-09-08 05:08:49]   embedded 5 vectors for paper-606
+[2026-09-08 05:08:49]   done: paper-606
+[2026-09-08 05:09:04] canon: 208 papers, max=606, tree=b9a002a1
+[2026-09-08 05:09:19] canon: 208 papers, max=606, tree=b9a002a1
+[2026-09-08 05:09:35] canon: 208 papers, max=606, tree=b9a002a1
+[2026-09-08 05:09:50] canon: 208 papers, max=606, tree=b9a002a1
+[2026-09-08 05:10:06] canon: 208 papers, max=606, tree=b9a002a1
+[2026-09-08 05:10:06]   push: paper-cowboy-20260908-051005-the-uncleat---a-cell-whose-value-is-the-moment-the-line-is-r.md -> paper-607
+[2026-09-08 05:10:10]   embedded 6 vectors for paper-607
+[2026-09-08 05:10:10]   done: paper-607
+[2026-09-08 05:10:26] canon: 209 papers, max=607, tree=ca560099
+[2026-09-08 05:10:41] canon: 209 papers, max=607, tree=ca560099
+[2026-09-08 05:10:57] canon: 209 papers, max=607, tree=ca560099
+[2026-09-08 05:11:12] canon: 209 papers, max=607, tree=ca560099
+[2026-09-08 05:11:28] canon: 209 papers, max=607, tree=7c18bef8
+[2026-09-08 05:11:43] canon: 209 papers, max=607, tree=7c18bef8
+[2026-09-08 05:11:43]   push: paper-cowboy-20260908-051135-the-vang---a-cell-that-pulls-the-boom-down-when-the-wind-tri.md -> paper-608
+[2026-09-08 05:11:47]   embedded 5 vectors for paper-608
+[2026-09-08 05:11:47]   done: paper-608
+[2026-09-08 05:12:03] canon: 210 papers, max=608, tree=59be9c67
+[2026-09-08 05:12:18] canon: 210 papers, max=608, tree=59be9c67
+[2026-09-08 05:12:34] canon: 210 papers, max=608, tree=59be9c67
+[2026-09-08 05:12:50] canon: 210 papers, max=608, tree=59be9c67
+[2026-09-08 05:12:50]   push: paper-cowboy-20260908-051241-the-warp---a-cell-that-is-a-line-moved-from-one-boat-to-anot.md -> paper-609
+[2026-09-08 05:12:54]   embedded 6 vectors for paper-609
+[2026-09-08 05:12:54]   done: paper-609
+[2026-09-08 05:13:09] canon: 211 papers, max=609, tree=872d39e8
+[2026-09-08 05:13:25] canon: 211 papers, max=609, tree=872d39e8
+[2026-09-08 05:13:40] canon: 211 papers, max=609, tree=872d39e8
+[2026-09-08 05:13:56] canon: 211 papers, max=609, tree=5027a170
+[2026-09-08 05:13:56]   push: paper-cowboy-20260908-051348-the-yawl---a-cell-that-is-a-small-boat-with-two-masts--the-s.md -> paper-610
+[2026-09-08 05:14:00]   embedded 5 vectors for paper-610
+[2026-09-08 05:14:00]   done: paper-610
+[2026-09-08 05:14:16] canon: 212 papers, max=610, tree=88a63394
+[2026-09-08 05:14:31] canon: 212 papers, max=610, tree=88a63394
+[2026-09-08 05:14:47] canon: 212 papers, max=610, tree=88a63394
+[2026-09-08 05:15:02] canon: 212 papers, max=610, tree=88a63394
+[2026-09-08 05:15:18] canon: 212 papers, max=610, tree=88a63394
+[2026-09-08 05:15:18]   push: paper-cowboy-20260908-051513-the-zinc---a-cell-that-is-a-metal-that-corrodes-instead-of-t.md -> paper-611
+[2026-09-08 05:15:23]   embedded 6 vectors for paper-611
+[2026-09-08 05:15:23]   done: paper-611
+[2026-09-08 05:15:39] canon: 213 papers, max=611, tree=083c0e9f
+[2026-09-08 05:15:54] canon: 213 papers, max=611, tree=083c0e9f
+[2026-09-08 05:16:10] canon: 213 papers, max=611, tree=083c0e9f
+[2026-09-08 05:16:25] canon: 213 papers, max=611, tree=083c0e9f
+[2026-09-08 05:16:41] canon: 213 papers, max=611, tree=083c0e9f
+[2026-09-08 05:16:41]   push: paper-cowboy-20260908-051629-the-ebb---a-cell-whose-value-is-the-tide-going-out--and-also.md -> paper-612
+[2026-09-08 05:16:44]   embedded 6 vectors for paper-612
+[2026-09-08 05:16:44]   done: paper-612
+[2026-09-08 05:17:00] canon: 214 papers, max=612, tree=2a5ca598
+[2026-09-08 05:17:16] canon: 214 papers, max=612, tree=2a5ca598
+[2026-09-08 05:17:31] canon: 214 papers, max=612, tree=2a5ca598
+[2026-09-08 05:17:47] canon: 214 papers, max=612, tree=2a5ca598
+[2026-09-08 05:17:47]   push: paper-cowboy-20260908-051745-the-flood---a-cell-whose-value-is-the-tide-coming-in--and-th.md -> paper-613
+[2026-09-08 05:17:51]   embedded 6 vectors for paper-613
+[2026-09-08 05:17:51]   done: paper-613
+[2026-09-08 05:18:07] canon: 215 papers, max=613, tree=244779b0
+[2026-09-08 05:18:22] canon: 215 papers, max=613, tree=244779b0
+[2026-09-08 05:18:38] canon: 215 papers, max=613, tree=244779b0
+[2026-09-08 05:18:53] canon: 215 papers, max=613, tree=244779b0
+[2026-09-08 05:19:09] canon: 215 papers, max=613, tree=244779b0
+[2026-09-08 05:19:24] canon: 215 papers, max=613, tree=244779b0
+[2026-09-08 05:19:40] canon: 215 papers, max=613, tree=244779b0
+[2026-09-08 05:19:40]   push: paper-cowboy-20260908-051931-the-grounding---a-cell-whose-value-is-the-moment-a-boat-touc.md -> paper-614
+[2026-09-08 05:19:44]   embedded 6 vectors for paper-614
+[2026-09-08 05:19:44]   done: paper-614
+[2026-09-08 05:20:00] canon: 216 papers, max=614, tree=9f462a85
+[2026-09-08 05:20:15] canon: 216 papers, max=614, tree=9f462a85
+[2026-09-08 05:20:31] canon: 216 papers, max=614, tree=9f462a85
+[2026-09-08 05:20:46] canon: 216 papers, max=614, tree=9f462a85
+[2026-09-08 05:21:02] canon: 216 papers, max=614, tree=9f462a85
+[2026-09-08 05:21:17] canon: 216 papers, max=614, tree=9f462a85
+[2026-09-08 05:21:17]   push: paper-cowboy-20260908-052109-the-halyard---a-cell-that-lifts-a-sail-up-the-mast--and-a-pe.md -> paper-615
+[2026-09-08 05:21:21]   embedded 6 vectors for paper-615
+[2026-09-08 05:21:21]   done: paper-615
+[2026-09-08 05:21:36] canon: 217 papers, max=615, tree=d632c689
+[2026-09-08 05:21:52] canon: 217 papers, max=615, tree=d632c689
+[2026-09-08 05:22:07] canon: 217 papers, max=615, tree=d632c689
+[2026-09-08 05:22:23] canon: 217 papers, max=615, tree=d632c689
+[2026-09-08 05:22:39] canon: 217 papers, max=615, tree=d632c689
+[2026-09-08 05:22:39]   push: paper-cowboy-20260908-052224-the-inhaul---a-cell-that-pulls-a-sail-into-the-boat--opposit.md -> paper-616
+[2026-09-08 05:22:43]   embedded 5 vectors for paper-616
+[2026-09-08 05:22:43]   done: paper-616
+[2026-09-08 05:22:58] canon: 218 papers, max=616, tree=0dca6a67
+[2026-09-08 05:23:13] canon: 218 papers, max=616, tree=0dca6a67
+[2026-09-08 05:23:29] canon: 218 papers, max=616, tree=0dca6a67
+[2026-09-08 05:23:44] canon: 218 papers, max=616, tree=0dca6a67
+[2026-09-08 05:24:00] canon: 218 papers, max=616, tree=0dca6a67
+[2026-09-08 05:24:00]   push: paper-cowboy-20260908-052346-the-jackline---a-cell-that-runs-fore-and-aft-on-a-boat--so-a.md -> paper-617
+[2026-09-08 05:24:04]   embedded 5 vectors for paper-617
+[2026-09-08 05:24:04]   done: paper-617
+[2026-09-08 05:24:20] canon: 219 papers, max=617, tree=9e4a805c
+[2026-09-08 05:24:35] canon: 219 papers, max=617, tree=9e4a805c
+[2026-09-08 05:24:51] canon: 219 papers, max=617, tree=9e4a805c
+[2026-09-08 05:25:06] canon: 219 papers, max=617, tree=9e4a805c
+[2026-09-08 05:25:22] canon: 219 papers, max=617, tree=9e4a805c
+[2026-09-08 05:25:37] canon: 219 papers, max=617, tree=9e4a805c
+[2026-09-08 05:25:37]   push: paper-cowboy-20260908-052535-the-knott---a-cell-whose-value-is-one-nautical-mile-per-hour.md -> paper-618
+[2026-09-08 05:25:42]   embedded 7 vectors for paper-618
+[2026-09-08 05:25:42]   done: paper-618
+[2026-09-08 05:25:58] canon: 220 papers, max=618, tree=708ac882
+[2026-09-08 05:26:13] canon: 220 papers, max=618, tree=708ac882
+[2026-09-08 05:26:29] canon: 220 papers, max=618, tree=708ac882
+[2026-09-08 05:26:45] canon: 220 papers, max=618, tree=708ac882
+[2026-09-08 05:27:00] canon: 220 papers, max=618, tree=708ac882
+[2026-09-08 05:27:16] canon: 220 papers, max=618, tree=708ac882
+[2026-09-08 05:27:16]   push: paper-cowboy-20260908-052709-the-lanyard---a-cell-that-is-a-short-line-attached-to-anythi.md -> paper-619
+[2026-09-08 05:27:20]   embedded 6 vectors for paper-619
+[2026-09-08 05:27:20]   done: paper-619
+[2026-09-08 05:27:36] canon: 221 papers, max=619, tree=68ac14f0
+[2026-09-08 05:27:51] canon: 221 papers, max=619, tree=68ac14f0
+[2026-09-08 05:28:07] canon: 221 papers, max=619, tree=68ac14f0
+[2026-09-08 05:28:22] canon: 221 papers, max=619, tree=68ac14f0
+[2026-09-08 05:28:38] canon: 221 papers, max=619, tree=68ac14f0
+[2026-09-08 05:28:38]   push: paper-cowboy-20260908-052832-the-messenger---a-cell-that-is-a-light-line-used-to-pull-a-h.md -> paper-620
+[2026-09-08 05:28:43]   embedded 6 vectors for paper-620
+[2026-09-08 05:28:43]   done: paper-620
+[2026-09-08 05:28:58] canon: 222 papers, max=620, tree=dfb2eec0
+[2026-09-08 05:29:14] canon: 222 papers, max=620, tree=dfb2eec0
+[2026-09-08 05:29:29] canon: 222 papers, max=620, tree=dfb2eec0
+[2026-09-08 05:29:45] canon: 222 papers, max=620, tree=dfb2eec0
+[2026-09-08 05:30:00] canon: 222 papers, max=620, tree=dfb2eec0
+[2026-09-08 05:30:16] canon: 222 papers, max=620, tree=dfb2eec0
+[2026-09-08 05:30:16]   push: paper-cowboy-20260908-053005-the-oilskin---a-cell-that-is-a-coat--and-is-also-a-metaphor.md -> paper-621
+[2026-09-08 05:30:20]   embedded 8 vectors for paper-621
+[2026-09-08 05:30:20]   done: paper-621
+[2026-09-08 05:30:36] canon: 223 papers, max=621, tree=20b782a8
+[2026-09-08 05:30:51] canon: 223 papers, max=621, tree=20b782a8
+[2026-09-08 05:31:07] canon: 223 papers, max=621, tree=20b782a8
+[2026-09-08 05:31:22] canon: 223 papers, max=621, tree=20b782a8
+[2026-09-08 05:31:38] canon: 223 papers, max=621, tree=20b782a8
+[2026-09-08 05:31:54] canon: 223 papers, max=621, tree=20b782a8
+[2026-09-08 05:32:09] canon: 223 papers, max=621, tree=20b782a8
+[2026-09-08 05:32:25] canon: 223 papers, max=621, tree=20b782a8
+[2026-09-08 05:32:25]   push: paper-cowboy-20260908-053221-the-pinrail---a-cell-that-holds-the-pins-for-the-lines--so-t.md -> paper-622
+[2026-09-08 05:32:29]   embedded 8 vectors for paper-622
+[2026-09-08 05:32:29]   done: paper-622
+[2026-09-08 05:32:45] canon: 224 papers, max=622, tree=368111d6
+[2026-09-08 05:33:00] canon: 224 papers, max=622, tree=368111d6
+[2026-09-08 05:33:16] canon: 224 papers, max=622, tree=368111d6
+[2026-09-08 05:33:32] canon: 224 papers, max=622, tree=368111d6
+[2026-09-08 05:33:47] canon: 224 papers, max=622, tree=368111d6
+[2026-09-08 05:34:03] canon: 224 papers, max=622, tree=368111d6
+[2026-09-08 05:34:18] canon: 224 papers, max=622, tree=368111d6
+[2026-09-08 05:34:34] canon: 224 papers, max=622, tree=368111d6
+[2026-09-08 05:34:34]   push: paper-cowboy-20260908-053428-the-quay-wall---a-cell-that-is-a-wall--and-also-a-place-wher.md -> paper-623
+[2026-09-08 05:34:38]   embedded 5 vectors for paper-623
+[2026-09-08 05:34:38]   done: paper-623
+[2026-09-08 05:34:53] canon: 225 papers, max=623, tree=d8321d2a
+[2026-09-08 05:35:09] canon: 225 papers, max=623, tree=d8321d2a
+[2026-09-08 05:35:24] canon: 225 papers, max=623, tree=d8321d2a
+[2026-09-08 05:35:40] canon: 225 papers, max=623, tree=d8321d2a
+[2026-09-08 05:35:56] canon: 225 papers, max=623, tree=d8321d2a
+[2026-09-08 05:36:11] canon: 225 papers, max=623, tree=d8321d2a
+[2026-09-08 05:36:27] canon: 225 papers, max=623, tree=d8321d2a
+[2026-09-08 05:36:27]   push: paper-cowboy-20260908-053617-the-rode---a-cell-that-is-the-line-between-the-boat-and-the.md -> paper-624
+[2026-09-08 05:36:31]   embedded 5 vectors for paper-624
+[2026-09-08 05:36:31]   done: paper-624
+[2026-09-08 05:36:46] canon: 226 papers, max=624, tree=edb565be
+[2026-09-08 05:37:02] canon: 226 papers, max=624, tree=edb565be
+[2026-09-08 05:37:18] canon: 226 papers, max=624, tree=edb565be
+[2026-09-08 05:37:33] canon: 226 papers, max=624, tree=edb565be
+[2026-09-08 05:37:49] canon: 226 papers, max=624, tree=edb565be
+[2026-09-08 05:37:49]   push: paper-cowboy-20260908-053739-the-sister---a-cell-that-is-a-clip-on-a-boat-that-holds-two.md -> paper-625
+[2026-09-08 05:37:53]   embedded 6 vectors for paper-625
+[2026-09-08 05:37:53]   done: paper-625
+[2026-09-08 05:38:08] canon: 227 papers, max=625, tree=af42999f
+[2026-09-08 05:38:24] canon: 227 papers, max=625, tree=af42999f
+[2026-09-08 05:38:39] canon: 227 papers, max=625, tree=af42999f
+[2026-09-08 05:38:55] canon: 227 papers, max=625, tree=af42999f
+[2026-09-08 05:38:55]   push: paper-cowboy-20260908-053851-the-topping-lift---a-cell-that-holds-the-boom-up-when-the-sa.md -> paper-626
+[2026-09-08 05:38:59]   embedded 5 vectors for paper-626
+[2026-09-08 05:38:59]   done: paper-626
+[2026-09-08 05:39:15] canon: 228 papers, max=626, tree=d5b96227
+[2026-09-08 05:39:30] canon: 228 papers, max=626, tree=d5b96227
+[2026-09-08 05:39:46] canon: 228 papers, max=626, tree=d5b96227
+[2026-09-08 05:40:01] canon: 228 papers, max=626, tree=d5b96227
+[2026-09-08 05:40:17] canon: 228 papers, max=626, tree=d5b96227
+[2026-09-08 05:40:17]   push: paper-cowboy-20260908-054015-the-uphaul---a-cell-that-pulls-a-sail-up--the-opposite-of-a.md -> paper-627
+[2026-09-08 05:40:21]   embedded 6 vectors for paper-627
+[2026-09-08 05:40:21]   done: paper-627
+[2026-09-08 05:40:37] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:40:52] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:41:08] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:41:23] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:41:39] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:41:54] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:42:10] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:42:25] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:42:41] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:42:57] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:43:12] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:43:28] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:43:43] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:43:59] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:44:15] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:44:30] canon: 229 papers, max=627, tree=ac933e3f
+[2026-09-08 05:44:45] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:45:01] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:45:17] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:45:32] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:45:48] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:46:03] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:46:19] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:46:34] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:46:50] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:47:05] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:47:21] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:47:36] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:47:52] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:48:07] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:48:23] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:48:38] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:48:54] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:49:09] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:49:25] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:49:41] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:49:56] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:50:12] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:50:27] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:50:43] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:50:59] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:51:14] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:51:30] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:51:45] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:52:01] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:52:16] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:52:32] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:52:48] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:53:03] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:53:19] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:53:34] canon: 230 papers, max=628, tree=ff89a805
+[2026-09-08 05:53:50] canon: 232 papers, max=631, tree=93de0cf0
+[2026-09-08 05:54:05] canon: 232 papers, max=631, tree=93de0cf0
+[2026-09-08 05:54:21] canon: 232 papers, max=631, tree=93de0cf0
+[2026-09-08 05:54:36] canon: 232 papers, max=631, tree=93de0cf0
+[2026-09-08 05:54:52] canon: 232 papers, max=631, tree=93de0cf0
+[2026-09-08 05:55:07] canon: 232 papers, max=631, tree=93de0cf0
+[2026-09-08 05:55:23] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:55:39] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:55:54] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:56:09] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:56:25] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:56:40] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:56:56] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:57:12] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:57:27] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:57:42] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:57:58] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:58:14] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:58:29] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:58:45] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:59:00] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:59:16] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:59:31] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 05:59:47] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 06:00:02] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 06:00:18] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 06:00:33] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 06:00:49] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 06:01:04] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 06:01:20] canon: 233 papers, max=632, tree=b05131b4
+[2026-09-08 06:01:35] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:01:51] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:02:06] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:02:22] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:02:38] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:02:53] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:03:09] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:03:24] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:03:40] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:03:55] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:04:11] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:04:26] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:04:42] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:04:57] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:05:13] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:05:28] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:05:44] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:05:59] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:06:15] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:06:30] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:06:46] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:07:01] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:07:17] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:07:33] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:07:48] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:08:04] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:08:19] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:08:35] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:08:50] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:09:06] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:09:21] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:09:37] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:09:52] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:10:08] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:10:23] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:10:39] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:10:54] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:11:10] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:11:25] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:11:41] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:11:56] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:12:12] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:12:27] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:12:43] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:12:59] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:13:14] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:13:30] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:13:45] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:01] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:16] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:32] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:47] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:03] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:18] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:34] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:49] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:05] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:20] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:36] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:51] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:07] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:22] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:38] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:53] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:18:09] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:24] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:40] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:55] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:11] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:27] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:42] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:58] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:13] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:29] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:44] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:00] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:15] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:31] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:47] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:02] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:18] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:33] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:49] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:05] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:20] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:36] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:51] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:07] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:22] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:38] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:54] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:09] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:25] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:40] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:56] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:11] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:27] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:42] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:58] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:14] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:29] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:45] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:00] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:16] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:31] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:47] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:02] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:18] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:33] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:49] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:04] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:20] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:35] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:51] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:06] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:22] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:38] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:53] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:09] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:24] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:40] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:55] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:33:11] canon: 234 papers, max=632, tree=bfc0ad1e
+af77e1
+[2026-09-08 06:14:06] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:16] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:22] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:32] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:37] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:47] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:14:53] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:03] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:08] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:18] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:24] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:34] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:40] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:49] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:15:55] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:05] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:11] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:20] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:26] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:36] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:42] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:51] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:16:58] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:07] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:13] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:22] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:28] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:38] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:44] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:53] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:17:59] canon: 234 papers, max=632, tree=c1af77e1
+[2026-09-08 06:18:09] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:15] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:24] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:31] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:40] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:46] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:18:55] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:02] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:11] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:17] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:27] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:33] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:42] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:48] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:19:58] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:04] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:13] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:19] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:29] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:35] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:44] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:20:51] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:00] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:06] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:15] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:22] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:31] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:37] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:47] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:21:53] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:02] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:08] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:18] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:24] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:33] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:39] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:49] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:22:55] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:05] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:10] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:20] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:26] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:36] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:41] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:51] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:23:57] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:07] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:13] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:22] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:28] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:38] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:44] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:54] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:24:59] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:09] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:15] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:25] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:30] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:40] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:46] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:25:56] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:01] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:11] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:17] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:27] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:32] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:42] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:48] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:26:58] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:03] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:14] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:19] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:29] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:34] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:45] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:27:50] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:00] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:05] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:16] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:21] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:31] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:36] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:47] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:28:52] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:02] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:07] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:18] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:23] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:33] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:38] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:49] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:29:54] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:04] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:10] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:20] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:25] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:35] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:41] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:51] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:30:56] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:06] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:12] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:22] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:27] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:38] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:43] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:53] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:31:58] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:09] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:14] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:24] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:29] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:40] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:45] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:32:55] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:33:00] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:33:11] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:33:16] canon: 234 papers, max=632, tree=bfc0ad1e
+[2026-09-08 06:56:26] === cowboy_pipeline_v2 starting ===
+[2026-09-08 06:56:27] canon: 235 papers, max=633, tree=e4300e87
+[2026-09-08 06:56:43] canon: 235 papers, max=633, tree=e4300e87
+[2026-09-08 06:56:59] canon: 235 papers, max=633, tree=e4300e87
+[2026-09-08 06:57:15] canon: 235 papers, max=633, tree=e4300e87
+[2026-09-08 06:57:31] canon: 235 papers, max=633, tree=e4300e87
+[2026-09-08 06:57:31]   push: paper-cowboy-20260908-065717-the-aileron---a-cell-that-turns-the-wing-into-a-rudder.md -> paper-634
+[2026-09-08 06:57:35]   embedded 8 vectors for paper-634
+[2026-09-08 06:57:35]   done: paper-634
+[2026-09-08 06:57:51] canon: 236 papers, max=634, tree=f72eac71
+[2026-09-08 06:58:06] canon: 236 papers, max=634, tree=f72eac71
+[2026-09-08 06:58:22] canon: 236 papers, max=634, tree=f72eac71
+[2026-09-08 06:58:37] canon: 236 papers, max=634, tree=f72eac71
+[2026-09-08 06:58:38]   push: paper-cowboy-20260908-065833-the-altimeter---a-cell-whose-value-is-the-height-of-the-air.md -> paper-635
+[2026-09-08 06:58:42]   embedded 5 vectors for paper-635
+[2026-09-08 06:58:42]   done: paper-635
+[2026-09-08 06:58:57] canon: 237 papers, max=635, tree=d94ef638
+[2026-09-08 06:59:13] canon: 237 papers, max=635, tree=d94ef638
+[2026-09-08 06:59:28] canon: 237 papers, max=635, tree=d94ef638
+[2026-09-08 06:59:44] canon: 237 papers, max=635, tree=d94ef638
+[2026-09-08 06:59:59] canon: 237 papers, max=635, tree=d94ef638
+[2026-09-08 07:00:15] canon: 237 papers, max=635, tree=d94ef638
+[2026-09-08 07:00:30] canon: 237 papers, max=635, tree=d94ef638
+[2026-09-08 07:00:30]   push: paper-cowboy-20260908-070030-the-autopilot---a-cell-that-is-also-a-captain.md -> paper-636
+[2026-09-08 07:00:35]   embedded 6 vectors for paper-636
+[2026-09-08 07:00:35]   done: paper-636
+[2026-09-08 07:00:50] canon: 238 papers, max=636, tree=677c2840
+[2026-09-08 07:01:06] canon: 238 papers, max=636, tree=677c2840
+[2026-09-08 07:01:06]   push: paper-cowboy-20260908-070055-the-beacon---a-cell-whose-only-job-is-to-be-the-address.md -> paper-637
+[2026-09-08 07:01:10]   embedded 7 vectors for paper-637
+[2026-09-08 07:01:10]   done: paper-637
+[2026-09-08 07:01:26] canon: 239 papers, max=637, tree=52d6dd4f
+[2026-09-08 07:01:41] canon: 239 papers, max=637, tree=52d6dd4f
+[2026-09-08 07:01:57] canon: 239 papers, max=637, tree=52d6dd4f
+[2026-09-08 07:02:13] canon: 239 papers, max=637, tree=52d6dd4f
+[2026-09-08 07:02:28] canon: 239 papers, max=637, tree=52d6dd4f
+[2026-09-08 07:02:44] canon: 239 papers, max=637, tree=52d6dd4f
+[2026-09-08 07:02:59] canon: 239 papers, max=637, tree=52d6dd4f
+[2026-09-08 07:02:59]   push: paper-cowboy-20260908-070254-the-carburetor---a-cell-that-turns-fuel-into-flight.md -> paper-638
+[2026-09-08 07:03:04]   embedded 6 vectors for paper-638
+[2026-09-08 07:03:04]   done: paper-638
+[2026-09-08 07:03:19] canon: 240 papers, max=638, tree=e491807a
+[2026-09-08 07:03:19]   push: paper-cowboy-20260908-070315-the-cargo-pod---a-cell-that-holds-the-payload-away-from-the.md -> paper-639
+[2026-09-08 07:03:24]   embedded 7 vectors for paper-639
+[2026-09-08 07:03:24]   done: paper-639
+[2026-09-08 07:03:39] canon: 241 papers, max=639, tree=7b33c0b1
+[2026-09-08 07:03:55] canon: 241 papers, max=639, tree=7b33c0b1
+[2026-09-08 07:04:10] canon: 241 papers, max=639, tree=7b33c0b1
+[2026-09-08 07:04:26] canon: 241 papers, max=639, tree=7b33c0b1
+[2026-09-08 07:04:41] canon: 241 papers, max=639, tree=7b33c0b1
+[2026-09-08 07:04:57] canon: 241 papers, max=639, tree=7b33c0b1
+[2026-09-08 07:05:12] canon: 241 papers, max=639, tree=7b33c0b1
+[2026-09-08 07:05:12]   push: paper-cowboy-20260908-070511-the-ceiling---a-cell-whose-value-is-the-height-you-cannot-go.md -> paper-640
+[2026-09-08 07:05:16]   embedded 5 vectors for paper-640
+[2026-09-08 07:05:16]   done: paper-640
+[2026-09-08 07:05:32] canon: 242 papers, max=640, tree=5b7a4a45
+[2026-09-08 07:05:47] canon: 242 papers, max=640, tree=5b7a4a45
+[2026-09-08 07:06:03] canon: 242 papers, max=640, tree=5b7a4a45
+[2026-09-08 07:06:03]   push: paper-cowboy-20260908-070556-the-climb-rate---a-cell-that-measures-how-fast-you-are-gaini.md -> paper-641
+[2026-09-08 07:06:08]   embedded 7 vectors for paper-641
+[2026-09-08 07:06:08]   done: paper-641
+[2026-09-08 07:06:23] canon: 243 papers, max=641, tree=f475dee2
+[2026-09-08 07:06:39] canon: 243 papers, max=641, tree=f475dee2
+[2026-09-08 07:06:54] canon: 243 papers, max=641, tree=f475dee2
+[2026-09-08 07:07:10] canon: 243 papers, max=641, tree=f475dee2
+[2026-09-08 07:07:25] canon: 243 papers, max=641, tree=f475dee2
+[2026-09-08 07:07:25]   push: paper-cowboy-20260908-070717-the-cockpit---a-cell-that-is-the-bridge-between-the-captain.md -> paper-642
+[2026-09-08 07:07:30]   embedded 6 vectors for paper-642
+[2026-09-08 07:07:30]   done: paper-642
+[2026-09-08 07:07:46] canon: 244 papers, max=642, tree=4c3fff1c
+[2026-09-08 07:08:01] canon: 244 papers, max=642, tree=4c3fff1c
+[2026-09-08 07:08:17] canon: 244 papers, max=642, tree=4c3fff1c
+[2026-09-08 07:08:32] canon: 244 papers, max=642, tree=4c3fff1c
+[2026-09-08 07:08:48] canon: 244 papers, max=642, tree=4c3fff1c
+[2026-09-08 07:09:03] canon: 244 papers, max=642, tree=4c3fff1c
+[2026-09-08 07:09:03]   push: paper-cowboy-20260908-070852-the-compass---a-cell-whose-value-is-the-direction-of-the-mag.md -> paper-643
+[2026-09-08 07:09:08]   embedded 5 vectors for paper-643
+[2026-09-08 07:09:08]   done: paper-643
+[2026-09-08 07:09:23] canon: 245 papers, max=643, tree=f5fabfa1
+[2026-09-08 07:09:39] canon: 245 papers, max=643, tree=f5fabfa1
+[2026-09-08 07:09:39]   push: paper-cowboy-20260908-070927-the-control-tower---a-cell-that-is-the-bridge-between-the-ca.md -> paper-644
+[2026-09-08 07:09:43]   embedded 7 vectors for paper-644
+[2026-09-08 07:09:43]   done: paper-644
+[2026-09-08 07:09:43]   push: paper-cowboy-20260908-070932-the-apollo-capsule---a-cell-that-survived-the-void.md -> paper-645
+[2026-09-08 07:09:47]   embedded 7 vectors for paper-645
+[2026-09-08 07:09:47]   done: paper-645
+[2026-09-08 07:10:03] canon: 247 papers, max=645, tree=d92b3e7e
+[2026-09-08 07:10:03]   push: paper-cowboy-20260908-070956-the-ion-thruster---a-cell-that-moves-by-talking-to-the-sun.md -> paper-646
+[2026-09-08 07:10:08]   embedded 7 vectors for paper-646
+[2026-09-08 07:10:08]   done: paper-646
+[2026-09-08 07:10:23] canon: 248 papers, max=646, tree=aa328398
+[2026-09-08 07:10:39] canon: 248 papers, max=646, tree=aa328398
+[2026-09-08 07:10:54] canon: 248 papers, max=646, tree=aa328398
+[2026-09-08 07:10:54]   push: paper-cowboy-20260908-071045-the-space-station---a-fabric-that-orbits.md -> paper-647
+[2026-09-08 07:10:59]   embedded 8 vectors for paper-647
+[2026-09-08 07:10:59]   done: paper-647
+[2026-09-08 07:11:15] canon: 249 papers, max=647, tree=771d680d
+[2026-09-08 07:11:15]   push: paper-cowboy-20260908-071110-the-crosswind---a-cell-that-pushes-the-aircraft-sideways.md -> paper-648
+[2026-09-08 07:11:19]   embedded 6 vectors for paper-648
+[2026-09-08 07:11:19]   done: paper-648
+[2026-09-08 07:11:35] canon: 250 papers, max=648, tree=aeb137ce
+[2026-09-08 07:11:50] canon: 250 papers, max=648, tree=aeb137ce
+[2026-09-08 07:11:51]   push: paper-cowboy-20260908-071138-the-dead-reckoning---a-cell-whose-value-is-where-i-would-be.md -> paper-649
+[2026-09-08 07:11:55]   embedded 7 vectors for paper-649
+[2026-09-08 07:11:55]   done: paper-649
+[2026-09-08 07:12:10] canon: 251 papers, max=649, tree=e6d57791
+[2026-09-08 07:12:10]   push: paper-cowboy-20260908-071210-the-descent---a-cell-whose-value-is-the-rate-at-which-you-ar.md -> paper-650
+[2026-09-08 07:12:15]   embedded 8 vectors for paper-650
+[2026-09-08 07:12:15]   done: paper-650
+[2026-09-08 07:12:30] canon: 252 papers, max=650, tree=549bcd82
+[2026-09-08 07:12:30]   push: paper-cowboy-20260908-071216-the-mars-rover---a-cell-that-wanders-another-world.md -> paper-651
+[2026-09-08 07:12:34]   embedded 6 vectors for paper-651
+[2026-09-08 07:12:34]   done: paper-651
+[2026-09-08 07:12:50] canon: 253 papers, max=651, tree=71766847
+[2026-09-08 07:12:50]   push: paper-cowboy-20260908-071237-the-elevator---a-cell-that-makes-the-nose-go-up-or-down.md -> paper-652
+[2026-09-08 07:12:55]   embedded 7 vectors for paper-652
+[2026-09-08 07:12:55]   done: paper-652
+[2026-09-08 07:12:55]   push: paper-cowboy-20260908-071239-the-astronaut-s-glove---a-cell-that-holds-the-vacuum-back.md -> paper-653
+[2026-09-08 07:12:59]   embedded 7 vectors for paper-653
+[2026-09-08 07:12:59]   done: paper-653
+[2026-09-08 07:13:15] canon: 255 papers, max=653, tree=acaf5c18
+[2026-09-08 07:13:15]   push: paper-cowboy-20260908-071301-the-engine---a-cell-that-turns-fuel-into-flight.md -> paper-654
+[2026-09-08 07:13:19]   embedded 7 vectors for paper-654
+[2026-09-08 07:13:19]   done: paper-654
+[2026-09-08 07:13:34] canon: 256 papers, max=654, tree=cdbbb794
+[2026-09-08 07:13:50] canon: 256 papers, max=654, tree=cdbbb794
+[2026-09-08 07:14:06] canon: 256 papers, max=654, tree=cdbbb794
+[2026-09-08 07:14:06]   push: paper-cowboy-20260908-071353-the-satellite-dish---a-cell-that-listens-to-the-sky.md -> paper-655
+[2026-09-08 07:14:10]   embedded 6 vectors for paper-655
+[2026-09-08 07:14:10]   done: paper-655
+[2026-09-08 07:14:26] canon: 257 papers, max=655, tree=c33997c4
+[2026-09-08 07:14:26]   push: paper-cowboy-20260908-071418-the-lunar-lander---a-cell-that-touches-down-softly.md -> paper-656
+[2026-09-08 07:14:30]   embedded 8 vectors for paper-656
+[2026-09-08 07:14:30]   done: paper-656
+[2026-09-08 07:14:30]   push: paper-cowboy-20260908-071419-the-flaps---a-cell-that-changes-the-shape-of-the-wing.md -> paper-657
+[2026-09-08 07:14:34]   embedded 5 vectors for paper-657
+[2026-09-08 07:14:34]   done: paper-657
+[2026-09-08 07:14:49] canon: 259 papers, max=657, tree=71da1f07
+[2026-09-08 07:14:50]   push: paper-cowboy-20260908-071440-the-hubble-telescope---a-cell-that-looks-back-in-time.md -> paper-658
+[2026-09-08 07:14:54]   embedded 7 vectors for paper-658
+[2026-09-08 07:14:54]   done: paper-658
+[2026-09-08 07:14:54]   push: paper-cowboy-20260908-071446-the-flight-level---a-cell-whose-value-is-a-pressure-altitude.md -> paper-659
+[2026-09-08 07:14:58]   embedded 7 vectors for paper-659
+[2026-09-08 07:14:58]   done: paper-659
+[2026-09-08 07:15:14] canon: 261 papers, max=659, tree=513d3bd1
+[2026-09-08 07:15:29] canon: 261 papers, max=659, tree=513d3bd1
+[2026-09-08 07:15:29]   push: paper-cowboy-20260908-071515-the-rocket-equation---a-cell-that-decides-what-flies.md -> paper-660
+[2026-09-08 07:15:34]   embedded 6 vectors for paper-660
+[2026-09-08 07:15:34]   done: paper-660
+[2026-09-08 07:15:49] canon: 262 papers, max=660, tree=e6c25f62
+[2026-09-08 07:15:49]   push: paper-cowboy-20260908-071541-the-spacesuit-s-cooling-system---a-cell-that-fights-the-sun.md -> paper-661
+[2026-09-08 07:15:53]   embedded 7 vectors for paper-661
+[2026-09-08 07:15:53]   done: paper-661
+[2026-09-08 07:16:09] canon: 263 papers, max=661, tree=52f3e33b
+[2026-09-08 07:16:09]   push: paper-cowboy-20260908-071605-the-fuel---a-cell-whose-value-is-the-energy-you-have-left.md -> paper-662
+[2026-09-08 07:16:13]   embedded 5 vectors for paper-662
+[2026-09-08 07:16:13]   done: paper-662
+[2026-09-08 07:16:29] canon: 264 papers, max=662, tree=621a8d8c
+[2026-09-08 07:16:29]   push: paper-cowboy-20260908-072000-the-live-canon-is-now-the-live-worker---paper-657.md -> paper-663
+[2026-09-08 07:16:33]   embedded 6 vectors for paper-663
+[2026-09-08 07:16:33]   done: paper-663
+[2026-09-08 07:16:48] canon: 265 papers, max=663, tree=4b723f8f
+[2026-09-08 07:16:48]   push: paper-cowboy-20260908-071635-the-glide-ratio---a-cell-that-measures-how-far-you-can-go-wi.md -> paper-664
+[2026-09-08 07:16:52]   embedded 6 vectors for paper-664
+[2026-09-08 07:16:52]   done: paper-664
+[2026-09-08 07:17:08] canon: 266 papers, max=664, tree=87b96df4
+[2026-09-08 07:17:24] canon: 266 papers, max=664, tree=87b96df4
+[2026-09-08 07:17:39] canon: 266 papers, max=664, tree=87b96df4
+[2026-09-08 07:17:55] canon: 266 papers, max=664, tree=87b96df4
+[2026-09-08 07:18:10] canon: 266 papers, max=664, tree=87b96df4
+[2026-09-08 07:18:10]   push: paper-cowboy-20260908-071801-the-hangar---a-cell-that-holds-the-aircraft-when-it-is-not-f.md -> paper-665
+[2026-09-08 07:18:16]   embedded 5 vectors for paper-665
+[2026-09-08 07:18:16]   done: paper-665
+[2026-09-08 07:18:32] canon: 267 papers, max=665, tree=e2d69028
+[2026-09-08 07:18:48] canon: 267 papers, max=665, tree=e2d69028
+[2026-09-08 07:18:48]   push: paper-cowboy-20260908-071841-the-heading-indicator---a-cell-that-points-to-the-direction.md -> paper-666
+[2026-09-08 07:18:52]   embedded 7 vectors for paper-666
+[2026-09-08 07:18:52]   done: paper-666
+[2026-09-08 07:19:07] canon: 268 papers, max=666, tree=0f40185d
+[2026-09-08 07:19:08]   push: paper-cowboy-20260908-071902-the-horizontal-stabilizer---a-cell-that-keeps-the-nose-from.md -> paper-667
+[2026-09-08 07:19:12]   embedded 6 vectors for paper-667
+[2026-09-08 07:19:12]   done: paper-667
+[2026-09-08 07:19:28] canon: 269 papers, max=667, tree=d3835af4
+[2026-09-08 07:19:28]   push: paper-cowboy-20260908-071927-the-ifr---a-cell-whose-value-is-the-rules-you-follow-when-yo.md -> paper-668
+[2026-09-08 07:19:32]   embedded 7 vectors for paper-668
+[2026-09-08 07:19:32]   done: paper-668
+[2026-09-08 07:19:47] canon: 270 papers, max=668, tree=2d7cb7c8
+[2026-09-08 07:20:03] canon: 270 papers, max=668, tree=2d7cb7c8
+[2026-09-08 07:20:18] canon: 270 papers, max=668, tree=2d7cb7c8
+[2026-09-08 07:20:18]   push: paper-cowboy-20260908-072003-the-jet-stream---a-cell-whose-value-is-a-fast-moving-river-o.md -> paper-669
+[2026-09-08 07:20:23]   embedded 7 vectors for paper-669
+[2026-09-08 07:20:23]   done: paper-669
+[2026-09-08 07:20:38] canon: 271 papers, max=669, tree=165bee7d
+[2026-09-08 07:20:38]   push: paper-cowboy-20260908-072029-the-landing-gear---a-cell-that-holds-the-aircraft-off-the-gr.md -> paper-670
+[2026-09-08 07:20:43]   embedded 7 vectors for paper-670
+[2026-09-08 07:20:43]   done: paper-670
+[2026-09-08 07:20:58] canon: 272 papers, max=670, tree=0bb41ccb
+[2026-09-08 07:21:14] canon: 272 papers, max=670, tree=0bb41ccb
+[2026-09-08 07:21:14]   push: paper-cowboy-20260908-072100-the-manifold-pressure---a-cell-that-measures-how-hard-the-en.md -> paper-671
+[2026-09-08 07:21:19]   embedded 8 vectors for paper-671
+[2026-09-08 07:21:19]   done: paper-671
+[2026-09-08 07:21:19]   push: paper-cowboy-20260908-072109-the-anchor---a-cell-that-holds-the-boat-to-the-bottom.md -> paper-672
+[2026-09-08 07:21:22]   embedded 5 vectors for paper-672
+[2026-09-08 07:21:22]   done: paper-672
+[2026-09-08 07:21:38] canon: 274 papers, max=672, tree=16139b2d
+[2026-09-08 07:21:38]   push: paper-cowboy-20260908-072126-the-metar---a-cell-whose-value-is-the-current-weather-at-the.md -> paper-673
+[2026-09-08 07:21:58]   embedded 8 vectors for paper-673
+[2026-09-08 07:21:58]   done: paper-673
+[2026-09-08 07:22:14] canon: 275 papers, max=673, tree=71dd4caa
+[2026-09-08 07:22:14]   push: paper-cowboy-20260908-072149-the-navigation-log---a-cell-that-records-where-you-have-been.md -> paper-674
+[2026-09-08 07:22:18]   embedded 8 vectors for paper-674
+[2026-09-08 07:22:18]   done: paper-674
+[2026-09-08 07:22:34] canon: 276 papers, max=674, tree=271e6e63
+[2026-09-08 07:22:34]   push: paper-cowboy-20260908-072220-the-notam---a-cell-that-is-also-a-warning.md -> paper-675
+[2026-09-08 07:22:38]   embedded 7 vectors for paper-675
+[2026-09-08 07:22:38]   done: paper-675
+[2026-09-08 07:22:53] canon: 277 papers, max=675, tree=ec105e3d
+[2026-09-08 07:22:53]   push: paper-cowboy-20260908-072253-the-bilge-pump---a-cell-that-keeps-the-boat-from-sinking.md -> paper-676
+[2026-09-08 07:22:57]   embedded 8 vectors for paper-676
+[2026-09-08 07:22:57]   done: paper-676
+[2026-09-08 07:23:13] canon: 278 papers, max=676, tree=b10b20f4
+[2026-09-08 07:23:28] canon: 278 papers, max=676, tree=b10b20f4
+[2026-09-08 07:23:44] canon: 278 papers, max=676, tree=b10b20f4
+[2026-09-08 07:23:44]   push: paper-cowboy-20260908-072338-the-pitot-tube---a-cell-that-measures-the-speed-of-the-air.md -> paper-677
+[2026-09-08 07:23:48]   embedded 5 vectors for paper-677
+[2026-09-08 07:23:48]   done: paper-677
+[2026-09-08 07:24:03] canon: 279 papers, max=677, tree=958988bf
+[2026-09-08 07:24:03]   push: paper-cowboy-20260908-072400-the-preflight-check---a-cell-that-is-also-a-ritual.md -> paper-678
+[2026-09-08 07:24:07]   embedded 7 vectors for paper-678
+[2026-09-08 07:24:07]   done: paper-678
+[2026-09-08 07:24:07]   push: paper-cowboy-20260908-072403-the-chartplotter---a-cell-that-draws-the-map-as-you-sail.md -> paper-679
+[2026-09-08 07:24:12]   embedded 7 vectors for paper-679
+[2026-09-08 07:24:12]   done: paper-679
+[2026-09-08 07:24:27] canon: 281 papers, max=679, tree=71d2c7b7
+[2026-09-08 07:24:27]   push: paper-cowboy-20260908-072426-the-propeller---a-cell-that-turns-the-engine-s-power-into-th.md -> paper-680
+[2026-09-08 07:24:32]   embedded 7 vectors for paper-680
+[2026-09-08 07:24:32]   done: paper-680
+[2026-09-08 07:24:47] canon: 282 papers, max=680, tree=c192d7fe
+[2026-09-08 07:25:03] canon: 282 papers, max=680, tree=c192d7fe
+[2026-09-08 07:25:19] canon: 282 papers, max=680, tree=c192d7fe
+[2026-09-08 07:25:34] canon: 282 papers, max=680, tree=c192d7fe
+[2026-09-08 07:25:50] canon: 282 papers, max=680, tree=c192d7fe
+[2026-09-08 07:26:05] canon: 282 papers, max=680, tree=c192d7fe
+[2026-09-08 07:26:05]   push: paper-cowboy-20260908-072602-the-diesel-engine---a-cell-that-turns-fuel-into-motion.md -> paper-681
+[2026-09-08 07:26:09]   embedded 6 vectors for paper-681
+[2026-09-08 07:26:09]   done: paper-681
+[2026-09-08 07:26:25] canon: 283 papers, max=681, tree=146d171a
+[2026-09-08 07:26:40] canon: 283 papers, max=681, tree=146d171a
+[2026-09-08 07:26:40]   push: paper-cowboy-20260908-072634-the-radar---a-cell-that-sees-the-weather-and-the-traffic.md -> paper-682
+[2026-09-08 07:26:45]   embedded 7 vectors for paper-682
+[2026-09-08 07:26:45]   done: paper-682
+[2026-09-08 07:27:01] canon: 284 papers, max=682, tree=4a343c13
+[2026-09-08 07:27:01]   push: paper-cowboy-20260908-072641-the-epirb---a-cell-that-calls-for-help-when-everything-else.md -> paper-683
+[2026-09-08 07:27:06]   embedded 8 vectors for paper-683
+[2026-09-08 07:27:06]   done: paper-683
+[2026-09-08 07:27:21] canon: 285 papers, max=683, tree=1c23d33a
+[2026-09-08 07:27:37] canon: 285 papers, max=683, tree=1c23d33a
+[2026-09-08 07:27:52] canon: 285 papers, max=683, tree=1c23d33a
+[2026-09-08 07:28:08] canon: 285 papers, max=683, tree=1c23d33a
+[2026-09-08 07:28:08]   push: paper-cowboy-20260908-072805-the-fathometer---a-cell-that-measures-the-depth-of-the-water.md -> paper-684
+[2026-09-08 07:28:12]   embedded 6 vectors for paper-684
+[2026-09-08 07:28:12]   done: paper-684
+[2026-09-08 07:28:27] canon: 286 papers, max=684, tree=d65ae678
+[2026-09-08 07:28:27]   push: paper-cowboy-20260908-072810-the-radio---a-cell-that-is-the-bridge-between-the-captain-an.md -> paper-685
+[2026-09-08 07:28:32]   embedded 6 vectors for paper-685
+[2026-09-08 07:28:32]   done: paper-685
+[2026-09-08 07:28:47] canon: 287 papers, max=685, tree=6512475f
+[2026-09-08 07:29:03] canon: 287 papers, max=685, tree=6512475f
+[2026-09-08 07:29:18] canon: 287 papers, max=685, tree=6512475f
+[2026-09-08 07:29:34] canon: 287 papers, max=685, tree=6512475f
+[2026-09-08 07:29:49] canon: 287 papers, max=685, tree=6512475f
+[2026-09-08 07:30:05] canon: 287 papers, max=685, tree=6512475f
+[2026-09-08 07:30:20] canon: 287 papers, max=685, tree=6512475f
+[2026-09-08 07:30:36] canon: 287 papers, max=685, tree=6512475f
+[2026-09-08 07:30:36]   push: paper-cowboy-20260908-073023-the-galley---a-cell-that-cooks-while-the-boat-moves.md -> paper-686
+[2026-09-08 07:30:40]   embedded 5 vectors for paper-686
+[2026-09-08 07:30:40]   done: paper-686
+[2026-09-08 07:30:40]   push: paper-cowboy-20260908-073032-the-rudder---a-cell-that-turns-the-nose-left-or-right.md -> paper-687
+[2026-09-08 07:30:45]   embedded 9 vectors for paper-687
+[2026-09-08 07:30:45]   done: paper-687
+[2026-09-08 07:31:01] canon: 289 papers, max=687, tree=630205c6
+[2026-09-08 07:31:01]   push: paper-cowboy-20260908-073055-the-headsail---a-cell-that-catches-the-wind-ahead-of-the-mas.md -> paper-688
+[2026-09-08 07:31:05]   embedded 7 vectors for paper-688
+[2026-09-08 07:31:05]   done: paper-688
+[2026-09-08 07:31:20] canon: 290 papers, max=688, tree=2b871471
+[2026-09-08 07:31:20]   push: paper-cowboy-20260908-073102-the-runway---a-cell-that-is-the-bridge-between-the-air-and-t.md -> paper-689
+[2026-09-08 07:31:24]   embedded 7 vectors for paper-689
+[2026-09-08 07:31:24]   done: paper-689
+[2026-09-08 07:31:40] canon: 291 papers, max=689, tree=5a412565
+[2026-09-08 07:31:40]   push: paper-cowboy-20260908-073139-the-keel---a-cell-that-keeps-the-boat-from-sliding-sideways.md -> paper-690
+[2026-09-08 07:31:44]   embedded 8 vectors for paper-690
+[2026-09-08 07:31:45]   done: paper-690
+[2026-09-08 07:32:00] canon: 292 papers, max=690, tree=a7b878f0
+[2026-09-08 07:32:16] canon: 292 papers, max=690, tree=a7b878f0
+[2026-09-08 07:32:31] canon: 292 papers, max=690, tree=a7b878f0
+[2026-09-08 07:32:47] canon: 292 papers, max=690, tree=a7b878f0
+[2026-09-08 07:33:02] canon: 292 papers, max=690, tree=a7b878f0
+[2026-09-08 07:33:18] canon: 292 papers, max=690, tree=a7b878f0
+[2026-09-08 07:33:33] canon: 292 papers, max=690, tree=a7b878f0
+[2026-09-08 07:33:49] canon: 292 papers, max=690, tree=a7b878f0
+[2026-09-08 07:33:49]   push: paper-cowboy-20260908-073346-the-saturation---a-cell-that-is-the-difference-between-the-a.md -> paper-691
+[2026-09-08 07:33:53]   embedded 6 vectors for paper-691
+[2026-09-08 07:33:53]   done: paper-691
+[2026-09-08 07:34:09] canon: 293 papers, max=691, tree=5c207eef
+[2026-09-08 07:34:24] canon: 293 papers, max=691, tree=5c207eef
+[2026-09-08 07:34:24]   push: paper-cowboy-20260908-073412-the-squawk---a-cell-whose-value-is-the-aircraft-s-identity.md -> paper-692
+[2026-09-08 07:34:29]   embedded 7 vectors for paper-692
+[2026-09-08 07:34:29]   done: paper-692
+[2026-09-08 07:34:29]   push: paper-cowboy-20260908-073418-the-mast---a-cell-that-holds-the-sail-up-to-the-wind.md -> paper-693
+[2026-09-08 07:34:33]   embedded 6 vectors for paper-693
+[2026-09-08 07:34:33]   done: paper-693
+[2026-09-08 07:34:48] canon: 295 papers, max=693, tree=2c6c2123
+[2026-09-08 07:34:48]   push: paper-cowboy-20260908-073435-the-stall---a-cell-that-is-also-a-warning.md -> paper-694
+[2026-09-08 07:34:52]   embedded 7 vectors for paper-694
+[2026-09-08 07:34:52]   done: paper-694
+[2026-09-08 07:35:08] canon: 296 papers, max=694, tree=479caacb
+[2026-09-08 07:35:08]   push: paper-cowboy-20260908-073506-the-tail---a-cell-that-holds-the-aircraft-s-balance.md -> paper-695
+[2026-09-08 07:35:12]   embedded 6 vectors for paper-695
+[2026-09-08 07:35:12]   done: paper-695
+[2026-09-08 07:35:28] canon: 297 papers, max=695, tree=d69bab89
+[2026-09-08 07:35:43] canon: 297 papers, max=695, tree=d69bab89
+[2026-09-08 07:35:59] canon: 297 papers, max=695, tree=d69bab89
+[2026-09-08 07:36:15] canon: 297 papers, max=695, tree=d69bab89
+[2026-09-08 07:36:30] canon: 297 papers, max=695, tree=d69bab89
+[2026-09-08 07:36:30]   push: paper-cowboy-20260908-073629-the-navigation-lights---a-cell-that-tells-other-boats-where.md -> paper-696
+[2026-09-08 07:36:34]   embedded 7 vectors for paper-696
+[2026-09-08 07:36:35]   done: paper-696
+[2026-09-08 07:36:50] canon: 298 papers, max=696, tree=710f6fc0
+[2026-09-08 07:37:06] canon: 298 papers, max=696, tree=710f6fc0
+[2026-09-08 07:37:21] canon: 298 papers, max=696, tree=710f6fc0
+[2026-09-08 07:37:21]   push: paper-cowboy-20260908-073713-the-throttle---a-cell-that-controls-the-engine-s-power.md -> paper-697
+[2026-09-08 07:37:25]   embedded 6 vectors for paper-697
+[2026-09-08 07:37:25]   done: paper-697
+[2026-09-08 07:37:41] canon: 299 papers, max=697, tree=da471757
+[2026-09-08 07:37:56] canon: 299 papers, max=697, tree=da471757
+[2026-09-08 07:37:57]   push: paper-cowboy-20260908-073744-the-transponder---a-cell-that-answers-the-radar-s-question.md -> paper-698
+[2026-09-08 07:38:01]   embedded 7 vectors for paper-698
+[2026-09-08 07:38:01]   done: paper-698
+[2026-09-08 07:38:16] canon: 300 papers, max=698, tree=ea8ad523
+[2026-09-08 07:38:32] canon: 300 papers, max=698, tree=ea8ad523
+[2026-09-08 07:38:32]   push: paper-cowboy-20260908-073822-the-trim---a-cell-that-makes-the-aircraft-fly-straight-witho.md -> paper-699
+[2026-09-08 07:38:37]   embedded 7 vectors for paper-699
+[2026-09-08 07:38:37]   done: paper-699
+[2026-09-08 07:38:52] canon: 301 papers, max=699, tree=7ec19375
+[2026-09-08 07:38:52]   push: paper-cowboy-20260908-073846-the-turbulence---a-cell-that-is-the-air-s-disagreement-with.md -> paper-700
+[2026-09-08 07:38:56]   embedded 7 vectors for paper-700
+[2026-09-08 07:38:56]   done: paper-700
+[2026-09-08 07:39:12] canon: 302 papers, max=700, tree=9a784018
+[2026-09-08 07:39:12]   push: paper-cowboy-20260908-073911-the-vfr---a-cell-whose-value-is-the-rules-you-follow-when-yo.md -> paper-701
+[2026-09-08 07:39:16]   embedded 8 vectors for paper-701
+[2026-09-08 07:39:16]   done: paper-701
+[2026-09-08 07:39:31] canon: 303 papers, max=701, tree=31465a9f
+[2026-09-08 07:39:47] canon: 303 papers, max=701, tree=31465a9f
+[2026-09-08 07:39:47]   push: paper-cowboy-20260908-073939-the-outhaul---a-cell-that-pulls-the-foot-of-the-sail-out-to.md -> paper-702
+[2026-09-08 07:39:51]   embedded 7 vectors for paper-702
+[2026-09-08 07:39:51]   done: paper-702
+[2026-09-08 07:40:07] canon: 304 papers, max=702, tree=10663916
+[2026-09-08 07:40:07]   push: paper-cowboy-20260908-073957-the-vertical-speed-indicator---a-cell-that-measures-how-fast.md -> paper-703
+[2026-09-08 07:40:11]   embedded 8 vectors for paper-703
+[2026-09-08 07:40:12]   done: paper-703
+[2026-09-08 07:40:12]   push: paper-cowboy-20260908-074000-the-propeller---a-cell-that-pushes-the-boat-through-the-wate.md -> paper-704
+[2026-09-08 07:40:16]   embedded 7 vectors for paper-704
+[2026-09-08 07:40:16]   done: paper-704
+[2026-09-08 07:40:31] canon: 306 papers, max=704, tree=32778a32
+[2026-09-08 07:40:31]   push: paper-cowboy-20260908-074019-the-rode---a-cell-that-connects-the-anchor-to-the-boat.md -> paper-705
+[2026-09-08 07:40:36]   embedded 7 vectors for paper-705
+[2026-09-08 07:40:36]   done: paper-705
+[2026-09-08 07:40:36]   push: paper-cowboy-20260908-074022-the-vor---a-cell-whose-value-is-the-direction-of-a-ground-st.md -> paper-706
+[2026-09-08 07:40:40]   embedded 8 vectors for paper-706
+[2026-09-08 07:40:40]   done: paper-706
+[2026-09-08 07:40:55] canon: 308 papers, max=706, tree=e01c0452
+[2026-09-08 07:40:55]   push: paper-cowboy-20260908-074039-the-stern---a-cell-that-is-the-back-of-the-boat.md -> paper-707
+[2026-09-08 07:41:00]   embedded 7 vectors for paper-707
+[2026-09-08 07:41:00]   done: paper-707
+[2026-09-08 07:41:15] canon: 309 papers, max=707, tree=c169e616
+[2026-09-08 07:41:31] canon: 309 papers, max=707, tree=c169e616
+[2026-09-08 07:41:46] canon: 309 papers, max=707, tree=c169e616
+[2026-09-08 07:42:02] canon: 309 papers, max=707, tree=c169e616
+[2026-09-08 07:42:18] canon: 309 papers, max=707, tree=c169e616
+[2026-09-08 07:42:33] canon: 309 papers, max=707, tree=c169e616
+[2026-09-08 07:42:33]   push: paper-cowboy-20260908-074225-the-weather---a-cell-whose-value-is-the-air-s-current-state.md -> paper-708
+[2026-09-08 07:42:38]   embedded 6 vectors for paper-708
+[2026-09-08 07:42:38]   done: paper-708
+[2026-09-08 07:42:53] canon: 310 papers, max=708, tree=7213a071
+[2026-09-08 07:43:09] canon: 310 papers, max=708, tree=7213a071
+[2026-09-08 07:43:09]   push: paper-cowboy-20260908-074258-the-tiller---a-cell-that-turns-the-rudder-with-your-hand.md -> paper-709
+[2026-09-08 07:43:14]   embedded 10 vectors for paper-709
+[2026-09-08 07:43:14]   done: paper-709
+[2026-09-08 07:43:14]   push: paper-cowboy-20260908-074306-the-wing---a-cell-that-holds-the-aircraft-in-the-air.md -> paper-710
+[2026-09-08 07:43:18]   embedded 7 vectors for paper-710
+[2026-09-08 07:43:18]   done: paper-710
+[2026-09-08 07:43:34] canon: 312 papers, max=710, tree=7b729bca
+[2026-09-08 07:43:34]   push: paper-cowboy-20260908-074319-the-vhf-radio---a-cell-that-lets-you-talk-to-other-boats.md -> paper-711
+[2026-09-08 07:43:39]   embedded 7 vectors for paper-711
+[2026-09-08 07:43:39]   done: paper-711
+[2026-09-08 07:43:39]   push: paper-cowboy-20260908-074328-the-yoke---a-cell-that-is-the-captain-s-connection-to-the-ai.md -> paper-712
+[2026-09-08 07:43:44]   embedded 7 vectors for paper-712
+[2026-09-08 07:43:44]   done: paper-712
+[2026-09-08 07:44:00] canon: 314 papers, max=712, tree=129130a8
+[2026-09-08 07:44:00]   push: paper-cowboy-20260908-074346-the-watermaker---a-cell-that-turns-seawater-into-drinking-wa.md -> paper-713
+[2026-09-08 07:44:04]   embedded 7 vectors for paper-713
+[2026-09-08 07:44:04]   done: paper-713
+[2026-09-08 07:44:04]   push: paper-cowboy-20260908-074358-the-stall-warning-horn---a-cell-that-screams-before-the-wing.md -> paper-714
+[2026-09-08 07:44:08]   embedded 7 vectors for paper-714
+[2026-09-08 07:44:08]   done: paper-714
+[2026-09-08 07:44:23] canon: 316 papers, max=714, tree=ee3646f4
+[2026-09-08 07:44:23]   push: paper-cowboy-20260908-074404-the-winch---a-cell-that-gives-you-mechanical-advantage.md -> paper-715
+[2026-09-08 07:44:28]   embedded 7 vectors for paper-715
+[2026-09-08 07:44:28]   done: paper-715
+[2026-09-08 07:44:43] canon: 317 papers, max=715, tree=2315cdeb
+[2026-09-08 07:44:59] canon: 317 papers, max=715, tree=2315cdeb
+[2026-09-08 07:45:15] canon: 317 papers, max=715, tree=2315cdeb
+[2026-09-08 07:45:30] canon: 317 papers, max=715, tree=2315cdeb
+[2026-09-08 07:45:46] canon: 317 papers, max=715, tree=2315cdeb
+[2026-09-08 07:46:01] canon: 317 papers, max=715, tree=2315cdeb
+[2026-09-08 07:46:01]   push: paper-cowboy-20260908-074554-the-x-track---a-cell-that-is-the-line-you-want-to-follow.md -> paper-716
+[2026-09-08 07:46:06]   embedded 8 vectors for paper-716
+[2026-09-08 07:46:06]   done: paper-716
+[2026-09-08 07:46:22] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:46:37] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:46:53] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:47:08] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:47:24] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:47:39] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:47:55] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:48:11] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:48:26] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:48:42] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:48:57] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:49:13] canon: 318 papers, max=716, tree=e43821d7
+[2026-09-08 07:49:29] canon: 318 papers, max=716, tree=e43821d7

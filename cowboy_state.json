@@ -107,6 +107,972 @@
       "pushed": true,
       "embedded": true,
       "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-045711-the-sea-room---a-cell-whose-value-is-the-empty-space-around.md"
+    },
+    "2a82d0f870354c0c": {
+      "paper_num": 515,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-045810-the-storm-jib---a-sail-for-when-the-regular-sails-would-be-t.md"
+    },
+    "82d723c68a81ce67": {
+      "paper_num": 516,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-045914-the-shackle---a-cell-that-connects-two-things-and-lets-them.md"
+    },
+    "ad9f6661de7ffd28": {
+      "paper_num": 530,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-050009-the-waterline---a-cell-that-paints-itself-on-the-hull-at-the.md"
+    },
+    "22e631b0512a2a8f": {
+      "paper_num": 531,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-050212-the-clinometer---a-cell-that-asks--how-far-over-am-i---and-r.md"
+    },
+    "4e63b50ca8c7d60a": {
+      "paper_num": 533,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-050319-the-lee-shore---a-cell-whose-value-is-the-shore-you-don-t-wa.md"
+    },
+    "9632015640683b3b": {
+      "paper_num": 535,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-050434-the-nautical-almanac---a-cell-whose-value-is-the-position-of.md"
+    },
+    "26d3525ebf364cae": {
+      "paper_num": 537,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-050635-the-painter---a-cell-that-ties-the-dinghy-to-the-mother-ship.md"
+    },
+    "55828ec85fc264a7": {
+      "paper_num": 539,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-050854-the-rudder-post---a-cell-that-takes-the-captain-s-hand-on-th.md"
+    },
+    "efafecc40588277d": {
+      "paper_num": 542,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-051013-the-sea-anchor---a-cell-that-drags-in-the-water-to-slow-the.md"
+    },
+    "a6ad75cd8b745ca3": {
+      "paper_num": 544,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-051134-the-stern-light---a-cell-that-shines-only-backward--so-other.md"
+    },
+    "ba86dce79f3a8709": {
+      "paper_num": 546,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-051257-the-tide-gauge---a-cell-that-records-not-the-tide-but-the-ti.md"
+    },
+    "f523a3ad20fd0b11": {
+      "paper_num": 548,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-051406-the-wake---a-cell-that-is-created-by-the-boat-s-passage-and.md"
+    },
+    "9f4c3d59a79109f9": {
+      "paper_num": 550,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-051529-the-yardarm---a-cell-from-which-things-are-hung-high-above-t.md"
+    },
+    "dd369b51cd577a7e": {
+      "paper_num": 552,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-051710-the-breakwater---a-cell-that-is-built-to-be-hit--so-the-cell.md"
+    },
+    "ecd60bd1617f4a70": {
+      "paper_num": 554,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-051837-the-coaming---a-cell-that-raises-the-edge-of-a-hatch-so-wate.md"
+    },
+    "97dbdaa31c14ce27": {
+      "paper_num": 556,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-052008-the-davit---a-cell-that-holds-the-boat-s-small-boats-over-th.md"
+    },
+    "4dbe6af684060c1a": {
+      "paper_num": 557,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-052117-the-ebbing---a-cell-whose-value-is-the-rate-at-which-the-wat.md"
+    },
+    "96fd31899fe67a8c": {
+      "paper_num": 559,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-052222-the-fairway---a-cell-whose-value-is-the-path-through-a-chann.md"
+    },
+    "cb2dfbfec432d79f": {
+      "paper_num": 561,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-052339-the-gudgeon---a-cell-that-holds-a-pin-that-holds-a-rudder-th.md"
+    },
+    "d0f0a596a6806f4e": {
+      "paper_num": 563,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-052440-the-hawse-pipe---a-cell-through-which-the-anchor-chain-leave.md"
+    },
+    "05034362569d0ef1": {
+      "paper_num": 565,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-052611-the-island---a-cell-that-other-cells-orbit-but-never-reach.md"
+    },
+    "55a574537eb1b021": {
+      "paper_num": 567,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-052755-the-jackstay---a-cell-that-runs-the-length-of-the-deck-so-an.md"
+    },
+    "49982ae6b4ca1a0e": {
+      "paper_num": 569,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-052936-the-keel---a-cell-that-runs-the-length-of-the-hull-and-keeps.md"
+    },
+    "233c1c118539caa9": {
+      "paper_num": 571,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-053133-the-lee-board---a-cell-lowered-on-the-downwind-side-to-stop.md"
+    },
+    "7cecfa8c1844721d": {
+      "paper_num": 573,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-053315-the-mast-step---a-cell-that-holds-the-mast-in-place-and-tran.md"
+    },
+    "9988d49c96c20ab2": {
+      "paper_num": 574,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-053454-the-navigator-s-ruler---a-cell-used-to-measure-distance-on-a.md"
+    },
+    "a26ea1a218ac78c1": {
+      "paper_num": 575,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-053604-the-oarlock---a-cell-that-holds-the-oar-so-the-rower-can-pul.md"
+    },
+    "3e6494bb1cbacb0c": {
+      "paper_num": 576,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-053748-the-pinnacle---a-rock-that-just-below-the-surface-looks-like.md"
+    },
+    "9db71ecb99514e80": {
+      "paper_num": 577,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-053859-the-quay---a-cell-that-is-also-a-wall--and-also-a-place-to-t.md"
+    },
+    "12a2dce17b625c84": {
+      "paper_num": 579,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-054030-the-rosette---a-cell-whose-shape-is-a-flower-made-of-knot-wo.md"
+    },
+    "83a910d475ce4cfc": {
+      "paper_num": 580,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-054243-the-stanchion---a-cell-that-holds-a-lifeline--so-a-falling-c.md"
+    },
+    "ca3244cd48a555f3": {
+      "paper_num": 581,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-054422-the-thole-pin---a-cell-that-is-the-pivot-for-an-oar-when-the.md"
+    },
+    "87a834c91b580069": {
+      "paper_num": 582,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-054608-the-upwelling---a-cell-whose-value-is-cold-water-rising-from.md"
+    },
+    "b84da25c47398b2a": {
+      "paper_num": 583,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-054745-the-variation---a-cell-whose-value-is-the-difference-between.md"
+    },
+    "eded5bab56b06039": {
+      "paper_num": 584,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-054935-the-windward-mark---a-cell-at-the-upwind-edge-of-a-racecours.md"
+    },
+    "88fcfca69d4fe07e": {
+      "paper_num": 585,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-055101-the-xebec---a-small-three-masted-ship-that-could-sail-closer.md"
+    },
+    "60711aa4cc0b7398": {
+      "paper_num": 586,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-055201-the-yard---a-horizontal-spar-hung-from-a-mast--from-which-a.md"
+    },
+    "0089680e94f66a88": {
+      "paper_num": 587,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-055317-the-zephyr---a-cell-that-is-a-wind-so-light-it-can-be-told-f.md"
+    },
+    "8102ce64df279116": {
+      "paper_num": 588,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-055420-the-binnacle---a-cell-that-holds-the-compass-so-the-helmsman.md"
+    },
+    "883bf6079bd6318d": {
+      "paper_num": 589,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-055526-the-companionway---a-cell-that-is-a-stair-from-the-deck-to-t.md"
+    },
+    "c681667690ca93e2": {
+      "paper_num": 590,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-055619-the-dog---a-cell-that-holds-a-hatch-open-against-the-motion.md"
+    },
+    "ea03da3e0620a551": {
+      "paper_num": 591,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-055757-the-ensign---a-cell-that-is-a-flag--and-also-a-declaration-o.md"
+    },
+    "2131ee51e4c373c3": {
+      "paper_num": 592,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-055904-the-fathom-mark---a-cell-painted-on-the-anchor-chain-every-f.md"
+    },
+    "1160b775bf154fd6": {
+      "paper_num": 593,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-060208-the-galley-stove---a-cell-that-burns-and-cooks-and-heats-the.md"
+    },
+    "c6048cb071d4af3d": {
+      "paper_num": 594,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-060353-the-hatch-cover---a-cell-that-is-also-a-door--and-also-a-tab.md"
+    },
+    "018ded500200d648": {
+      "paper_num": 595,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-060609-the-inboard---a-cell-that-is-the-part-of-the-engine-inside-t.md"
+    },
+    "edc6254f9a4f90a8": {
+      "paper_num": 596,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-060742-the-jack---a-cell-that-is-a-flag-flown-from-the-bow-to-show.md"
+    },
+    "d45257acb65cc983": {
+      "paper_num": 597,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260907-060957-the-kedge-anchor---a-cell-that-is-a-small-anchor-for-a-small.md"
+    },
+    "e08694ea16070f9b": {
+      "paper_num": 598,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-045731-the-limber-hole---a-cell-that-lets-water-drain-to-the-bilge.md"
+    },
+    "6ec957901e286164": {
+      "paper_num": 599,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-045853-the-main-sheet---a-cell-that-controls-the-main-sail--and-is.md"
+    },
+    "470394eadff15e3a": {
+      "paper_num": 600,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-050019-the-navigator---a-cell-that-is-a-person--and-a-person-is-a-f.md"
+    },
+    "763c2c95f8986283": {
+      "paper_num": 601,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-050158-the-outhaul---a-cell-that-pulls-the-foot-of-the-sail-out-to.md"
+    },
+    "74bd7a92c54eec43": {
+      "paper_num": 602,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-050323-the-peak---a-cell-that-is-the-highest-point-of-a-gaff-rigged.md"
+    },
+    "7e32da122ca8341d": {
+      "paper_num": 603,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-050435-the-quarter---a-cell-that-is-the-side-of-a-boat-between-amid.md"
+    },
+    "2b5b7883f984077e": {
+      "paper_num": 604,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-050557-the-reef---a-cell-that-is-also-a-sail--and-also-a-knot--and.md"
+    },
+    "1f09d4ccaed2cf7f": {
+      "paper_num": 605,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-050717-the-shroud---a-cell-that-is-a-standing-rigging-that-holds-th.md"
+    },
+    "65e768f7f7f80eb4": {
+      "paper_num": 606,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-050834-the-telltale---a-cell-that-is-a-thread-tied-to-a-sail-so-the.md"
+    },
+    "c02b63d9a630d7de": {
+      "paper_num": 607,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-051005-the-uncleat---a-cell-whose-value-is-the-moment-the-line-is-r.md"
+    },
+    "55835b7627bef089": {
+      "paper_num": 608,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-051135-the-vang---a-cell-that-pulls-the-boom-down-when-the-wind-tri.md"
+    },
+    "be72ee88fdb5eadb": {
+      "paper_num": 609,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-051241-the-warp---a-cell-that-is-a-line-moved-from-one-boat-to-anot.md"
+    },
+    "e18424be045d8179": {
+      "paper_num": 610,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-051348-the-yawl---a-cell-that-is-a-small-boat-with-two-masts--the-s.md"
+    },
+    "e5bd1ed738c1bcb2": {
+      "paper_num": 611,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-051513-the-zinc---a-cell-that-is-a-metal-that-corrodes-instead-of-t.md"
+    },
+    "4071153be3bbf7c1": {
+      "paper_num": 612,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-051629-the-ebb---a-cell-whose-value-is-the-tide-going-out--and-also.md"
+    },
+    "aa3e88e06f673651": {
+      "paper_num": 613,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-051745-the-flood---a-cell-whose-value-is-the-tide-coming-in--and-th.md"
+    },
+    "6b2e63c76e5b1b3b": {
+      "paper_num": 614,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-051931-the-grounding---a-cell-whose-value-is-the-moment-a-boat-touc.md"
+    },
+    "45a45b5925ef4a22": {
+      "paper_num": 615,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-052109-the-halyard---a-cell-that-lifts-a-sail-up-the-mast--and-a-pe.md"
+    },
+    "61539c74809de8d4": {
+      "paper_num": 616,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-052224-the-inhaul---a-cell-that-pulls-a-sail-into-the-boat--opposit.md"
+    },
+    "a5e88048668db492": {
+      "paper_num": 617,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-052346-the-jackline---a-cell-that-runs-fore-and-aft-on-a-boat--so-a.md"
+    },
+    "caa32f2454b12c1d": {
+      "paper_num": 618,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-052535-the-knott---a-cell-whose-value-is-one-nautical-mile-per-hour.md"
+    },
+    "e8d27ff439e59a54": {
+      "paper_num": 619,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-052709-the-lanyard---a-cell-that-is-a-short-line-attached-to-anythi.md"
+    },
+    "ebdcae0e3d74a2b4": {
+      "paper_num": 620,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-052832-the-messenger---a-cell-that-is-a-light-line-used-to-pull-a-h.md"
+    },
+    "8da7d164bcbd57d1": {
+      "paper_num": 621,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-053005-the-oilskin---a-cell-that-is-a-coat--and-is-also-a-metaphor.md"
+    },
+    "8bdb3034bb9dcb0a": {
+      "paper_num": 622,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-053221-the-pinrail---a-cell-that-holds-the-pins-for-the-lines--so-t.md"
+    },
+    "988bc1f32f01370c": {
+      "paper_num": 623,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-053428-the-quay-wall---a-cell-that-is-a-wall--and-also-a-place-wher.md"
+    },
+    "e4adea30c3663418": {
+      "paper_num": 624,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-053617-the-rode---a-cell-that-is-the-line-between-the-boat-and-the.md"
+    },
+    "ed0681ec4971432c": {
+      "paper_num": 625,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-053739-the-sister---a-cell-that-is-a-clip-on-a-boat-that-holds-two.md"
+    },
+    "1b4e8eda299ed684": {
+      "paper_num": 626,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-053851-the-topping-lift---a-cell-that-holds-the-boom-up-when-the-sa.md"
+    },
+    "aa341c4e9f757bea": {
+      "paper_num": 627,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-054015-the-uphaul---a-cell-that-pulls-a-sail-up--the-opposite-of-a.md"
+    },
+    "c80411b177c073cb": {
+      "paper_num": 634,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-065717-the-aileron---a-cell-that-turns-the-wing-into-a-rudder.md"
+    },
+    "f37e2ad54f604f0e": {
+      "paper_num": 635,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-065833-the-altimeter---a-cell-whose-value-is-the-height-of-the-air.md"
+    },
+    "9995b5d28a9566da": {
+      "paper_num": 636,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070030-the-autopilot---a-cell-that-is-also-a-captain.md"
+    },
+    "1ba6b3c03f9008b2": {
+      "paper_num": 637,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070055-the-beacon---a-cell-whose-only-job-is-to-be-the-address.md"
+    },
+    "3470357324ddc5d4": {
+      "paper_num": 638,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070254-the-carburetor---a-cell-that-turns-fuel-into-flight.md"
+    },
+    "86f61ce999fc4006": {
+      "paper_num": 639,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070315-the-cargo-pod---a-cell-that-holds-the-payload-away-from-the.md"
+    },
+    "33217b395c59f824": {
+      "paper_num": 640,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070511-the-ceiling---a-cell-whose-value-is-the-height-you-cannot-go.md"
+    },
+    "d561993710aea7ea": {
+      "paper_num": 641,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070556-the-climb-rate---a-cell-that-measures-how-fast-you-are-gaini.md"
+    },
+    "a175166133bc308d": {
+      "paper_num": 642,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070717-the-cockpit---a-cell-that-is-the-bridge-between-the-captain.md"
+    },
+    "a6d50608b13fe8cb": {
+      "paper_num": 643,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070852-the-compass---a-cell-whose-value-is-the-direction-of-the-mag.md"
+    },
+    "f405c7487e2d37b5": {
+      "paper_num": 644,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070927-the-control-tower---a-cell-that-is-the-bridge-between-the-ca.md"
+    },
+    "2a26fba4b75c6429": {
+      "paper_num": 645,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070932-the-apollo-capsule---a-cell-that-survived-the-void.md"
+    },
+    "c5b624ba6ea1baef": {
+      "paper_num": 646,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-070956-the-ion-thruster---a-cell-that-moves-by-talking-to-the-sun.md"
+    },
+    "9763c41a1121ffff": {
+      "paper_num": 647,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071045-the-space-station---a-fabric-that-orbits.md"
+    },
+    "77b910d7c2f37277": {
+      "paper_num": 648,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071110-the-crosswind---a-cell-that-pushes-the-aircraft-sideways.md"
+    },
+    "7d90743ad5799b0d": {
+      "paper_num": 649,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071138-the-dead-reckoning---a-cell-whose-value-is-where-i-would-be.md"
+    },
+    "2574eb2dcb81a037": {
+      "paper_num": 650,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071210-the-descent---a-cell-whose-value-is-the-rate-at-which-you-ar.md"
+    },
+    "0b74c6bdb53196bc": {
+      "paper_num": 651,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071216-the-mars-rover---a-cell-that-wanders-another-world.md"
+    },
+    "d01c6f2bc397a799": {
+      "paper_num": 652,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071237-the-elevator---a-cell-that-makes-the-nose-go-up-or-down.md"
+    },
+    "1a92ed43073f447b": {
+      "paper_num": 653,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071239-the-astronaut-s-glove---a-cell-that-holds-the-vacuum-back.md"
+    },
+    "f6216d8d9245cffc": {
+      "paper_num": 654,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071301-the-engine---a-cell-that-turns-fuel-into-flight.md"
+    },
+    "eaf619f0a62365aa": {
+      "paper_num": 655,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071353-the-satellite-dish---a-cell-that-listens-to-the-sky.md"
+    },
+    "fb0a01087fe985c5": {
+      "paper_num": 656,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071418-the-lunar-lander---a-cell-that-touches-down-softly.md"
+    },
+    "c62ff1edbd83e9c9": {
+      "paper_num": 657,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071419-the-flaps---a-cell-that-changes-the-shape-of-the-wing.md"
+    },
+    "4a8ef514999a490e": {
+      "paper_num": 658,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071440-the-hubble-telescope---a-cell-that-looks-back-in-time.md"
+    },
+    "0ab18b3687cc89d7": {
+      "paper_num": 659,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071446-the-flight-level---a-cell-whose-value-is-a-pressure-altitude.md"
+    },
+    "b7050b80117a586a": {
+      "paper_num": 660,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071515-the-rocket-equation---a-cell-that-decides-what-flies.md"
+    },
+    "82dda8c9398f8db2": {
+      "paper_num": 661,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071541-the-spacesuit-s-cooling-system---a-cell-that-fights-the-sun.md"
+    },
+    "af67e077eff13dda": {
+      "paper_num": 662,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071605-the-fuel---a-cell-whose-value-is-the-energy-you-have-left.md"
+    },
+    "3b64728f20d63fdc": {
+      "paper_num": 663,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072000-the-live-canon-is-now-the-live-worker---paper-657.md"
+    },
+    "bb488c50fa2e0d9e": {
+      "paper_num": 664,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071635-the-glide-ratio---a-cell-that-measures-how-far-you-can-go-wi.md"
+    },
+    "b478cc72426f28aa": {
+      "paper_num": 665,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071801-the-hangar---a-cell-that-holds-the-aircraft-when-it-is-not-f.md"
+    },
+    "8a11c824021c85ed": {
+      "paper_num": 666,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071841-the-heading-indicator---a-cell-that-points-to-the-direction.md"
+    },
+    "26c541247977f7db": {
+      "paper_num": 667,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071902-the-horizontal-stabilizer---a-cell-that-keeps-the-nose-from.md"
+    },
+    "dbe0ea0abc123405": {
+      "paper_num": 668,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-071927-the-ifr---a-cell-whose-value-is-the-rules-you-follow-when-yo.md"
+    },
+    "824122532df714bd": {
+      "paper_num": 669,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072003-the-jet-stream---a-cell-whose-value-is-a-fast-moving-river-o.md"
+    },
+    "432d2061a7170fb5": {
+      "paper_num": 670,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072029-the-landing-gear---a-cell-that-holds-the-aircraft-off-the-gr.md"
+    },
+    "7375c7416dcc8d22": {
+      "paper_num": 671,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072100-the-manifold-pressure---a-cell-that-measures-how-hard-the-en.md"
+    },
+    "13efa26dda73455a": {
+      "paper_num": 672,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072109-the-anchor---a-cell-that-holds-the-boat-to-the-bottom.md"
+    },
+    "ef91f5c995dc515f": {
+      "paper_num": 673,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072126-the-metar---a-cell-whose-value-is-the-current-weather-at-the.md"
+    },
+    "9ce6f31c2871bd69": {
+      "paper_num": 674,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072149-the-navigation-log---a-cell-that-records-where-you-have-been.md"
+    },
+    "2ade9def1ce99bee": {
+      "paper_num": 675,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072220-the-notam---a-cell-that-is-also-a-warning.md"
+    },
+    "2c73e429d33cff81": {
+      "paper_num": 676,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072253-the-bilge-pump---a-cell-that-keeps-the-boat-from-sinking.md"
+    },
+    "aec5fe4a15d67a0d": {
+      "paper_num": 677,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072338-the-pitot-tube---a-cell-that-measures-the-speed-of-the-air.md"
+    },
+    "3ad41dffa6a63e6c": {
+      "paper_num": 678,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072400-the-preflight-check---a-cell-that-is-also-a-ritual.md"
+    },
+    "1ab4183dc41e1a51": {
+      "paper_num": 679,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072403-the-chartplotter---a-cell-that-draws-the-map-as-you-sail.md"
+    },
+    "d2ada1a668568d41": {
+      "paper_num": 680,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072426-the-propeller---a-cell-that-turns-the-engine-s-power-into-th.md"
+    },
+    "73171c59ba6b6619": {
+      "paper_num": 681,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072602-the-diesel-engine---a-cell-that-turns-fuel-into-motion.md"
+    },
+    "0ec6f0ebf2e16206": {
+      "paper_num": 682,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072634-the-radar---a-cell-that-sees-the-weather-and-the-traffic.md"
+    },
+    "9a90366058487b13": {
+      "paper_num": 683,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072641-the-epirb---a-cell-that-calls-for-help-when-everything-else.md"
+    },
+    "3987619ec187f3c5": {
+      "paper_num": 684,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072805-the-fathometer---a-cell-that-measures-the-depth-of-the-water.md"
+    },
+    "8d46817804ee0381": {
+      "paper_num": 685,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-072810-the-radio---a-cell-that-is-the-bridge-between-the-captain-an.md"
+    },
+    "2c93a5ecebbb87e1": {
+      "paper_num": 686,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073023-the-galley---a-cell-that-cooks-while-the-boat-moves.md"
+    },
+    "69c22982b90468ba": {
+      "paper_num": 687,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073032-the-rudder---a-cell-that-turns-the-nose-left-or-right.md"
+    },
+    "ae28d05df571f97e": {
+      "paper_num": 688,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073055-the-headsail---a-cell-that-catches-the-wind-ahead-of-the-mas.md"
+    },
+    "dc64b0deb75134a4": {
+      "paper_num": 689,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073102-the-runway---a-cell-that-is-the-bridge-between-the-air-and-t.md"
+    },
+    "8280ea7081f676f0": {
+      "paper_num": 690,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073139-the-keel---a-cell-that-keeps-the-boat-from-sliding-sideways.md"
+    },
+    "f7fb3423a5555a56": {
+      "paper_num": 691,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073346-the-saturation---a-cell-that-is-the-difference-between-the-a.md"
+    },
+    "d6e6c0de8f85ce8e": {
+      "paper_num": 692,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073412-the-squawk---a-cell-whose-value-is-the-aircraft-s-identity.md"
+    },
+    "a8c706cd62138f79": {
+      "paper_num": 693,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073418-the-mast---a-cell-that-holds-the-sail-up-to-the-wind.md"
+    },
+    "9ee8aa1705517415": {
+      "paper_num": 694,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073435-the-stall---a-cell-that-is-also-a-warning.md"
+    },
+    "474d84668bf66f6f": {
+      "paper_num": 695,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073506-the-tail---a-cell-that-holds-the-aircraft-s-balance.md"
+    },
+    "f1f67ef2052ef03a": {
+      "paper_num": 696,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073629-the-navigation-lights---a-cell-that-tells-other-boats-where.md"
+    },
+    "833ba81c387a2efd": {
+      "paper_num": 697,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073713-the-throttle---a-cell-that-controls-the-engine-s-power.md"
+    },
+    "59ad1016f000bdd7": {
+      "paper_num": 698,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073744-the-transponder---a-cell-that-answers-the-radar-s-question.md"
+    },
+    "46c222bb027a34a2": {
+      "paper_num": 699,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073822-the-trim---a-cell-that-makes-the-aircraft-fly-straight-witho.md"
+    },
+    "b7195c8b202be4ba": {
+      "paper_num": 700,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073846-the-turbulence---a-cell-that-is-the-air-s-disagreement-with.md"
+    },
+    "08f6615b65661f03": {
+      "paper_num": 701,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073911-the-vfr---a-cell-whose-value-is-the-rules-you-follow-when-yo.md"
+    },
+    "6af6bffbfdf15171": {
+      "paper_num": 702,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073939-the-outhaul---a-cell-that-pulls-the-foot-of-the-sail-out-to.md"
+    },
+    "0944ca7f5b32cd6e": {
+      "paper_num": 703,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-073957-the-vertical-speed-indicator---a-cell-that-measures-how-fast.md"
+    },
+    "fe30dda1443b027d": {
+      "paper_num": 704,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074000-the-propeller---a-cell-that-pushes-the-boat-through-the-wate.md"
+    },
+    "7d115741e9d4eb4a": {
+      "paper_num": 705,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074019-the-rode---a-cell-that-connects-the-anchor-to-the-boat.md"
+    },
+    "75d4e51f341ccbdc": {
+      "paper_num": 706,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074022-the-vor---a-cell-whose-value-is-the-direction-of-a-ground-st.md"
+    },
+    "9bc28bedd70e44eb": {
+      "paper_num": 707,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074039-the-stern---a-cell-that-is-the-back-of-the-boat.md"
+    },
+    "3933a88e77bd5ec0": {
+      "paper_num": 708,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074225-the-weather---a-cell-whose-value-is-the-air-s-current-state.md"
+    },
+    "672d536aae28b2f5": {
+      "paper_num": 709,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074258-the-tiller---a-cell-that-turns-the-rudder-with-your-hand.md"
+    },
+    "3e2086be6d28ee25": {
+      "paper_num": 710,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074306-the-wing---a-cell-that-holds-the-aircraft-in-the-air.md"
+    },
+    "6e4179f942828e2d": {
+      "paper_num": 711,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074319-the-vhf-radio---a-cell-that-lets-you-talk-to-other-boats.md"
+    },
+    "f8a0d7078cf93871": {
+      "paper_num": 712,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074328-the-yoke---a-cell-that-is-the-captain-s-connection-to-the-ai.md"
+    },
+    "3d3c376f3f76dcf6": {
+      "paper_num": 713,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074346-the-watermaker---a-cell-that-turns-seawater-into-drinking-wa.md"
+    },
+    "d1eb625049f85f19": {
+      "paper_num": 714,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074358-the-stall-warning-horn---a-cell-that-screams-before-the-wing.md"
+    },
+    "0c3eece672387fa6": {
+      "paper_num": 715,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074404-the-winch---a-cell-that-gives-you-mechanical-advantage.md"
+    },
+    "57474ec2c53b337d": {
+      "paper_num": 716,
+      "pushed": true,
+      "embedded": true,
+      "path": "/workspace/quilt-cowboy/cowboy_papers/paper-cowboy-20260908-074554-the-x-track---a-cell-that-is-the-line-you-want-to-follow.md"
     }
   },
   "next_num": null,
