@@ -252,6 +252,7 @@ VOICE_POOL = [
     ("zai_coding", "glm-4.5", "ZAI-4.5"),
     ("zai_coding", "glm-4.6", "ZAI-4.6"),
     ("zai_coding", "glm-4.5-air", "ZAI-air"),  # new, faster
+    ("zai_coding", "glm-zero-preview", "ZAI-zero"),  # preview, content-rich
     # NEW: Kimi K2.7-Code via DeepInfra (returns full content for non-philosophical tasks)
     ("kimi_code", "moonshotai/Kimi-K2.7-Code", "Kimi"),
     ("kimi_code", "moonshotai/Kimi-K2-Instruct", "Kimi-K2"),
