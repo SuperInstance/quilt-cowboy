@@ -13,6 +13,24 @@
   <img src="docs/images/hero-quilt-cowboy.svg" width="640" alt="A frontier cowboy at dawn on a horse, holding a leather-bound ledger; in the sky above, a faint hash-chained trail of glowing notches (morning, retire, promote, note) arcs from yesterday's sunset on the left to today's sunrise on the right; below, the cowboy's shadow reaches for a fence labeled wilson.json, linucb.json, cowboy.jsonl">
 </p>
 
+## The JEV Substance Gate
+
+The admission proxy used to be length alone: a paper over 300 chars
+entered the canon. `RD_QUILT_3_0.md` admits the stand-in. This branch
+replaces it with the fleet's substance noul, sourced from
+**SuperInstance/jev-quilt** (protocol + 0.6 admit threshold) and judged
+live through any duck-typed backend exposing `available()` +
+`decide_batch()` — `jev_quilt`'s `TypeSafeBackend` satisfies it directly.
+
+```bash
+python3 -m unittest tests.test_jev_substance_gate -v   # 11 pins
+```
+
+Every `cowboy_worklog_v3.jsonl` entry now carries `jev_substance` and
+`jev_admitted`. Default is meter mode (refused papers are flagged, not
+silenced — abstention is not condemnation). Set `COWBOY_JEV_ENFORCE=1`
+to hard-hold: refused papers are not canon-logged at all.
+
 ## Read This If You Are New
 
 Skip everything below the **TL;DR** and just do this:
