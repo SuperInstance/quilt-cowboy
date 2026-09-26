@@ -20,6 +20,7 @@ COWBOY_JEV_ENFORCE=1 to hard-hold papers the gate refuses.
 from __future__ import annotations
 
 import os
+import sys
 from dataclasses import dataclass, field
 from typing import Any, List, Optional, Protocol
 
@@ -53,12 +54,24 @@ class GateVerdict:
 
 
 def _default_backend() -> Optional[SubstanceBackend]:
-    """jev_quilt's TypeSafeBackend if installed; None otherwise."""
+    """jev_quilt's TypeSafeBackend if reachable: installed package first,
+    then a JEV_QUILT_PATH checkout (fleet convention). None otherwise."""
     try:
         from jev_quilt.typesafe_client import TypeSafeBackend  # type: ignore
         return TypeSafeBackend()
     except Exception:
-        return None
+        pass
+    checkout = os.environ.get("JEV_QUILT_PATH")
+    if checkout:
+        try:
+            sys_path_inserted = checkout not in sys.path
+            if sys_path_inserted:
+                sys.path.insert(0, checkout)
+            from jev_quilt.typesafe_client import TypeSafeBackend  # type: ignore
+            return TypeSafeBackend()
+        except Exception:
+            return None
+    return None
 
 
 def judge(text: str, backend: Optional[SubstanceBackend] = None,
