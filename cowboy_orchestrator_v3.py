@@ -637,6 +637,23 @@ def adversarial_writers_room(topic: str, max_total_s: int = 180, log_to: Path = 
         "timestamp": datetime.utcnow().isoformat() + "Z",
     }
 
+    # JEV substance gate (jev-quilt doctrine): replaces the length-only proxy
+    # with live substance judgment. Meter mode by default — refused papers are
+    # flagged jev_admitted=False in the log; COWBOY_JEV_ENFORCE=1 hard-holds
+    # them (worklog entry skipped entirely).
+    try:
+        from jev_substance_gate import gate_out
+        verdict = gate_out(out)
+        if verdict.enforced and not verdict.admitted:
+            print(f"  [jev-gate] HELD at {verdict.mean_substance:.2f} "
+                  f"(threshold {verdict.threshold}) — not canon-logged",
+                  file=sys.stderr)
+            return out
+    except ImportError:
+        out["jev_substance"] = None
+        out["jev_admitted"] = None
+        out["jev_backend"] = "unavailable"
+
     # Persist log (trimmed; no full paper content)
     with open(log_to, "a") as f:
         log_entry = {
@@ -645,6 +662,8 @@ def adversarial_writers_room(topic: str, max_total_s: int = 180, log_to: Path = 
             "synth_provider": out["synth_provider"],
             "synth_time_s": out["synth_time_s"],
             "synthesis_len": out["synthesis_len"],
+            "jev_substance": out.get("jev_substance"),
+            "jev_admitted": out.get("jev_admitted"),
             "total_time_s": out["total_time_s"],
             "timestamp": out["timestamp"],
             "adversarial_pair": (
